@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+
+  display: flex;
+  justify-content: center;
+}
+
+.titre {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  background-color: white;
+  padding: 20px;
+}
+
+.lang-menu {
+  display: flex;
+  justify-content: center;
+  background-color: lightgreen;
+}
+
+.texte {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
