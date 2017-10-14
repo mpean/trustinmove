@@ -1,9 +1,9 @@
 {
   "name": "trustinmove",
   "version": "0.0.1",
-  "description": "Trust in move website",
+  "description": "Trust in Move website",
   "main": "index.js",
-  "author": "Trust in move",
+  "author": "Trust in Move",
   "private": true,
   "license": "ISC",
   "homepage": "https://github.com/mpean/trustinmove#readme",
@@ -20,7 +20,7 @@
   "keywords": [
     "Trust",
     "in",
-    "move",
+    "Move",
     "website"
   ],
   "bugs": {
