@@ -14,7 +14,6 @@ body {
   display: flex;
   flex-direction: column;
   background-color: white;
-  /*padding: 20px;*/
 }
 
 .lang-menu {
@@ -26,5 +25,4 @@ body {
 .texte {
   display: flex;
   justify-content: space-between;
-  /*margin-top: 20px;*/
 }
