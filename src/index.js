@@ -1,3 +1,7 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './bootstrap';
+import './index.css';
+
 "use strict";
 
 var content = {
@@ -16,8 +20,6 @@ var content = {
 };
 
 var lang = 'en';
-displayLanguage(lang);
-
 function displayLanguage (language) {
   lang = language;
 
@@ -25,6 +27,9 @@ function displayLanguage (language) {
     setText(item);
   }
 }
+window.displayLanguage = displayLanguage;
+
+displayLanguage(lang);
 
 function setText (id) {
   document.getElementById(id).innerHTML = content[id][lang];
