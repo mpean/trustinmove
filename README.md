@@ -11,6 +11,6 @@ npm install
 # serve at localhost:8181
 npm start
 
-# build for staging
+# build for prod
 npm run build
 ```

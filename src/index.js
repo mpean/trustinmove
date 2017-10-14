@@ -1,3 +1,7 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './bootstrap';
+import './index.css';
+
 "use strict";
 
 var content = {

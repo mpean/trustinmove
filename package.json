@@ -11,7 +11,11 @@
     "node": ">=8.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "node ./live-server.js",
+    "local": "webpack && npm run serve & webpack --watch",
+    "dev": "webpack -d && npm run serve & webpack -d --watch",
+    "build": "webpack -p",
+    "start": "npm run dev"
   },
   "repository": {
     "type": "git",
