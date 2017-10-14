@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+
+  display: flex;
+  justify-content: center;
+}
+
+.titre {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.lang-menu {
+  display: flex;
+  justify-content: center;
+  background-color: lightgreen;
+}
+
+.texte {
+  display: flex;
+  justify-content: space-between;
+}
