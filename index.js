@@ -10,7 +10,7 @@ var content = {
     'en': 'This is a text.'
   },
   'lorem': {
-    'fr': 'Pellentesque fermentum ante sed nisi placerat convallis. Etiam id tempus est. Pellentesque dictum risus quis neque feugiat, ut suscipit nisi viverra. In aliquet dolor a elit pulvinar interdum. Donec fermentum ipsum vitae orci vehicula interdum. Ut egestas velit vehicula, lacinia justo quis, cursus quam. Proin accumsan leo augue, ut hendrerit tellus scelerisque a. Mauris ac posuere ipsum. Maecenas ex metus, porta et ipsum et, gravida pellentesque sem. Pellentesque porta cursus velit, vitae bibendum nulla. Vestibulum dignissim pulvinar pretium. Pellentesque scelerisque lectus vitae eros consequat, sit amet gravida orci vestibulum. Morbi facilisis sem vel porttitor efficitur. Pellentesque pharetra maximus augue, at scelerisque est egestas non.',
+    'fr': 'Trust in Move accompagne les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement. Parce que nous vivons dans un monde en mouvement et savoir en tirer bénéfice est une des clefs du succès. ',
     'en': 'Mauris vitae bibendum arcu. Donec et mi rutrum, euismod felis vel, varius sem. Phasellus efficitur rhoncus purus in suscipit. Integer quis blandit est, eu eleifend est. Sed molestie purus ex, sed sagittis leo aliquam quis. Aenean et tincidunt orci, vel efficitur mi. Vestibulum placerat mi diam, eu lacinia augue posuere et. Maecenas dictum ullamcorper aliquam. Sed non ligula quam. Suspendisse libero augue, ullamcorper ac placerat vitae, dignissim ac mauris.'
   }
 };
