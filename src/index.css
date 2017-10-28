@@ -1,8 +1,5 @@
 body {
   background-color: white;
-
-  display: flex;
-  justify-content: center;
 }
 
 .titre {
@@ -11,8 +8,7 @@ body {
 }
 
 .content {
-  display: flex;
-  flex-direction: column;
+  grid-column: 2 / 3;
   background-color: white;
 }
 
@@ -26,3 +22,9 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.main-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
