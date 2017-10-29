@@ -17,7 +17,7 @@ const config = {
       { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' },
       { test: /\.(html)$/, loader: 'html-loader' },
       { test: /\.css$/, loader: [ 'style-loader', 'css-loader' ] },
-      { test: /\.(png|woff|woff2|eot|ttf|svg)$/, loader: 'url-loader' }
+      { test: /\.(png|woff|woff2|eot|ttf|svg|jpg)$/, loader: 'url-loader' }
     ]
   },
   plugins: [

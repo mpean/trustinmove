@@ -7,6 +7,11 @@ body {
   justify-content: center;
 }
 
+.titre > img {
+  max-height: 100px;
+  width: auto;
+}
+
 .content {
   grid-column: 2 / 3;
   background-color: white;
@@ -15,7 +20,7 @@ body {
 .lang-menu {
   display: flex;
   justify-content: center;
-  background-color: lightgreen;
+  background-color: #e3001e;
 }
 
 .texte {
