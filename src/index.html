@@ -11,7 +11,6 @@
       <button type="button" class="btn btn-secondary" onclick="displayLanguage('en')">en</button>
       <button type="button" class="btn btn-secondary" onclick="displayLanguage('fr')">fr</button>
       <button type="button" class="btn btn-secondary" onclick="displayLanguage('de')">de</button>
-      <button type="button" class="btn btn-secondary" onclick="displayLanguage('sp')">sp</button>
     </div>
   </div>
 </div>
@@ -20,19 +19,33 @@
 
 <div class="main-layout">
   <div class="content">
-    <h1 id="bienvenue">bienvenue</h1>
-    <h2 id="construction">construction</h2>
-    <hr>
-    <p id="intro" class="texte lead">intro</p>
-    <br>
-    <p id="contact" class="texte lead">contact</p>
+    <div class="jumbotron">
+      <h1 id="bienvenue">bienvenue</h1>
+
+      <hr class="my-4">
+
+      <p id="intro" class="lead">intro</p>
+    </div>
+
+      <p id="contact" class="lead">contact</p>
+        <p><i class="fa fa-envelope"></i> sylvie@trustinmove.com</p>
+        <p><i class="fa fa-phone"></i> +33 69 82 47 832</p>
+
   </div>
+
 </div>
 
 <hr class="coloredback">
 
 <div class="main-layout">
   <div class="footer">
-    <input type="button" class="btn btn-link" value="contact@trustinmove.com"/>
+    <div class="btn-group btn-group-lg" role="group">
+      <a class="btn btn-link btn-lg" href="https://fr.linkedin.com/company/trustinmove" role="button" target="_blank"><i
+        class="fa fa-linkedin"></i></a>
+      <a class="btn btn-link btn-lg" href="mailto:sylvie@trustinmove.com" role="button"><i
+        class="fa fa-envelope"></i></a>
+      <a class="btn btn-link btn-lg" href="tel:+33698247832" role="button"><i
+        class="fa fa-phone"></i></a>
+    </div>
   </div>
 </div>
