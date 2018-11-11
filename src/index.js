@@ -25,16 +25,16 @@ let content = {
     "sp": "Que peut Trust in Move pour moi ?"
   },
   "acceuilTexte2": {
-    "en": "Développer mon entreprise à l’international.",
-    "fr": "Développer mon entreprise à l’international.",
-    "de": "Développer mon entreprise à l’international.",
-    "sp": "Développer mon entreprise à l’international."
+    "en": "Développer mon entreprise à l’international",
+    "fr": "Développer mon entreprise à l’international",
+    "de": "Développer mon entreprise à l’international",
+    "sp": "Développer mon entreprise à l’international"
   },
   "acceuilTexte3": {
-    "en": "Formation à l’internationalisation des PME.",
-    "fr": "Formation à l’internationalisation des PME.",
-    "de": "Formation à l’internationalisation des PME.",
-    "sp": "Formation à l’internationalisation des PME."
+    "en": "Formation à l’internationalisation des PME",
+    "fr": "Formation à l’internationalisation des PME",
+    "de": "Formation à l’internationalisation des PME",
+    "sp": "Formation à l’internationalisation des PME"
   },
 
   "a1Title": {
@@ -99,6 +99,49 @@ let content = {
     "sp": "Toutes nos prestations peuvent être réalisées entièrement en Français, Anglais, Allemand ou Espagnol."
   },
   "a2Contact": {
+    "en": "Contactez-nous dès aujourd'hui pour en savoir plus !",
+    "fr": "Contactez-nous dès aujourd'hui pour en savoir plus !",
+    "de": "Contactez-nous dès aujourd'hui pour en savoir plus !",
+    "sp": "Contactez-nous dès aujourd'hui pour en savoir plus !"
+  },
+
+  "a3Title": {
+    "en": "Accompagnement au changement",
+    "fr": "FAccompagnement au changement",
+    "de": "Accompagnement au changement",
+    "sp": "Accompagnement au changement"
+  },
+  "a3Texte1": {
+    "en": "Parce que l'international nécessite parfois des <strong>transformations en profondeur</strong> des organisations, Trust in Move a développé des solutions d'accompagnement au changement.",
+    "fr": "Parce que l'international nécessite parfois des <strong>transformations en profondeur</strong> des organisations, Trust in Move a développé des solutions d'accompagnement au changement.",
+    "de": "Parce que l'international nécessite parfois des <strong>transformations en profondeur</strong> des organisations, Trust in Move a développé des solutions d'accompagnement au changement.",
+    "sp": "Parce que l'international nécessite parfois des <strong>transformations en profondeur</strong> des organisations, Trust in Move a développé des solutions d'accompagnement au changement."
+  },
+  "a3Texte2": {
+    "en": "A l'aide de différentes solutions d'<strong>intelligence collective</strong>, de facilitation de réunion, de co-développement, ou de techniques d'improvisation théâtrale, Trust in Move aide vos équipes à changer pour que votre stratégie pour demain devienne réalité dès aujourd'hui.",
+    "fr": "A l'aide de différentes solutions d'<strong>intelligence collective</strong>, de facilitation de réunion, de co-développement, ou de techniques d'improvisation théâtrale, Trust in Move aide vos équipes à changer pour que votre stratégie pour demain devienne réalité dès aujourd'hui.",
+    "de": "A l'aide de différentes solutions d'<strong>intelligence collective</strong>, de facilitation de réunion, de co-développement, ou de techniques d'improvisation théâtrale, Trust in Move aide vos équipes à changer pour que votre stratégie pour demain devienne réalité dès aujourd'hui.",
+    "sp": "A l'aide de différentes solutions d'<strong>intelligence collective</strong>, de facilitation de réunion, de co-développement, ou de techniques d'improvisation théâtrale, Trust in Move aide vos équipes à changer pour que votre stratégie pour demain devienne réalité dès aujourd'hui."
+  },
+  "a3Texte3": {
+    "en": "Basé à Nantes, Trust in Move travaille pour tout type de structures en France ou à l'étranger.",
+    "fr": "Basé à Nantes, Trust in Move travaille pour tout type de structures en France ou à l'étranger.",
+    "de": "Basé à Nantes, Trust in Move travaille pour tout type de structures en France ou à l'étranger.",
+    "sp": "Basé à Nantes, Trust in Move travaille pour tout type de structures en France ou à l'étranger."
+  },
+  "a3Texte4": {
+    "en": "Notre plus-value est l'<strong>écoute</strong> de votre projet et de vos équipes pour mieux faire coïncider l'un avec la réalité de celles-ci.",
+    "fr": "Notre plus-value est l'<strong>écoute</strong> de votre projet et de vos équipes pour mieux faire coïncider l'un avec la réalité de celles-ci.",
+    "de": "Notre plus-value est l'<strong>écoute</strong> de votre projet et de vos équipes pour mieux faire coïncider l'un avec la réalité de celles-ci.",
+    "sp": "Notre plus-value est l'<strong>écoute</strong> de votre projet et de vos équipes pour mieux faire coïncider l'un avec la réalité de celles-ci."
+  },
+  "a3Texte5": {
+    "en": "Accompagnement ponctuel ou sur la durée, nous intervenons quand vous le décidez et à votre rythme.",
+    "fr": "Accompagnement ponctuel ou sur la durée, nous intervenons quand vous le décidez et à votre rythme.",
+    "de": "Accompagnement ponctuel ou sur la durée, nous intervenons quand vous le décidez et à votre rythme.",
+    "sp": "Accompagnement ponctuel ou sur la durée, nous intervenons quand vous le décidez et à votre rythme."
+  },
+  "a3Contact": {
     "en": "Contactez-nous dès aujourd'hui pour en savoir plus !",
     "fr": "Contactez-nous dès aujourd'hui pour en savoir plus !",
     "de": "Contactez-nous dès aujourd'hui pour en savoir plus !",

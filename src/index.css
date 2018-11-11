@@ -95,10 +95,11 @@ strong {
 .btn-primary {
   background-color: var(--dark-orange);
   border-color: var(--dark-orange);
+  color: var(--chocotaupe);
 }
 .btn-primary:hover {
   background-color: black;
-  border-color: black;
+  border-color: var(--dark-orange);
 }
 
 .btn-secondary {
