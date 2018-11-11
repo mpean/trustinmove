@@ -1,3 +1,16 @@
+:root {
+  --dark-orange: #F0B142;
+  --chocotaupe: #7b5f5c;
+}
+
+body {
+  font-family: karla, Arial, Helvetica, sans-serif
+}
+
+p {
+  color: var(--chocotaupe);
+}
+
 .header {
   grid-column: 2 / 3;
 
@@ -6,6 +19,10 @@
 
   margin-top: 1em;
   margin-bottom: 1em;
+
+  background-color: var(--dark-orange);
+
+  border-radius: 0.3rem;
 }
 
 .header > img {
@@ -16,6 +33,75 @@
 .main-layout {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
+}
+
+.lang-menu {
+  grid-column: 2 / 3;
+
+  display: flex;
+  justify-content: center;
+}
+.content {
+  grid-column: 2 / 3;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.footer {
+  grid-column: 2 / 3;
+
+  display: flex;
+  justify-content: center;
+
+  background-color: var(--dark-orange);
+
+  margin-bottom: 1em;
+  margin-top: 1em;
+
+  border-radius: 0.3rem;
+}
+
+.texte {
+  display: flex;
+  justify-content: space-between;
+}
+
+.jumbotron {
+  background-color: var(--chocotaupe);
+  border-color: var(--chocotaupe);
+}
+.jumbotron>p {
+  color: white;
+}
+.jumbotron>h1 {
+  color: white;
+}
+
+.btn-secondary {
+  background-color: var(--chocotaupe);
+  border-color: var(--chocotaupe);
+}
+.btn-secondary:hover {
+  background-color: var(--dark-orange);
+  border-color: var(--dark-orange);
+}
+.btn-secondary:focus {
+  background-color: var(--dark-orange);
+  border-color: var(--dark-orange);
+}
+
+.btn-link {
+  color: var(--chocotaupe);
+}
+.btn-link:hover {
+  color: white;
+}
+.btn-link:focus {
+  color: white;
+}
+
+hr {
+  background-color: var(--dark-orange);
 }
 
 @media only screen and (min-width: 1200px) {
@@ -64,40 +150,3 @@
     width: auto;
   }
 }
-
-.content {
-  grid-column: 2 / 3;
-  margin-top: 3em;
-  margin-bottom: 2em;
-}
-
-.lang-menu {
-  grid-column: 2 / 3;
-
-  display: flex;
-  justify-content: center;
-}
-
-.footer {
-  grid-column: 2 / 3;
-
-  display: flex;
-  justify-content: center;
-
-  margin-bottom: 1em;
-  margin-top: -1em;
-}
-
-.texte {
-  display: flex;
-  justify-content: space-between;
-}
-
-.coloredback {
-  background-color: #e3001e;
-}
-
-.darkback {
-  background-color: #bcbcbf;
-}
-
