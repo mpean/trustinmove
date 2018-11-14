@@ -107,7 +107,7 @@ let content = {
 
   "a3Title": {
     "en": "Accompagnement au changement",
-    "fr": "FAccompagnement au changement",
+    "fr": "Accompagnement au changement",
     "de": "Accompagnement au changement",
     "sp": "Accompagnement au changement"
   },
@@ -146,6 +146,55 @@ let content = {
     "fr": "Contactez-nous dès aujourd'hui pour en savoir plus !",
     "de": "Contactez-nous dès aujourd'hui pour en savoir plus !",
     "sp": "Contactez-nous dès aujourd'hui pour en savoir plus !"
+  },
+
+  "qTitle": {
+    "en": "Consultante Formatrice Export",
+    "fr": "Consultante Formatrice Export",
+    "de": "Consultante Formatrice Export",
+    "sp": "Consultante Formatrice Export"
+  },
+  "qTexte1": {
+    "en": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME industrielles</strong> à s'<strong>internationaliser</strong>.",
+    "fr": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME industrielles</strong> à s'<strong>internationaliser</strong>.",
+    "de": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME industrielles</strong> à s'<strong>internationaliser</strong>.",
+    "sp": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME industrielles</strong> à s'<strong>internationaliser</strong>."
+  },
+  "qTexte2": {
+    "en": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME.",
+    "fr": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME.",
+    "de": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME.",
+    "sp": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME."
+  },
+  "qTexte3": {
+    "en": "Mais pourquoi la formation et le conseil au juste ?",
+    "fr": "Mais pourquoi la formation et le conseil au juste ?",
+    "de": "Mais pourquoi la formation et le conseil au juste ?",
+    "sp": "Mais pourquoi la formation et le conseil au juste ?"
+  },
+  "qTexte4": {
+    "en": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients.",
+    "fr": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients.",
+    "de": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients.",
+    "sp": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients."
+  },
+  "qContact": {
+    "en": "Pour en savoir plus sur Sylvie",
+    "fr": "Pour en savoir plus sur Sylvie",
+    "de": "Pour en savoir plus sur Sylvie",
+    "sp": "Pour en savoir plus sur Sylvie"
+  },
+  "qTexte5": {
+    "en": "allez sur LinkedIn",
+    "fr": "allez sur LinkedIn",
+    "de": "allez sur LinkedIn",
+    "sp": "allez sur LinkedIn"
+  },
+  "qTexte6": {
+    "en": "ou contactez-la !",
+    "fr": "ou contactez-la !",
+    "de": "ou contactez-la !",
+    "sp": "ou contactez-la !"
   },
 
   "contact": {
