@@ -197,6 +197,32 @@ let content = {
     "sp": "ou contactez-la !"
   },
 
+  "rTitle": {
+    "en": "Nos références",
+    "fr": "Nos références",
+    "de": "Nos références",
+    "sp": "Nos références"
+  },
+  "rTexte1": {
+    "en": "Ils nous font confiance :",
+    "fr": "Ils nous font confiance :",
+    "de": "Ils nous font confiance :",
+    "sp": "Ils nous font confiance :"
+  },
+  "rTexte2": {
+    "en": "Trust in Move est membre ou participe à :",
+    "fr": "Trust in Move est membre ou participe à :",
+    "de": "Trust in Move est membre ou participe à :",
+    "sp": "Trust in Move est membre ou participe à :"
+  },
+  "rContact": {
+    "en": "Contactez nous dès aujourd’hui pour en savoir plus",
+    "fr": "Contactez nous dès aujourd’hui pour en savoir plus",
+    "de": "Contactez nous dès aujourd’hui pour en savoir plus",
+    "sp": "Contactez nous dès aujourd’hui pour en savoir plus"
+  },
+
+
   "contact": {
     "en": "Contact us for more details:",
     "fr": "Contactez-nous pour plus d’informations :",
@@ -205,7 +231,7 @@ let content = {
   }
 };
 
-let lang = "en";
+let lang = "fr";
 
 function displayLanguage (language) {
   lang = language;

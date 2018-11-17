@@ -47,6 +47,32 @@ p {
   margin-bottom: 1em;
 }
 
+.references-images-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  justify-items: center;
+
+  margin-bottom: 1em;
+}
+.references-images-layout>a{
+  height: auto;
+  margin: 1em;
+}
+
+.groups-images-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  justify-items: center;
+
+  margin-bottom: 3em;
+}
+.groups-images-layout>a {
+  height: auto;
+  margin: 1em;
+}
+
 .footer {
   grid-column: 2 / 3;
 
