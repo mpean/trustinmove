@@ -54,23 +54,31 @@ p {
   justify-items: center;
   align-items: center;
 
+  background-color: white;
   margin-bottom: 1em;
+  border-radius: 0.3rem;
 }
-.references-images-layout>a{
-  height: auto;
+.references-images-layout img{
+  max-width: 8em;
+  max-height: 8em;
+  margin: 1em;
 }
 
 .groups-images-layout {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   justify-items: center;
   align-items: center;
 
+  background-color: white;
   margin-bottom: 3em;
+  border-radius: 0.3rem;
 }
-.groups-images-layout>a {
-  height: auto;
+.groups-images-layout img {
+  max-width: 8em;
+  max-height: 8em;
+  margin: 1em;
 }
 
 .footer {
