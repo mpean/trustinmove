@@ -7,10 +7,6 @@ body {
   font-family: karla, Arial, Helvetica, sans-serif
 }
 
-p {
-  color: var(--chocotaupe);
-}
-
 .header {
   grid-column: 2 / 3;
 
@@ -58,7 +54,7 @@ p {
   margin-bottom: 1em;
   border-radius: 0.3rem;
 }
-.references-images-layout img{
+.references-images-layout img {
   max-width: 8em;
   max-height: 8em;
   margin: 1em;
@@ -79,6 +75,23 @@ p {
   max-width: 8em;
   max-height: 8em;
   margin: 1em;
+}
+
+.contact-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-items: center;
+  align-items: center;
+
+}
+
+.contact-right-col img {
+  max-width: 12em;
+  border-radius: 0.3rem;
+  justify-self: right
+}
+.contact-layout i {
+  color: var(--dark-orange);
 }
 
 .footer {
@@ -104,14 +117,14 @@ p {
   background-color: var(--chocotaupe);
   border-color: var(--chocotaupe);
 }
-.jumbotron>p {
+.jumbotron p {
   color: white;
   text-align: justify;
 }
-.jumbotron>h1 {
+.jumbotron h1 {
   color: white;
 }
-.jumbotron>h2 {
+.jumbotron h2 {
   color: white;
 }
 

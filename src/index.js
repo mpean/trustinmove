@@ -222,12 +222,29 @@ let content = {
     "sp": "Contactez nous dès aujourd’hui pour en savoir plus"
   },
 
-
-  "contact": {
-    "en": "Contact us for more details:",
-    "fr": "Contactez-nous pour plus d’informations :",
-    "de": "Kontaktieren Sie uns für mehr Informationen:",
-    "sp": "TODO",
+  "cTitle": {
+    "en": "Contactez-nous !",
+    "fr": "Contactez-nous !",
+    "de": "Contactez-nous !",
+    "sp": "Contactez-nous !"
+  },
+  "cTexte1": {
+    "en": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>",
+    "fr": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>",
+    "de": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>",
+    "sp": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>"
+  },
+  "cTexte2": {
+    "en": "Contactez-nous dès aujourd'hui pour plus d’informations :",
+    "fr": "Contactez-nous dès aujourd'hui pour plus d’informations :",
+    "de": "Contactez-nous dès aujourd'hui pour plus d’informations :",
+    "sp": "Contactez-nous dès aujourd'hui pour plus d’informations :"
+  },
+  "cTexte3": {
+    "en": " 44300 Nantes - France",
+    "fr": " 44300 Nantes - France",
+    "de": " 44300 Nantes - France",
+    "sp": " 44300 Nantes - France"
   }
 };
 
