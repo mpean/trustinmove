@@ -36,6 +36,12 @@ let content = {
     "de": "Formation à l’internationalisation des PME",
     "sp": "Formation à l’internationalisation des PME"
   },
+  "acceuilTexte4": {
+    "en": "Accompagnement au changement",
+    "fr": "Accompagnement au changement",
+    "de": "Accompagnement au changement",
+    "sp": "Accompagnement au changement"
+  },
 
   "a1Title": {
     "en": "Conseil stratégie et opérationnel export",
@@ -229,10 +235,10 @@ let content = {
     "sp": "Contactez-nous !"
   },
   "cTexte1": {
-    "en": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>",
-    "fr": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>",
-    "de": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>",
-    "sp": "<strong>Sylvie Péan fondatrice de Trust in Move</strong>"
+    "en": "Sylvie Péan fondatrice de Trust in Move",
+    "fr": "Sylvie Péan fondatrice de Trust in Move",
+    "de": "Sylvie Péan fondatrice de Trust in Move",
+    "sp": "Sylvie Péan fondatrice de Trust in Move"
   },
   "cTexte2": {
     "en": "Contactez-nous dès aujourd'hui pour plus d’informations :",
@@ -245,7 +251,128 @@ let content = {
     "fr": " 44300 Nantes - France",
     "de": " 44300 Nantes - France",
     "sp": " 44300 Nantes - France"
-  }
+  },
+
+  "lTitle": {
+    "en": "Mentions légales",
+    "fr": "Mentions légales",
+    "de": "Mentions légales",
+    "sp": "Mentions légales"
+  },
+  "lTexte1": {
+    "en": "Statut administratif et facturation",
+    "fr": "Statut administratif et facturation",
+    "de": "Statut administratif et facturation",
+    "sp": "Statut administratif et facturation"
+  },
+  "lTexte2": {
+    "en": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510",
+    "fr": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510",
+    "de": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510",
+    "sp": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510"
+  },
+  "lTexte3": {
+    "en": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026.",
+    "fr": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026.",
+    "de": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026.",
+    "sp": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026."
+  },
+  "lTexte4": {
+    "en": "Les factures seront en conséquence établies au nom de Ouvre-Boites 44. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose.",
+    "fr": "Les factures seront en conséquence établies au nom de Ouvre-Boites 44. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose.",
+    "de": "Les factures seront en conséquence établies au nom de Ouvre-Boites 44. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose.",
+    "sp": "Les factures seront en conséquence établies au nom de Ouvre-Boites 44. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose."
+  },
+  "lTexte5": {
+    "en": "Plus d’informations",
+    "fr": "Plus d’informations",
+    "de": "Plus d’informations",
+    "sp": "Plus d’informations"
+  },
+  "lTexte6": {
+    "en": "Activité formation",
+    "fr": "Activité formation",
+    "de": "Activité formation",
+    "sp": "Activité formation"
+  },
+  "lTexte7": {
+    "en": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock.",
+    "fr": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock.",
+    "de": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock.",
+    "sp": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock."
+  },
+  "lTexte8": {
+    "en": "Présentation du site",
+    "fr": "Présentation du site",
+    "de": "Présentation du site",
+    "sp": "Présentation du site"
+  },
+  "lTexte9": {
+    "en": "<strong>Propriétaire, créateur et reponsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
+    "fr": "<strong>Propriétaire, créateur et reponsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
+    "de": "<strong>Propriétaire, créateur et reponsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
+    "sp": "<strong>Propriétaire, créateur et reponsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France"
+  },
+  "lTexte10": {
+    "en": "<strong>Webmaster:</strong> Maxime Péan",
+    "fr": "<strong>Webmaster:</strong> Maxime Péan",
+    "de": "<strong>Webmaster:</strong> Maxime Péan",
+    "sp": "<strong>Webmaster:</strong> Maxime Péan"
+  },
+  "lTexte11": {
+    "en": "<strong>Hébergeur:</strong> HostPapa – 68 King William Street London EC4N 7DZ United Kingdom",
+    "fr": "<strong>Hébergeur:</strong> HostPapa – 68 King William Street London EC4N 7DZ United Kingdom",
+    "de": "<strong>Hébergeur:</strong> HostPapa – 68 King William Street London EC4N 7DZ United Kingdom",
+    "sp": "<strong>Hébergeur:</strong> HostPapa – 68 King William Street London EC4N 7DZ United Kingdom"
+  },
+  "lTexte12": {
+    "en": "Propriété intellectuelle et crédits",
+    "fr": "Propriété intellectuelle et crédits",
+    "de": "Propriété intellectuelle et crédits",
+    "sp": "Propriété intellectuelle et crédits"
+  },
+  "lTexte13": {
+    "en": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42.",
+    "fr": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42.",
+    "de": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42.",
+    "sp": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42."
+  },
+  "lTexte14": {
+    "en": "Le nom de domaine trustinmove.com appartient à Sylvie Péan.",
+    "fr": "Le nom de domaine trustinmove.com appartient à Sylvie Péan.",
+    "de": "Le nom de domaine trustinmove.com appartient à Sylvie Péan.",
+    "sp": "Le nom de domaine trustinmove.com appartient à Sylvie Péan."
+  },
+  "lTexte15": {
+    "en": "Crédit photos : Sylvie Cordenner - Couteau suisse production",
+    "fr": "Crédit photos : Sylvie Cordenner - Couteau suisse production",
+    "de": "Crédit photos : Sylvie Cordenner - Couteau suisse production",
+    "sp": "Crédit photos : Sylvie Cordenner - Couteau suisse production"
+  },
+  "lTexte16": {
+    "en": "Logo : merci à Frédéric Bernier – Kumorfos",
+    "fr": "Logo : merci à Frédéric Bernier – Kumorfos",
+    "de": "Logo : merci à Frédéric Bernier – Kumorfos",
+    "sp": "Logo : merci à Frédéric Bernier – Kumorfos"
+  },
+  "lTexte17": {
+    "en": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Sylvie Péan.",
+    "fr": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Sylvie Péan.",
+    "de": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Sylvie Péan.",
+    "sp": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Sylvie Péan."
+  },
+  "lTexte18": {
+    "en": "Droit applicable et attribution de juridiction",
+    "fr": "Droit applicable et attribution de juridiction",
+    "de": "Droit applicable et attribution de juridiction",
+    "sp": "Droit applicable et attribution de juridiction"
+  },
+  "lTexte19": {
+    "en": "Tout litige en relation avec l'utilisation du site www.trustinmove.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Nantes, France.",
+    "fr": "Tout litige en relation avec l'utilisation du site www.trustinmove.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Nantes, France.",
+    "de": "Tout litige en relation avec l'utilisation du site www.trustinmove.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Nantes, France.",
+    "sp": "Tout litige en relation avec l'utilisation du site www.trustinmove.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Nantes, France."
+  },
 };
 
 let lang = "fr";

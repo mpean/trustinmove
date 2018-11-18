@@ -43,6 +43,14 @@ body {
   margin-bottom: 1em;
 }
 
+.accueil-btn-layout {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+.accueil-btn-layout a {
+  margin-bottom: 1em;
+}
+
 .references-images-layout {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -82,9 +90,7 @@ body {
   grid-template-columns: 2fr 1fr;
   justify-items: center;
   align-items: center;
-
 }
-
 .contact-right-col img {
   max-width: 12em;
   border-radius: 0.3rem;
@@ -125,7 +131,7 @@ body {
   color: white;
 }
 .jumbotron h2 {
-  color: white;
+  color:var(--dark-orange);
 }
 
 strong {
