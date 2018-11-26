@@ -44,16 +44,16 @@ let content = {
   },
 
   "a1Title": {
-    "en": "Strategic and operational consultancy in international trade",
+    "en": "Export consultancy",
     "fr": "Conseil stratégie et opérationnel export",
-    "de": "Strategische und operative Unterstützung im Aussenhandel",
+    "de": "Exportberatung",
     "sp": "Conseil stratégie et opérationnel export"
   },
   "a1Texte1": {
-    "en": "Trust in Move makes France easy for you.<br>For <strong>strategic advices</strong>, audit or <strong>operational support</strong> on your markets, externalisation of your sales team or to help you <strong>choosing the perfect local partner in France</strong> (with both technical and sales capabilities to develop your business), Trust in Move is here for you.",
-    "fr": "Trust in Move vous facilite l'international.<br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous.",
-    "de": "Trust in Move macht Frankreich einfach für Sie.<br>Für <strong>strategische interkulturelle Beratungen</strong>, Audit oder <strong>operative Unterstützung auf Ihre Märkte</strong>, Externalisierung von Ihrer Vertriebsteam, oder um Ihnen dabei zu helfen, den perfekten Geschäftspartner in Frankreich (stark sowohl in Technik als auch Vertrieb) zu finden, Trust in Move ist für Sie da.",
-    "sp": "Trust in Move vous facilite l'international.<br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous."
+    "en": "Trust in Move makes France easy for you.<br><br>For <strong>strategic advices</strong>, audit or <strong>operational support</strong> on your markets, externalisation of your sales team or to help you <strong>choosing the perfect local partner in France</strong> (with both technical and sales capabilities to develop your business), Trust in Move is here for you.",
+    "fr": "Trust in Move vous facilite l'international.<br><br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous.",
+    "de": "Trust in Move macht Frankreich einfach für Sie.<br><br>Für <strong>strategische interkulturelle Beratungen</strong>, Audit oder <strong>operative Unterstützung auf Ihre Märkte</strong>, Externalisierung von Ihrer Vertriebsteam, oder um Ihnen dabei zu helfen, den perfekten Geschäftspartner in Frankreich (stark sowohl in Technik als auch Vertrieb) zu finden, Trust in Move ist für Sie da.",
+    "sp": "Trust in Move vous facilite l'international.<br><br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous."
   },
   "a1Texte2": {
     "en": "Based in Western France (vibrant city of Nantes, close to Paris, Brittany and Atlantic Ocean), Trust in Move works for international small and medium industries focused on <strong>technical niche markets</strong>.",
@@ -210,7 +210,7 @@ let content = {
     "sp": "Nos références"
   },
   "rTexte1": {
-    "en": "They already trust in move:",
+    "en": "They already Trust in Move:",
     "fr": "Ils nous font confiance :",
     "de": "Sie vertrauen uns schon:",
     "sp": "Ils nous font confiance :"

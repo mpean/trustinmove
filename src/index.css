@@ -94,7 +94,8 @@ body {
 .contact-right-col img {
   max-width: 12em;
   border-radius: 0.3rem;
-  justify-self: right
+  justify-self: right;
+  margin-left: 1em;
 }
 .contact-layout i {
   color: var(--dark-orange);
