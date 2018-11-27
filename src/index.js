@@ -309,9 +309,9 @@ let content = {
   },
   "lTexte9": {
     "en": "<strong>Owner, creator, responsible of this website content:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
-    "fr": "<strong>Propriétaire, créateur et reponsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
+    "fr": "<strong>Propriétaire, créateur et responsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
     "de": "<strong>Eigentümerin, Autorin und für den Inhalt Verantwortliche:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
-    "sp": "<strong>Propriétaire, créateur et reponsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France"
+    "sp": "<strong>Propriétaire, créateur et responsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France"
   },
   "lTexte10": {
     "en": "<strong>Webmaster:</strong> Maxime Péan",
