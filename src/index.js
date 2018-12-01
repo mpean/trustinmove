@@ -14,7 +14,7 @@ let content = {
   },
   "acceuilTexte1": {
     "en": "Because we live in a moving world, enjoying the most of it leads to success.<br>That is why Trust in Move helps companies to move towards tomorrow: internationalisation, export, sales efficiency, change management.",
-    "fr": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement.",
+    "fr": "Parce que nous vivons dans un monde en mouvement, savoir en tirer bénéfice est une des clefs du succès.<br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement.",
     "de": "In unserer ständig bewegenden Welt, Vorteil davon ziehen zu können, führt zum Erfolg.<br>Deshalb hilft Trust in Move Betriebe, sich auf dem Weg Richtung Morgen zu machen: Internationalisierung, Export, Vertriebseffizienz, Veränderungserleichterung.",
     "sp": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement."
   },
@@ -180,7 +180,7 @@ let content = {
   },
   "qTexte4": {
     "en": "Being a <strong>multilingual Engineer</strong> (English, French, German and Spanish), Sylvie has been very quickly put in position to sell machines worldwide. But international sales negotiation or export contracts need some solid and specific expertise. This is exactly what Sylvie shares today with Trust in Move's customers after thorough training and experience.",
-    "fr": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients.",
+    "fr": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que Sylvie transmet aujourd'hui à ses clients, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines.",
     "de": "Als <strong>mehrsprachigen Ingenieurin</strong> (Deutsch, Englisch, Französisch und Spanisch), war Sylvie sehr schnell in Position gebracht, Maschinen weltweit zu verkaufen. Aber internationale Verhandlung oder Exportsverträge brauchen ein spezifisches Know-How. Genau das teilt heute Sylvie mit Trust in Moves Kunden.",
     "sp": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients."
   },
