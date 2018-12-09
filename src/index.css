@@ -99,6 +99,7 @@ body {
   max-width: 12em;
   justify-self: right;
   margin-left: 1em;
+  border-radius: 0.3rem;
 }
 .contact-layout i {
   color: var(--dark-orange);
