@@ -97,7 +97,6 @@ body {
 }
 .contact-right-col img {
   max-width: 12em;
-  border-radius: 22% 78% 18% 82% / 83% 19% 81% 17%;
   justify-self: right;
   margin-left: 1em;
 }
