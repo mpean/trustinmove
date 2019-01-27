@@ -168,7 +168,7 @@ let content = {
   },
   "qTexte2": {
     "en": "Trust in Move is more than 17 years of industrial experience in international sales (mostly Europe, Asia, North and South America) of machines and technical products in several industries: plastics, fans, welding, chemistry, food industry…",
-    "fr": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME.",
+    "fr": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines, de produits de niche technique et de services (dans la plasturgie, la ventilation industrielle, la chimie, le soudage, ...).",
     "de": "Trust in Move bedeutet inzwischen mehr als 17 Jahre Erfahrung im weltweiten Vertrieb von Maschinen und technischen Produkten in verschiedenen Industrien: Kunststoff-, Ventilatoren-, Schweiss-, Chemie-, Lebensmittelindustrie...",
     "sp": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME."
   },
@@ -217,7 +217,7 @@ let content = {
   },
   "rTexte2": {
     "en": "Trust in Move is a member of or participates to:",
-    "fr": "Trust in Move est membre ou participe à :",
+    "fr": "Trust in Move est membre de :",
     "de": "Trust in Move ist Mitglied oder nimmt zu Folgenden teil:",
     "sp": "Trust in Move est membre ou participe à :"
   },
