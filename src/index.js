@@ -15,7 +15,7 @@ let content = {
   "acceuilTexte1": {
     "en": "Because we live in a moving world, enjoying the most of it leads to success.<br>That is why Trust in Move helps companies to move towards tomorrow: internationalisation, export, sales efficiency, change management.",
     "fr": "Parce que nous vivons dans un monde en mouvement, savoir en tirer bénéfice est une des clefs du succès.<br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement.",
-    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategie umzusetzen, um erfolgreich zu sein. Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Internationalisierung, Export, Vertriebseffizienz, Veränderungserleichterung.",
+    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategien umzusetzen, um erfolgreich zu sein. Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Internationalisierung, Export, Vertriebseffizienz, Veränderungserleichterung.",
     "sp": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement."
   },
   "acceuilQuestion": {
@@ -27,7 +27,7 @@ let content = {
   "acceuilTexte2": {
     "en": "Develop my business worldwide ",
     "fr": "Développer mon entreprise à l’international",
-    "de": "Mein Geschäft im Ausland zu entwickeln",
+    "de": "Mein Geschäft im Ausland entwickeln",
     "sp": "Développer mon entreprise à l’international"
   },
   "acceuilTexte3": {
@@ -52,13 +52,13 @@ let content = {
   "a1Texte1": {
     "en": "Trust in Move makes France easy for you.<br><br>For <strong>strategic advices</strong>, audit or <strong>operational support</strong> on your markets, externalisation of your sales team or to help you <strong>choosing the perfect local partner in France</strong> (with both technical and sales capabilities to develop your business), Trust in Move is here for you.",
     "fr": "Trust in Move vous facilite l'international.<br><br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous.",
-    "de": "Trust in Move macht den französischen Markt einfach für Sie: <strong>strategische interkulturelle Beratungen</strong>, Audits oder Externe <strong>operative Unterstützung</strong> Ihres Vertriebsteams. Wir helfen Ihnen dabei, die perfekten Geschäftspartner in Frankreich für Sie  zu finden - stark in Technik und Vertrieb.",
+    "de": "Trust in Move macht den französischen Markt einfach für Sie: <strong>strategische interkulturelle Beratungen</strong>, Audits oder externe <strong>operative Unterstützung</strong> Ihres Vertriebsteams. Wir helfen Ihnen dabei, die perfekten Geschäftspartner in Frankreich für Sie  zu finden - stark in Technik und Vertrieb.",
     "sp": "Trust in Move vous facilite l'international.<br><br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous."
   },
   "a1Texte2": {
     "en": "Based in Western France (vibrant city of Nantes, close to Paris, Brittany and Atlantic Ocean), Trust in Move works for international small and medium industries focused on <strong>technical niche markets</strong>.",
     "fr": "Basé à Nantes, Trust in Move travaille pour des <strong>PME industrielles</strong> françaises qui cherchent à s'internationaliser (Europe, Amériques, Asie, Moyen Orient…) et aide aussi des entreprises étrangères à trouver les bons partenaires en France.",
-    "de": "Gegründet in Westfrankreich (in der pulsierenden Stadt von Nantes, nah nicht fern von Paris, Britanie und nah der Atlantischen Küste),  arbeitet Trust in Move für auf Nischenmärkten tätige internationale kleine und mittlere Betriebe.",
+    "de": "Gegründet in Westfrankreich (in der pulsierenden Stadt von Nantes, nicht fern von Paris und nah der Atlantischen Küste und der Bretagne),  arbeitet Trust in Move für in Nischenmärkten tätige internationale kleine und mittlere Betriebe.",
     "sp": "Basé à Nantes, Trust in Move travaille pour des <strong>PME industrielles</strong> françaises qui cherchent à s'internationaliser (Europe, Amériques, Asie, Moyen Orient…) et aide aussi des entreprises étrangères à trouver les bons partenaires en France."
   },
   "a1Texte3": {
@@ -126,7 +126,7 @@ let content = {
   "a3Texte2": {
     "en": "With different techniques of <strong>collective intelligence</strong>, meeting facilitation, co-development, or improvisation theater, Trust in Move helps your teams to change so that your strategy for tomorrow gets true already today.",
     "fr": "A l'aide de différentes solutions d'<strong>intelligence collective</strong>, de facilitation de réunion, de co-développement, ou de techniques d'improvisation théâtrale, Trust in Move aide vos équipes à changer pour que votre stratégie pour demain devienne réalité dès aujourd'hui.",
-    "de": "Dank verschiedener Techniken wie <strong>gruppenbasierte Intelligenz</strong>, effiziente Gesprächsführung, oder selbst auch Improtheater, hilft Trust in Move Ihren Mitarbeitern bei der Steuerung notwendiger Veränderung, so dass Ihre Strategie für Morgen schon heute Wirkung zeigt.",
+    "de": "Dank verschiedener Techniken wie: <strong>gruppenbasierte Intelligenz</strong>, effiziente Gesprächsführung, oder selbst auch Improtheater, hilft Trust in Move Ihren Mitarbeitern bei der Steuerung notwendiger Veränderungen, so dass Ihre Strategie für Morgen schon heute Wirkung zeigt.",
     "sp": "A l'aide de différentes solutions d'<strong>intelligence collective</strong>, de facilitation de réunion, de co-développement, ou de techniques d'improvisation théâtrale, Trust in Move aide vos équipes à changer pour que votre stratégie pour demain devienne réalité dès aujourd'hui."
   },
   "a3Texte3": {
@@ -138,7 +138,7 @@ let content = {
   "a3Texte4": {
     "en": "Our added value is based on <strong>listening</strong> to your specific project and your team in order to make one matching with the reality of the others.",
     "fr": "Notre plus-value est l'<strong>écoute</strong> de votre projet et de vos équipes pour mieux faire coïncider l'un avec la réalité de celles-ci.",
-    "de": "Der Mehrwert für Sie liegt in der sorgfältigen <strong>Erfassung</strong> von Ihrer spezifischen unternehmerischen Vision, aber auch im konkreten Einbezug Ihrer zuständigen Mitarbeiter, im Blick auf diese produktive Perspektive, um beide in einen funktionierenden und stimmigen Rahmen zu bringen.",
+    "de": "Der Mehrwert für Sie liegt in der sorgfältigen <strong>Erfassung</strong> Ihrer spezifischen unternehmerischen Vision, aber auch im konkreten Einbezug Ihrer zuständigen Mitarbeiter, mit Blick auf diese produktive Perspektive, um beide in einen funktionierenden und stimmigen Rahmen zu bringen.",
     "sp": "Notre plus-value est l'<strong>écoute</strong> de votre projet et de vos équipes pour mieux faire coïncider l'un avec la réalité de celles-ci."
   },
   "a3Texte5": {
@@ -169,7 +169,7 @@ let content = {
   "qTexte2": {
     "en": "Trust in Move is more than 17 years of industrial experience in international sales (mostly Europe, Asia, North and South America) of machines and technical products in several industries: plastics, fans, welding, chemistry, food industry…",
     "fr": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines, de produits de niche technique et de services (dans la plasturgie, la ventilation industrielle, la chimie, le soudage, ...).",
-    "de": "Trust in Move bedeutet inzwischen mehr als 17 Jahre Erfahrung im weltweiten Vertrieb von Maschinen und technischen Produkten in verschiedenen Industrien: Kunststoff-, Ventilatoren-, Schweiss-, Chemie-, Lebensmittelindustrie...",
+    "de": "Trust in Move bedeutet inzwischen mehr als 17 Jahre Erfahrung im weltweiten Vertrieb von Maschinen, technischen Produkten und Dienstleistungen in verschiedenen Industrien: Kunststoff-, Ventilatoren-, Chemie-, Schweissindustrie, ...",
     "sp": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME."
   },
   "qTexte3": {
@@ -218,7 +218,7 @@ let content = {
   "rTexte2": {
     "en": "Trust in Move is a member of or participates to:",
     "fr": "Trust in Move est membre de :",
-    "de": "Trust in Move ist Mitglied oder nimmt zu Folgenden teil:",
+    "de": "Trust in Move ist Mitglied von:",
     "sp": "Trust in Move est membre ou participe à :"
   },
   "rContact": {
@@ -243,13 +243,13 @@ let content = {
   "cTexte2": {
     "en": "Contact us now to know more about how we can help you:",
     "fr": "Contactez-nous dès aujourd'hui pour plus d’informations :",
-    "de": "Kontaktieren Sie uns, um zu erfahren, wie wir Ihnen helfen können:",
+    "de": "Nehmen Sie mit uns Kontakt auf, um zu erfahren, wie wir Ihnen helfen können:",
     "sp": "Contactez-nous dès aujourd'hui pour plus d’informations :"
   },
   "cTexte3": {
     "en": " 44300 Nantes - France",
     "fr": " 44300 Nantes - France",
-    "de": " 44300 Nantes - Frankreich",
+    "de": " F-44300 Nantes - Frankreich",
     "sp": " 44300 Nantes - Francia"
   },
 
@@ -268,13 +268,13 @@ let content = {
   "lTexte2": {
     "en": "Trust in Move belongs to the cooperative society of freelance workers Ouvre-Boites 44 who manages all administrative work of its activity and who is based at following address: SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510.",
     "fr": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510.",
-    "de": "Trust in Move ist Mitglied der selbstständigen Genossenschaft Ouvre-Boites 44, die die Verwaltung der Aktivität erledigt, und die folgende Adresse hat: SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, Frankreich, tel : +33228216510.",
+    "de": "Trust in Move ist Mitglied der selbstständigen Genossenschaft Ouvre-Boites 44, die die Verwaltung der Aktivität erledigt, und die folgende Adresse hat: SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, Frankreich, Tel. +33228216510.",
     "sp": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510."
   },
   "lTexte3": {
     "en": "Ouvre-Boites 44 is a French S.C.O.P S.A with variable capital, registered at RCS in NANTES under N° 449.989.573 - VAT N°: FR40449989573 - SIRET 44998957300026.",
     "fr": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026.",
-    "de": "Ouvre-Boites 44 ist eine französische S.C.O.P S.A mit veränderlichem Grundkapital in NANTES unter Nr 449.989.573 registriert - VAT Nr: FR40449989573 - SIRET 44998957300026.",
+    "de": "Ouvre-Boites 44 ist eine französische S.C.O.P S.A mit veränderlichem Grundkapital in NANTES, registriert unter Nr 449.989.573 registriert - VAT Nr: FR40449989573 - SIRET 44998957300026.",
     "sp": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026."
   },
   "lTexte4": {
@@ -308,7 +308,7 @@ let content = {
     "sp": "Présentation du site"
   },
   "lTexte9": {
-    "en": "<strong>Owner, creator, responsible of this website content:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
+    "en": "<strong>Owner, creator, responsible of this website content:</strong> Sylvie Péan – boulevard des Poilus, F-44300 Nantes, Frankreich",
     "fr": "<strong>Propriétaire, créateur et responsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
     "de": "<strong>Eigentümerin, Autorin und für den Inhalt Verantwortliche:</strong> Sylvie Péan – Boulevard des Poilus, 44300 Nantes, France",
     "sp": "<strong>Propriétaire, créateur et responsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France"
@@ -334,7 +334,7 @@ let content = {
   "lTexte13": {
     "en": "Sylvie Péan owns Trust in Move trademark, registered at INPI on 12th February 2018 under n°18 4 427 868 and registered in classes n°35, 41 and 42.",
     "fr": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42.",
-    "de": "Sylvie Péan besitzt Trust in Move als Marke, registriert bei INPI am 12. Februar 2018 unter Nr 18 4 427 868 und in den Klassen Nr 35, 41 und 42.",
+    "de": "Sylvie Péan besitzt Trust in Move als Marke, registriert bei INPI am 12. Februar 2018 unter Nr 18 4 427 868, in den Klassen Nr 35, 41 und 42.",
     "sp": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42."
   },
   "lTexte14": {
@@ -358,7 +358,7 @@ let content = {
   "lTexte17": {
     "en": "Any total or partial representation or reproduction, translation, adaptation or transformation of this site and its contents by whomever, without the formal permission of Sylvie Péan, is forbidden.",
     "fr": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Sylvie Péan.",
-    "de": "Jegliche (auch partielle) Verwendung oder Abbildung, Übersetzung, Anpassung oder Veränderung dieser website ohne schriftliches Erlaubnis durch Sylvie Péan wird untersagt.",
+    "de": "Jegliche (auch partielle) Verwendung oder Abbildung, Übersetzung, Anpassung oder Veränderung dieser website ohne schriftliche Erlaubnis durch Sylvie Péan wird untersagt.",
     "sp": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Sylvie Péan."
   },
   "lTexte18": {
@@ -370,7 +370,7 @@ let content = {
   "lTexte19": {
     "en": "Any disputes relating to the use of www.trustinmove.com website shall be subject to French law. The user recognizes the exclusive jurisdiction of the courts in Nantes, France.",
     "fr": "Tout litige en relation avec l'utilisation du site www.trustinmove.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Nantes, France.",
-    "de": "Alle Streitigkeiten bezüglich der Anwendung von www.trustinmove.com website unabhängig vom Standort des Nutzers unterliegen dem französischen Gesetz und der Gerichtsbarkeit von Nantes, Frankreich.",
+    "de": "Alle Streitigkeiten bezüglich der Anwendung von www.trustinmove.com unabhängig vom Standort des Nutzers unterliegen dem französischen Gesetz und der Gerichtsbarkeit von Nantes, Frankreich.",
     "sp": "Tout litige en relation avec l'utilisation du site www.trustinmove.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Nantes, France."
   },
 };
