@@ -13,10 +13,10 @@ let content = {
     "sp": "Pourquoi Trust in Move ?",
   },
   "acceuilTexte1": {
-    "en": "Because we live in a fast-paced world, knowing how to benefit from it is one of the keys to success.<br>Trust in Move helps companies move towards tomorrow by offering training and advice in internationalisation, export, commercial efficiency and change management.",
-    "fr": "Parce que nous vivons dans un monde en mouvement, savoir en tirer bénéfice est une des clefs du succès.<br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement.",
-    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategien umzusetzen, um erfolgreich zu sein. Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Internationalisierung, Export, Vertriebseffizienz, Veränderungserleichterung.",
-    "sp": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement."
+    "en": "Because we live in a fast-paced world, knowing how to benefit from it is one of the keys to success.<br><br>Trust in Move helps companies move towards tomorrow by offering training and advice in internationalisation, export, commercial efficiency and change management.",
+    "fr": "Parce que nous vivons dans un monde en mouvement, savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement.",
+    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategien umzusetzen, um erfolgreich zu sein.<br><br>Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Internationalisierung, Export, Vertriebseffizienz, Veränderungserleichterung.",
+    "sp": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement."
   },
   "acceuilQuestion": {
     "en": "How can Trust in Move help me?",
@@ -45,9 +45,9 @@ let content = {
 
   "a1Title": {
     "en": "Export consultancy",
-    "fr": "Conseil stratégie et opérationnel export",
+    "fr": "Conseil stratégique et opérationnel export",
     "de": "Exportberatung",
-    "sp": "Conseil stratégie et opérationnel export"
+    "sp": "Conseil stratégique et opérationnel export"
   },
   "a1Texte1": {
     "en": "Trust in Move makes France easy for you.<br><br>Whether for  <strong>strategic consulting</strong> or auditing,  <strong>operational support</strong> in your markets, outsourcing your sales team or helping you <strong>choose the right partner in France</strong> (by combining technical expertise with commercial efficiency) Trust in Move is here for you.",
@@ -62,10 +62,10 @@ let content = {
     "sp": "Basé à Nantes, Trust in Move travaille pour des <strong>PME industrielles</strong> françaises qui cherchent à s'internationaliser (Europe, Amériques, Asie, Moyen Orient…) et aide aussi des entreprises étrangères à trouver les bons partenaires en France."
   },
   "a1Texte3": {
-    "en": "We add value to your business by supporting the commercial development of your technical products. We intervene when you decide and at your own pace.",
-    "fr": "Notre plus-value est l'accompagnement à la valorisation commerciale de produits techniques.<br>Nous intervenons quand vous le décidez et à votre rythme.",
-    "de": "Der  Mehrwert für Sie liegt in unserer Fähigkeit, Ihnen dabei zu helfen, am besten Ihre technischen Produkte zu bewirtschaften und zu vermarkten. Wir bewegen uns auf Ihrem technischen Level. Unsere dreifache Kompetenz in Sachen Technologie, Vertrieb und Globalisierung steht für Sie dafür zur Verfügung.<br>Wir arbeiten für Sie, und stimmen uns ab mit Ihren strategischen Perspektiven.",
-    "sp": "Notre plus-value est l'accompagnement à la valorisation commerciale de produits techniques.<br>Nous intervenons quand vous le décidez et à votre rythme."
+    "en": "We add value to your business by supporting the commercial development of your technical products.<br><br>We intervene when you decide and at your own pace.",
+    "fr": "Notre plus-value est l'accompagnement à la valorisation commerciale de produits techniques.<br><br>Nous intervenons quand vous le décidez et à votre rythme.",
+    "de": "Der  Mehrwert für Sie liegt in unserer Fähigkeit, Ihnen dabei zu helfen, am besten Ihre technischen Produkte zu bewirtschaften und zu vermarkten. Wir bewegen uns auf Ihrem technischen Level. Unsere dreifache Kompetenz in Sachen Technologie, Vertrieb und Globalisierung steht für Sie dafür zur Verfügung.<br><br>Wir arbeiten für Sie, und stimmen uns ab mit Ihren strategischen Perspektiven.",
+    "sp": "Notre plus-value est l'accompagnement à la valorisation commerciale de produits techniques.<br><br>Nous intervenons quand vous le décidez et à votre rythme."
   },
   "a1Contact": {
     "en": "Contact us now to know more about how we can help you!",
@@ -77,7 +77,7 @@ let content = {
   "a2Title": {
     "en": "Training into international ",
     "fr": "Formation à l'international",
-    "de": "Schulungen in Internationalen Transfers",
+    "de": "Schulungen in internationalen Transfers",
     "sp": "Formation à l'international"
   },
   "a2Texte1": {
@@ -167,7 +167,7 @@ let content = {
     "sp": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME industrielles</strong> à s'<strong>internationaliser</strong>."
   },
   "qTexte2": {
-    "en": "Trust in Move has more than 17 years industry experience in the international marketing (Europe, Asia, Americas) of machinery, technical niche products and services in the plastics industry, industrial ventilation, agribusiness, chemistry and welding.",
+    "en": "Trust in Move has more than 17 years industry experience in the international marketing (Europe, Asia, Americas) of machinery, technical niche products and services in the plastics industry, industrial ventilation, chemistry and welding.",
     "fr": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines, de produits de niche technique et de services (dans la plasturgie, la ventilation industrielle, la chimie, le soudage, ...).",
     "de": "Trust in Move bedeutet inzwischen mehr als 17 Jahre Erfahrung im weltweiten Vertrieb von Maschinen, technischen Produkten und Dienstleistungen in verschiedenen Industrien: Kunststoff-, Ventilatoren-, Chemie-, Schweissindustrie, ...",
     "sp": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME."
@@ -272,10 +272,10 @@ let content = {
     "sp": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510."
   },
   "lTexte3": {
-    "en": "Ouvre-Boites 44 is a French S.C.O.P S.A with variable capital, registered at RCS in NANTES under N° 449.989.573 - VAT N°: FR40449989573 - SIRET 44998957300026.",
-    "fr": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026.",
-    "de": "Ouvre-Boites 44 ist eine französische S.C.O.P S.A mit veränderlichem Grundkapital in NANTES, registriert unter Nr 449.989.573 registriert - VAT Nr: FR40449989573 - SIRET 44998957300026.",
-    "sp": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573 - N° TVA : FR40449989573 - SIRET 44998957300026."
+    "en": "Ouvre-Boites 44 is a French S.C.O.P S.A with variable capital, registered at RCS in NANTES under N° 449.989.573<br>VAT N°: FR40449989573 - SIRET 44998957300026.",
+    "fr": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573<br>N° TVA : FR40449989573 - SIRET 44998957300026.",
+    "de": "Ouvre-Boites 44 ist eine französische S.C.O.P S.A mit veränderlichem Grundkapital in NANTES, registriert unter Nr 449.989.573 registriert<br>VAT Nr: FR40449989573 - SIRET 44998957300026.",
+    "sp": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573<br>N° TVA : FR40449989573 - SIRET 44998957300026."
   },
   "lTexte4": {
     "en": "All invoices will be issued under the name of Ouvre-Boites 44. Sylvie Péan is solely responsible for the proper performance of her service she offers.",
@@ -309,7 +309,7 @@ let content = {
   },
   "lTexte9": {
     "en": "<strong>Owner, creator, responsible of this website content:</strong> Sylvie Péan – boulevard des Poilus, F-44300 Nantes, Frankreich",
-    "fr": "<strong>Propriétaire, créateur et responsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
+    "fr": "<strong>Propriétaire, créatrice et responsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France",
     "de": "<strong>Eigentümerin, Autorin und für den Inhalt Verantwortliche:</strong> Sylvie Péan – Boulevard des Poilus, 44300 Nantes, France",
     "sp": "<strong>Propriétaire, créateur et responsable de publication du site:</strong> Sylvie Péan – boulevard des Poilus, 44300 Nantes, France"
   },
