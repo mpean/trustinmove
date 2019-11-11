@@ -15,7 +15,7 @@ let content = {
   "acceuilTexte1": {
     "en": "Because we live in a fast-paced world, knowing how to benefit from it is one of the keys to success.<br><br>Trust in Move helps companies move towards tomorrow by offering training and advice in internationalisation, export, commercial efficiency and change management.",
     "fr": "Parce que nous vivons dans un monde en mouvement, savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement.",
-    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategien umzusetzen, um erfolgreich zu sein.<br><br>Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Internationalisierung, Export, Vertriebseffizienz, Veränderungserleichterung.",
+    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategien umzusetzen, um erfolgreich zu sein.<br><br>Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Internationalisierung, Export, Vertriebseffizienz, Change Management.",
     "sp": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement."
   },
   "acceuilQuestion": {
@@ -39,7 +39,7 @@ let content = {
   "acceuilTexte4": {
     "en": "Change management",
     "fr": "Accompagnement au changement",
-    "de": "Veränderungserleichterung",
+    "de": "Change Management",
     "sp": "Accompagnement au changement"
   },
 
@@ -114,7 +114,7 @@ let content = {
   "a3Title": {
     "en": "Change management",
     "fr": "Accompagnement au changement",
-    "de": "Veränderungserleichterung",
+    "de": "Change Management",
     "sp": "Accompagnement au changement"
   },
   "a3Texte1": {
