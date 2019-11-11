@@ -154,7 +154,7 @@ strong {
 .btn-primary {
   background-color: var(--dark-orange);
   border-color: var(--dark-orange);
-  color: var(--chocotaupe);
+  color: black;
 }
 .btn-primary:hover {
   background-color: black;
@@ -162,16 +162,18 @@ strong {
 }
 
 .btn-secondary {
-  background-color: var(--chocotaupe);
-  border-color: var(--chocotaupe);
+  background-color: var(--dark-orange);
+  border-color: var(--dark-orange);
+  color: black;
 }
 .btn-secondary:hover {
-  background-color: var(--dark-orange);
+  background-color: black;
   border-color: var(--dark-orange);
 }
 .btn-secondary:focus {
-  background-color: var(--dark-orange);
+  background-color: var(--chocotaupe);
   border-color: var(--dark-orange);
+  color: white;
 }
 
 .btn-link {
