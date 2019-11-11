@@ -161,10 +161,10 @@ let content = {
     "sp": "Qui sommes-nous ?"
   },
   "qTexte1": {
-    "en": "Trust in Move is an independent consulting firm founded in 2017 by Sylvie Péan in Nantes to help industrial SMEs to internationalize.",
-    "fr": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME industrielles</strong> à s'<strong>internationaliser</strong>.",
-    "de": "Trust in Move ist eine 2017 von Sylvie Péan gegründete selbstständige Unternehmensberatung, die kleinen und mittleren Betrieben dabei hilft, sich weltweit zu entwickeln.",
-    "sp": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME industrielles</strong> à s'<strong>internationaliser</strong>."
+    "en": "Trust in Move is an independent consulting firm founded in 2017 by Sylvie Péan in Nantes to help industrial SMEs to develop their sales and/or to go international.",
+    "fr": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME</strong> à se développer commercialement et/ou à s'<strong>internationaliser</strong>.",
+    "de": "Trust in Move ist eine 2017 von Sylvie Péan gegründete selbstständige Unternehmensberatung, die kleinen und mittleren Betrieben dabei hilft, ihre Produkte besser zu vermarkten und/oder sich weltweit zu entwickeln.",
+    "sp": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME</strong> à se développer commercialement et/ou à s'<strong>internationaliser</strong>."
   },
   "qTexte2": {
     "en": "Trust in Move has more than 17 years industry experience in the international marketing (Europe, Asia, Americas) of machinery, technical niche products and services in the plastics industry, industrial ventilation, chemistry and welding.",
