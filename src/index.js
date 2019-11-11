@@ -13,10 +13,10 @@ let content = {
     "sp": "Pourquoi Trust in Move ?",
   },
   "acceuilTexte1": {
-    "en": "Because we live in a fast-paced world, knowing how to benefit from it is one of the keys to success.<br><br>Trust in Move helps companies move towards tomorrow by offering training and advice in internationalisation, export, commercial efficiency and change management.",
-    "fr": "Parce que nous vivons dans un monde en mouvement, savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement.",
-    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategien umzusetzen, um erfolgreich zu sein.<br><br>Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Internationalisierung, Export, Vertriebseffizienz, Change Management.",
-    "sp": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : internationalisation, export, efficacité commerciale, facilitation du changement."
+    "en": "Because we live in a fast-paced world, knowing how to benefit from it is one of the keys to success.<br><br>Trust in Move helps companies move towards tomorrow by offering training and advice in business development, export and change management.",
+    "fr": "Parce que nous vivons dans un monde en mouvement, savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : développement commercial, export, facilitation du changement.",
+    "de": "Unsere ständig sich verändernde Welt erfordert, innovative unternehmerische Strategien umzusetzen, um erfolgreich zu sein.<br><br>Deshalb hilft Trust in Move Betrieben, um das Morgen schon heute vorzubereiten: Vertriebseffizienz, Export, Change Management.",
+    "sp": "Parce que nous vivons dans un monde en mouvement et que savoir en tirer bénéfice est une des clefs du succès.<br><br>Trust in Move accompagne donc les entreprises vers demain : développement commercial, export, facilitation du changement."
   },
   "acceuilQuestion": {
     "en": "How can Trust in Move help me?",
@@ -31,10 +31,10 @@ let content = {
     "sp": "Développer mon entreprise à l’international"
   },
   "acceuilTexte3": {
-    "en": "Training in international specifics",
-    "fr": "Formation à l’internationalisation des PME",
-    "de": "Schulung in Besonderheiten des Aussenhandels",
-    "sp": "Formation à l’internationalisation des PME"
+    "en": "Training in sales or international specifics",
+    "fr": "Formation commerciale ou à l'international",
+    "de": "Vertriebschulung in Besonderheiten des Aussenhandels",
+    "sp": "Formation commerciale ou à l'international"
   },
   "acceuilTexte4": {
     "en": "Change management",
@@ -75,22 +75,22 @@ let content = {
   },
 
   "a2Title": {
-    "en": "Training into international ",
-    "fr": "Formation à l'international",
-    "de": "Schulungen in internationalen Transfers",
-    "sp": "Formation à l'international"
+    "en": "Training in sales or international specifics",
+    "fr": "Formation commerciale ou à l'international",
+    "de": "Vertriebschulung in Besonderheiten des Aussenhandels",
+    "sp": "Formation commerciale ou à l'international"
   },
   "a2Texte1": {
-    "en": "Trust in Move offers training in all aspects of international sales: <strong>multicultural negotiations</strong>, import/export administrative techniques, commercial management and <strong>export</strong> fundamentals.",
-    "fr": "Trust in Move forme dans tous les aspects spécifiques de la vente à l'international : <strong>négociation</strong> dans un contexte <strong>interculturel</strong>, techniques administratives export, management commercial, fondamentaux de <strong>l'export</strong>…",
-    "de": "Trust in Move schult in allen Belangen des Aussenhandels: <strong>Verhandlung</strong> in <strong>interkultureller</strong> Umgebung, Ex-/Importverwaltung, Vertriebsmanagement, <strong>Exportbesonderheiten</strong> …",
-    "sp": "Trust in Move forme dans tous les aspects spécifiques de la vente à l'international : <strong>négociation</strong> dans un contexte <strong>interculturel</strong>, techniques administratives export, management commercial, fondamentaux de <strong>l'export</strong>…"
+    "en": "Trust in Move offers training in all aspects of <strong>sales</strong> and international sales: <strong>multicultural negotiations</strong>, business development, commercial management and <strong>export</strong> fundamentals.",
+    "fr": "Trust in Move forme dans tous les aspects de la <strong>vente</strong> et plus spécfiquement de la vente à l'international : <strong>négociation</strong> dans un contexte <strong>interculturel</strong>, prospection, management commercial, fondamentaux de <strong>l'export</strong>…",
+    "de": "Trust in Move schult in allen Belangen des <strong>Vertriebs</strong> und des Aussenhandels: <strong>Verhandlung</strong> in <strong>interkultureller</strong> Umgebung, Kundenacquise, Vertriebsmanagement, <strong>Exportbesonderheiten</strong> …",
+    "sp": "Trust in Move forme dans tous les aspects de la vente et plus spécfiquement de la vente à l'international : <strong>négociation</strong> dans un contexte <strong>interculturel</strong>, prospection, management commercial, fondamentaux de <strong>l'export</strong>…"
   },
   "a2Texte2": {
-    "en": "Our <strong>tailor-made</strong> training courses are aimed at all audiences of learners working in an international context: executive managers, sales personnel, project managers, technicians or engineers.",
-    "fr": "Nos formations <strong>sur mesure</strong> s'adressent à tous les publics d'apprenants qui travaillent dans un contexte international : commerciaux, managers, administratifs, chefs de projets…",
-    "de": "Unsere <strong>kundenspezifischen</strong> Schulungsprogramme sind allen in internationaler Umgebung tätigen Fachleuten gewidmet: Führungskräften, Vertriebsleuten, sowie Projektleitern, Ingenieuren oder Technikern …",
-    "sp": "Nos formations <strong>sur mesure</strong> s'adressent à tous les publics d'apprenants qui travaillent dans un contexte international : commerciaux, managers, administratifs, chefs de projets…"
+    "en": "Our <strong>tailor-made</strong> training courses are aimed at all audiences of learners working in a demanding business context: executive managers, sales personnel, project managers, technicians or engineers.",
+    "fr": "Nos formations <strong>sur mesure</strong> s'adressent à tous les publics d'apprenants qui travaillent dans un contexte commercial exigeant : commerciaux, managers, administratifs, chefs de projets…",
+    "de": "Unsere <strong>kundenspezifischen</strong> Schulungsprogramme sind allen in anspruchvoller Vertriebsumgebung tätigen Fachleuten gewidmet: Führungskräften, Vertriebsleuten, sowie Projektleitern, Ingenieuren oder Technikern …",
+    "sp": "Nos formations <strong>sur mesure</strong> s'adressent à tous les publics d'apprenants qui travaillent dans un contexte commercial exigeant : commerciaux, managers, administratifs, chefs de projets…"
   },
   "a2Texte3": {
     "en": "Keen on <strong>innovative</strong> teaching methods (for example blended learning, role play and educational games), and regularly revising its teaching media to always be at the forefront, Trust in Move develops quality training for its customers.",
@@ -161,16 +161,16 @@ let content = {
     "sp": "Qui sommes-nous ?"
   },
   "qTexte1": {
-    "en": "Trust in Move is an independent consulting firm founded in 2017 by Sylvie Péan in Nantes to help industrial SMEs to develop their sales and/or to go international.",
-    "fr": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME</strong> à se développer commercialement et/ou à s'<strong>internationaliser</strong>.",
-    "de": "Trust in Move ist eine 2017 von Sylvie Péan gegründete selbstständige Unternehmensberatung, die kleinen und mittleren Betrieben dabei hilft, ihre Produkte besser zu vermarkten und/oder sich weltweit zu entwickeln.",
-    "sp": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME</strong> à se développer commercialement et/ou à s'<strong>internationaliser</strong>."
+    "en": "Trust in Move is an <strong>independent</strong> consulting firm founded in 2017 by Sylvie Péan in Nantes to help industrial <strong>SMEs</strong> to develop their <strong>sales</strong> and/or to go international.",
+    "fr": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME</strong> à se développer <strong>commercialement</strong> et/ou à s'internationaliser.",
+    "de": "Trust in Move ist eine 2017 von Sylvie Péan gegründete <strong>selbstständige</strong> Unternehmensberatung, die <strong>kleinen und mittleren Betrieben</strong> dabei hilft, ihre Produkte besser zu <strong>vermarkten</strong> und/oder sich weltweit zu entwickeln.",
+    "sp": "Trust in Move est un cabinet <strong>indépendant</strong> de conseil fondé en 2017 par Sylvie Péan à Nantes pour aider des <strong>PME</strong> à se développer <strong>commercialement</strong> et/ou à s'<strong>internationaliser</strong>."
   },
   "qTexte2": {
-    "en": "Trust in Move has more than 17 years industry experience in the international marketing (Europe, Asia, Americas) of machinery, technical niche products and services in the plastics industry, industrial ventilation, chemistry and welding.",
-    "fr": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines, de produits de niche technique et de services (dans la plasturgie, la ventilation industrielle, la chimie, le soudage, ...).",
-    "de": "Trust in Move bedeutet inzwischen mehr als 17 Jahre Erfahrung im weltweiten Vertrieb von Maschinen, technischen Produkten und Dienstleistungen in verschiedenen Industrien: Kunststoff-, Ventilatoren-, Chemie-, Schweissindustrie, ...",
-    "sp": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines et produits de niche technique (dans la plasturgie, la ventilation industrielle, l'agroalimentaire, la chimie, le soudage…) pour les PME."
+    "en": "Trust in Move has more than 17 years industry experience in the <strong>international</strong> marketing (Europe, Asia, Americas) of machinery, technical niche products and services in the plastics industry, industrial ventilation, chemistry and welding.",
+    "fr": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'<strong>international</strong> (Europe, Asie, Amériques) de machines, de produits de niche technique et de services (dans la plasturgie, la ventilation industrielle, la chimie, le soudage, ...) pour les PME.",
+    "de": "Trust in Move bedeutet inzwischen mehr als 17 Jahre Erfahrung im <strong>weltweiten Vertrieb</strong> von Maschinen, technischen Produkten und Dienstleistungen in verschiedenen Industrien: Kunststoff-, Ventilatoren-, Chemie-, Schweissindustrie, ...",
+    "sp": "Trust in Move, c'est plus de 17 ans d'expérience industrielle dans la commercialisation à l'international (Europe, Asie, Amériques) de machines, de produits de niche technique et de services (dans la plasturgie, la ventilation industrielle, la chimie, le soudage, ...) pour les PME."
   },
   "qTexte3": {
     "en": "But why training and advice exactly?",
@@ -180,9 +180,9 @@ let content = {
   },
   "qTexte4": {
     "en": "International sales negotiation and export contracts need solid and specific expertise: as a qualified engineer, a career in international machinery sales and being fluent in English, French, German and Spanish, Sylvie is well placed to share her thorough training and experience with Trust in Move‘s customers.",
-    "fr": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que Sylvie transmet aujourd'hui à ses clients, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines.",
+    "fr": "<strong>Ingénieure</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que Sylvie transmet aujourd'hui à ses clients, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines.",
     "de": "Als <strong>mehrsprachige Ingenieurin</strong> (Deutsch, Englisch, Französisch und Spanisch) ist Sylvie Péan sehr schnell in die verantwortliche Position gekommen, Maschinen weltweit zu vermarkten und zu verkaufen. Doch internationale Verhandlungen oder Exportsverträge brauchen ein spezifisches Know-How: und genau dies verbindet Trust in Move mit ihren Kunden.",
-    "sp": "<strong>Ingénieur</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients."
+    "sp": "<strong>Ingénieure</strong> parlant 4 langues, Sylvie a été mise très vite en situation de vendre des machines à l'international. Sauf que la négociation commerciale à l'international ou les contrats export requièrent une expertise spécifique. C'est justement cela que, riche de son expérience terrain consolidée par de nombreuses formations dans ces domaines, Sylvie transmet aujourd'hui à ses clients."
   },
   "qContact": {
     "en": "To know more about Sylvie",
@@ -219,7 +219,7 @@ let content = {
     "en": "Trust in Move is a member of:",
     "fr": "Trust in Move est membre de :",
     "de": "Trust in Move ist Mitglied von:",
-    "sp": "Trust in Move est membre ou participe à :"
+    "sp": "Trust in Move est membre de :"
   },
   "rContact": {
     "en": "Contact us now to know more about how we can help you!",
@@ -387,9 +387,9 @@ let content = {
   },
   "lTexte22": {
     "en": "As a data subject, you have right of information, access, rectification, erasure, restriction of processing, data portability with regard to the personal data you have shared with us. If you have any questions about your privacy, please send your signed question to sylvie[@]trustinmove.com or to Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France.",
-    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain.",
+    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France.",
     "de": "Betroffene Personen können ihre Rechte auf Auskunft, Widerspruch, Berichtigung, Löschung, Beschränkung und Weitergabe ihrer personenbezogenen Daten geltend machen, indem sie uns unter sylvie[@]trustinmove.com  oder Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, Frankreich schriftlich kontaktieren.",
-    "sp": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain."
+    "sp": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France."
   }
 };
 
