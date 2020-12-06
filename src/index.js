@@ -31,10 +31,10 @@ let content = {
     "sp": "Développer mon entreprise à l’international"
   },
   "acceuilTexte3": {
-    "en": "Training in sales or international specifics",
-    "fr": "Formation commerciale ou à l'international",
-    "de": "Vertriebschulung in Besonderheiten des Aussenhandels",
-    "sp": "Formation commerciale ou à l'international"
+    "en": "Training in business development, France and international",
+    "fr": "Formation au développement commercial, en France et à l'international",
+    "de": "Vertriebstraining in Frankreich und im Aussenhandel",
+    "sp": "Formation au développement commercial, en France et à l'international"
   },
   "acceuilTexte4": {
     "en": "Change management",
@@ -51,7 +51,7 @@ let content = {
   },
   "a1Texte1": {
     "en": "Trust in Move makes France easy for you.<br><br>Whether for  <strong>strategic consulting</strong> or auditing,  <strong>operational support</strong> in your markets, outsourcing your sales team or helping you <strong>choose the right partner in France</strong> (by combining technical expertise with commercial efficiency) Trust in Move is here for you.",
-    "fr": "Trust in Move vous facilite l'international.<br><br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous.",
+    "fr": "Trust in Move vous facilite l'international.<br><br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous.<br>Nous permettons à nos clients de bénéficier des chèques relance export grâce à notre partenariat avec <strong><a href='https://www.fileatrade.com/fileatrade-operateur-agree-cheque-relance-export/' target='_blank'>Fileatrade</a></strong>.",
     "de": "Trust in Move macht den französischen Markt einfach für Sie: <strong>strategische interkulturelle Beratungen</strong>, Audits oder externe <strong>operative Unterstützung</strong> Ihres Vertriebsteams. Wir helfen Ihnen dabei, die perfekten Geschäftspartner in Frankreich für Sie  zu finden - stark in Technik und Vertrieb.",
     "sp": "Trust in Move vous facilite l'international.<br><br>Que ce soit pour du <strong>conseil stratégique</strong> ou un audit, de <strong>l'appui opérationnel</strong> sur vos marchés, de l'externalisation de votre équipe commerciale ou pour vous aider à <strong>choisir le bon partenaire à l'étranger</strong> (qui allie compétences techniques et efficacité commerciale), Trust in Move est là pour vous."
   },
@@ -75,10 +75,10 @@ let content = {
   },
 
   "a2Title": {
-    "en": "Training in sales or international specifics",
-    "fr": "Formation commerciale ou à l'international",
-    "de": "Vertriebschulung in Besonderheiten des Aussenhandels",
-    "sp": "Formation commerciale ou à l'international"
+    "en": "Training in business development, France and international",
+    "fr": "Formation au développement commercial, en France et à l'international",
+    "de": "Vertriebstraining in Frankreich und im Aussenhandel",
+    "sp": "Formation au développement commercial, en France et à l'international"
   },
   "a2Texte1": {
     "en": "Trust in Move offers training in all aspects of <strong>sales</strong> and international sales: <strong>multicultural negotiations</strong>, business development, commercial management and <strong>export</strong> fundamentals.",
@@ -100,14 +100,14 @@ let content = {
   },
   "a2Texte4": {
     "en": "All our services can be wholly provided in English, French, German or Spanish.",
-    "fr": "Toutes nos prestations peuvent être réalisées entièrement en Français, Anglais, Allemand ou Espagnol.",
+    "fr": "Toutes nos prestations peuvent être réalisées entièrement en Français, Anglais, Allemand ou Espagnol.<br>Si vous voulez avoir un aperçu de quelques unes de nos formations, <strong><a href='https://corymbe.coop/membre/formatrice-en-developpement-commercial-france-et-international/' target='_blank'>cliquez ici</a></strong>.",
     "de": "Alle unsere Dienstleistungen können zu 100% auf Deutsch, Englisch, Französisch, oder Spanisch geleistet werden.",
     "sp": "Toutes nos prestations peuvent être réalisées entièrement en Français, Anglais, Allemand ou Espagnol."
   },
   "a2Contact": {
     "en": "Contact us now to know more about how we can help you!",
     "fr": "Contactez-nous dès aujourd'hui pour en savoir plus !",
-    "de": "Kontaktieren Sie uns !",
+    "de": "Kontaktieren Sie uns!",
     "sp": "Contactez-nous dès aujourd'hui pour en savoir plus !"
   },
 
@@ -216,15 +216,15 @@ let content = {
     "sp": "Ils nous font confiance :"
   },
   "rTexte2": {
-    "en": "Trust in Move is a member of:",
-    "fr": "Trust in Move est membre de :",
-    "de": "Trust in Move ist Mitglied von:",
-    "sp": "Trust in Move est membre de :"
+    "en": "Trust in Move's network:",
+    "fr": "Le réseau de Trust in Move :",
+    "de": "Das Netzwerk von Trust in Move:",
+    "sp": "Le réseau de Trust in Move :"
   },
   "rContact": {
     "en": "Contact us now to know more about how we can help you!",
     "fr": "Contactez nous dès aujourd’hui pour en savoir plus",
-    "de": "Kontaktieren Sie uns !",
+    "de": "Kontaktieren Sie uns!",
     "sp": "Contactez nous dès aujourd’hui pour en savoir plus"
   },
 
@@ -266,10 +266,10 @@ let content = {
     "sp": "Statut administratif et facturation"
   },
   "lTexte2": {
-    "en": "Trust in Move belongs to the cooperative society of freelance workers Ouvre-Boites 44 who manages all administrative work of its activity and who is based at the following address: SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510.",
-    "fr": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510.",
-    "de": "Trust in Move ist Mitglied der selbstständigen Genossenschaft Ouvre-Boites 44, die die Verwaltung der Aktivität erledigt, und die folgende Adresse hat: SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, Frankreich, Tel. +33228216510.",
-    "sp": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France, tel : +33228216510."
+    "en": "Trust in Move belongs to the cooperative society of freelance workers Ouvre-Boites 44 who manages all administrative work of its activity and who is based at the following address: SCOP Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel : +33228216510.",
+    "fr": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel : +33228216510.",
+    "de": "Trust in Move ist Mitglied der selbstständigen Genossenschaft Ouvre-Boites 44, die die Verwaltung der Aktivität erledigt, und die folgende Adresse hat: SCOP Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, Frankreich, Tel. +33228216510.",
+    "sp": "Trust in Move est membre de la coopérative d'activité et d'emploi Ouvre-Boites 44 qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel : +33228216510."
   },
   "lTexte3": {
     "en": "Ouvre-Boites 44 is a French S.C.O.P S.A with variable capital, registered at RCS in NANTES under N° 449.989.573<br>VAT N°: FR40449989573 - SIRET 44998957300026.",
@@ -296,6 +296,12 @@ let content = {
     "sp": "Activité formation"
   },
   "lTexte7": {
+    "en": "Trust in Move is a proud member of Ouvre-Boites 44 training centre which has been certified Qualiopi since october 2020. This certification aknowledges a high quality process in terms of training and has been issued for training actions.",
+    "fr": "Trust in Move fait fièrement partie de l’organisme de formation l’Ouvre-Boites 44 qui est certifié Qualiopi depuis octobre 2020. La certification qualité a été délivrée au titre de la catégorie d’action suivante : actions de formation.",
+    "de": "Trust in Move gehört zum Trainingsinstitut Ouvre-Boites 44, das seit Oktober 2020 die Qualiopi Zertifizierung erhalten hat. Diese Zertifizierung beweist die hohe Qualitat im Trainingsverfahren und wurde für Trainingsaktionen erteilt.",
+    "sp": "Trust in Move fait fièrement partie de l’organisme de formation l’Ouvre-Boites 44 qui est certifié Qualiopi depuis octobre 2020. La certification qualité a été délivrée au titre de la catégorie d’action suivante : actions de formation."
+  },
+  "lTexte72": {
     "en": "Training registration number: 52 44 04429 44 (Région Pays de la Loire).",
     "fr": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock.",
     "de": "Schulung-Registrierungsnummer: 52 44 04429 44 (Région Pays de la Loire).",
@@ -386,10 +392,10 @@ let content = {
     "sp": "Soucieuse du respect de la vie privée, la société Trust in Move s’engage à mettre en œuvre toutes les mesures nécessaires à la protection des données à caractère personnel conformément au Règlement Européen sur la Protection des Données (UE) 2016/679 et à la loi Informatique et Libertés N°2018-493 du 20 juin 2018."
   },
   "lTexte22": {
-    "en": "As a data subject, you have right of information, access, rectification, erasure, restriction of processing, data portability with regard to the personal data you have shared with us. If you have any questions about your privacy, please send your signed question to sylvie[@]trustinmove.com or to Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France.",
-    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France.",
-    "de": "Betroffene Personen können ihre Rechte auf Auskunft, Widerspruch, Berichtigung, Löschung, Beschränkung und Weitergabe ihrer personenbezogenen Daten geltend machen, indem sie uns unter sylvie[@]trustinmove.com  oder Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, Frankreich schriftlich kontaktieren.",
-    "sp": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 8 Avenue des Thébaudières, 44800 St Herblain, France."
+    "en": "As a data subject, you have right of information, access, rectification, erasure, restriction of processing, data portability with regard to the personal data you have shared with us. If you have any questions about your privacy, please send your signed question to sylvie[@]trustinmove.com or to Trust in Move c/o Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France.",
+    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France.",
+    "de": "Betroffene Personen können ihre Rechte auf Auskunft, Widerspruch, Berichtigung, Löschung, Beschränkung und Weitergabe ihrer personenbezogenen Daten geltend machen, indem sie uns unter sylvie[@]trustinmove.com  oder Trust in Move c/o Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, Frankreich schriftlich kontaktieren.",
+    "sp": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com  ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France."
   }
 };
 

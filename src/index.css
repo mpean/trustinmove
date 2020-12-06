@@ -4,7 +4,14 @@
 }
 
 body {
-  font-family: karla, Arial, Helvetica, sans-serif
+  font-family: karla, Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: var(--dark-orange);
+}
+a:hover {
+  color: var(--dark-orange);
 }
 
 .header {
@@ -106,6 +113,18 @@ body {
 }
 .legal a {
   margin-bottom: 1em;
+}
+.legal-qualiopi-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+.legal-qualiopi-right-col img {
+  max-width: 12em;
+  justify-self: right;
+  margin-left: 1em;
+  border-radius: 0.3rem;
 }
 
 .footer {
