@@ -1,3 +1,19 @@
+:root {
+  --dark-orange: #F0B142;
+  --chocotaupe: #7b5f5c;
+}
+
+body {
+  font-family: karla, Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: var(--dark-orange);
+}
+a:hover {
+  color: var(--dark-orange);
+}
+
 .header {
   grid-column: 2 / 3;
 
@@ -6,6 +22,10 @@
 
   margin-top: 1em;
   margin-bottom: 1em;
+
+  background-color: var(--dark-orange);
+
+  border-radius: 0.3rem;
 }
 
 .header > img {
@@ -16,6 +36,177 @@
 .main-layout {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
+}
+
+.lang-menu {
+  grid-column: 2 / 3;
+
+  display: flex;
+  justify-content: center;
+}
+.content {
+  grid-column: 2 / 3;
+  margin-top: 1em;
+}
+
+.accueil-btn-title {
+  text-align: center;
+  margin-bottom: 1em;
+}
+.accueil-btn-layout {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-content: center;
+}
+.accueil-btn-layout a {
+  margin-bottom: 1em;
+}
+
+.references-images-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+
+  background-color: white;
+  margin-bottom: 1em;
+  border-radius: 0.3rem;
+}
+.references-images-layout img {
+  max-width: 8em;
+  max-height: 8em;
+  margin: 1em;
+}
+
+.groups-images-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+
+  background-color: white;
+  margin-bottom: 3em;
+  border-radius: 0.3rem;
+}
+.groups-images-layout img {
+  max-width: 8em;
+  max-height: 8em;
+  margin: 1em;
+}
+
+.contact-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+.contact-right-col img {
+  max-width: 12em;
+  justify-self: right;
+  margin-left: 1em;
+  border-radius: 0.3rem;
+}
+.contact-layout i {
+  color: var(--dark-orange);
+}
+.legal a {
+  margin-bottom: 1em;
+}
+.legal-qualiopi-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+.legal-qualiopi-right-col img {
+  max-width: 12em;
+  justify-self: right;
+  margin-left: 1em;
+  border-radius: 0.3rem;
+}
+
+.footer {
+  grid-column: 2 / 3;
+
+  display: flex;
+  justify-content: center;
+
+  background-color: var(--dark-orange);
+
+  margin-bottom: 1em;
+  border-radius: 0.3rem;
+}
+
+.texte {
+  display: flex;
+  justify-content: space-between;
+}
+
+.jumbotron {
+  background-color: var(--chocotaupe);
+  border-color: var(--chocotaupe);
+}
+.jumbotron p {
+  color: white;
+  text-align: justify;
+}
+.jumbotron h1 {
+  color: white;
+}
+.jumbotron h2 {
+  color:var(--dark-orange);
+}
+
+strong {
+  color: var(--dark-orange);
+}
+
+.badge-primary {
+  background-color: var(--dark-orange);
+}
+.badge-primary:hover[href] {
+  background-color: black;
+}
+
+.btn-primary {
+  background-color: var(--dark-orange);
+  border-color: var(--dark-orange);
+  color: black;
+}
+.btn-primary:hover {
+  background-color: black;
+  border-color: var(--dark-orange);
+}
+
+.btn-secondary {
+  background-color: var(--dark-orange);
+  border-color: var(--dark-orange);
+  color: black;
+}
+.btn-secondary:hover {
+  background-color: black;
+  border-color: var(--dark-orange);
+}
+.btn-secondary:focus {
+  background-color: var(--chocotaupe);
+  border-color: var(--dark-orange);
+  color: white;
+}
+
+.btn-link {
+  color: var(--chocotaupe);
+}
+.btn-link:hover {
+  color: white;
+}
+.btn-link:focus {
+  color: white;
+}
+
+hr {
+  background-color: var(--dark-orange);
 }
 
 @media only screen and (min-width: 1200px) {
@@ -64,40 +255,3 @@
     width: auto;
   }
 }
-
-.content {
-  grid-column: 2 / 3;
-  margin-top: 3em;
-  margin-bottom: 2em;
-}
-
-.lang-menu {
-  grid-column: 2 / 3;
-
-  display: flex;
-  justify-content: center;
-}
-
-.footer {
-  grid-column: 2 / 3;
-
-  display: flex;
-  justify-content: center;
-
-  margin-bottom: 1em;
-  margin-top: -1em;
-}
-
-.texte {
-  display: flex;
-  justify-content: space-between;
-}
-
-.coloredback {
-  background-color: #e3001e;
-}
-
-.darkback {
-  background-color: #bcbcbf;
-}
-
