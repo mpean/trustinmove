@@ -9,7 +9,6 @@
 
 body {
   font-family: karla, Arial, Helvetica, sans-serif;
-  background-color: var(--bleu2022);
 }
 
 a {
@@ -26,16 +25,13 @@ a:hover {
   justify-content: center;
 
   margin-top: 1em;
-  margin-bottom: 1em;
-
-  background-color: var(--dark-orange);
-
-  border-radius: 0.3rem;
+  
+  background-color: var(--bleu2022);
 }
 
 .header > img {
-  max-height: 20em;
-  width: auto;
+  position: relative;
+  top: 40%;
 }
 
 .main-layout {
@@ -43,12 +39,6 @@ a:hover {
   grid-template-columns: 1fr 2fr 1fr;
 }
 
-.lang-menu {
-  grid-column: 2 / 3;
-
-  display: flex;
-  justify-content: center;
-}
 .content {
   grid-column: 2 / 3;
   margin-top: 1em;
