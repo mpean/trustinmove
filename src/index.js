@@ -6,6 +6,16 @@ import "./index.css";
 "use strict";
 
 let content = {
+  "acceuilPunshLine": {
+    "fr": "Osez – Vendez – Souriez !"
+  },
+  "acceuil1": {
+    "fr": "La Vente c'est avant tout des relations humaines... autant y mettre de la joie !"
+  },
+  "acceuil2": {
+    "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela des équipes technico-commerciales, des responsables commerciaux et des indépendants comme par exemple :"
+  },
+
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
   },

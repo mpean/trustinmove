@@ -139,19 +139,55 @@ a:hover {
   justify-content: space-between;
 }
 
+.paragraphe {
+  background-color: white;
+  
+  padding-top: 4rem;
+  padding-right: 3rem;
+  padding-bottom: 6rem;
+  padding-left: 3rem;
+
+  margin-bottom: 1em;
+}
+
+.paragraphe p {
+  color: black;
+  text-align: justify;
+  font-size: 1.2rem;
+}
+.paragraphe h1 {
+  color: var(--rosefuschia2022);
+  font-size: 4rem;
+
+  margin-bottom: 3rem;
+}
+
+.accueil-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+.accueil-right-col img {
+  max-width: 12em;
+  justify-self: right;
+  margin-left: 1em;
+  border-radius: 0.3rem;
+}
+
 .jumbotron {
-  background-color: var(--chocotaupe);
+  background-color: white;
   border-color: var(--chocotaupe);
 }
 .jumbotron p {
-  color: white;
+  color: black;
   text-align: justify;
 }
 .jumbotron h1 {
-  color: white;
+  color: var(--rosefuschia2022);
 }
 .jumbotron h2 {
-  color:var(--dark-orange);
+  color:var(--orange2022);
 }
 
 strong {
