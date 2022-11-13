@@ -9,6 +9,10 @@
 
 body {
   font-family: karla, Arial, Helvetica, sans-serif;
+  background-color: var(--bleu2022);
+
+  position: relative;
+  bottom: 1em;
 }
 
 a {
@@ -23,10 +27,6 @@ a:hover {
 
   display: flex;
   justify-content: center;
-
-  margin-top: 1em;
-  
-  background-color: var(--bleu2022);
 }
 
 .header > img {
@@ -37,6 +37,11 @@ a:hover {
 .main-layout {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
+}
+
+.separator {
+  height: 1em;
+  background-color: white;
 }
 
 .content {
