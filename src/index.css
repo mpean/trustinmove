@@ -1,10 +1,15 @@
 :root {
   --dark-orange: #F0B142;
   --chocotaupe: #7b5f5c;
+  --bleu2022: #0f606b;
+  --orange2022: #ee7636;
+  --rosepale2022: #fdece3;
+  --rosefuschia2022: #af136d;
 }
 
 body {
   font-family: karla, Arial, Helvetica, sans-serif;
+  background-color: var(--bleu2022);
 }
 
 a {
