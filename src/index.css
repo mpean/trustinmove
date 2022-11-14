@@ -162,13 +162,29 @@ a:hover {
   margin-bottom: 3rem;
 }
 
-.accueil-layout {
+.emphase {
+  background-color: var(--rosepale2022);
+  
+  padding-top: 4rem;
+  padding-right: 3rem;
+  padding-bottom: 6rem;
+  padding-left: 3rem;
+
+  margin-bottom: 1em;
+}
+.emphase p {
+  color: var(--bleu2022);
+  text-align: justify;
+  font-size: 1.2rem;
+}
+
+.cols-layout {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 3fr 2fr;
   justify-items: center;
   align-items: center;
 }
-.accueil-right-col img {
+.right-col img {
   max-width: 12em;
   justify-self: right;
   margin-left: 1em;

@@ -9,13 +9,37 @@ let content = {
   "acceuilPunshLine": {
     "fr": "Osez – Vendez – Souriez !"
   },
-  "acceuil1": {
+  "acceuilRelationsHumaines": {
     "fr": "La Vente c'est avant tout des relations humaines... autant y mettre de la joie !"
   },
-  "acceuil2": {
+  "acceuilVentePlaisir": {
     "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela des équipes technico-commerciales, des responsables commerciaux et des indépendants comme par exemple :"
   },
-
+  "responsablesCommerciauxTitle": {
+    "fr": "Responsables commerciaux"
+  },
+  "equipeCommercialeEssoufle": {
+    "fr": "Vous sentez que votre équipe commerciale s’essouffle ?​"
+  },
+  "seConcentrerPilotage": {
+    "fr": "Vous aimeriez ne pas avoir à intervenir au quotidien sur de l’opérationnel et vous concentrer sur le pilotage de l’activité commerciale ?​"
+  },
+  "developperNouveauSecteur": {
+    "fr": "Vous aimeriez développer vos ventes sur un nouveau secteur ou tout simplement améliorer vos marges sur votre marché actuel ?​"
+  },
+  "jePeuxVousAider": {
+    "fr": "Je peux vous aider !​"
+  },
+  "forte15ansExperience": {
+    "fr": "Forte de plus de 15 ans d’expérience en vente de produits et de services techniques en France et à l’international, je suis experte du process de vente conseil. Rompue aux échanges avec des grands groupes comme avec des TPE, je vous partage mon savoir-faire commercial acquis dans des domaines industriels aussi divers que la plasturgie, la ventilation, l’agro-alimentaire ou le soudage.​"
+  },
+  "jeVousAccompagne": {
+    "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité.​"
+  },
+  "ilEnParleMieuxQueMoi": {
+    "fr": "Il en parle mieux que moi : «  J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022​​"
+  },
+  
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
   },
