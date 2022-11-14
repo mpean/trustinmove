@@ -39,6 +39,36 @@ let content = {
   "ilEnParleMieuxQueMoi": {
     "fr": "Il en parle mieux que moi : «  J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022​​"
   },
+  "technicauxCommerciauxTitle": {
+    "fr": "Technico-commerciaux​"
+  },
+  "passerExpertTechniqueCommercial": {
+    "fr": "Vous venez de passer d’un rôle d’expert technique à celui de commercial ?​"
+  },
+  "vousSavezConseillerVosClients": {
+    "fr": "Vous savez très bien conseiller vos clients mais peinez à transformer le conseil en vente ?​​"
+  },
+  "duMalAOrganiserVotreDemarche": {
+    "fr": "Vous avez du mal à organiser votre démarche commerciale pour qu’elle soit réellement efficace ? ​​"
+  },
+  "tousLaCapaciteAVendre": {
+    "fr": "Mon parcours m’a enseigné qu’on a tous la capacité à vendre et qu’il suffit de réveiller le commercial qui sommeille en nous !​​​"
+  },
+  "formationsCommercialesQueJePropose": {
+    "fr": "Les formations commerciales que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir.​​"
+  },
+  "ecoutezLesIlsEnParlent": {
+    "fr": "D’ailleurs écoutez-les, ils en parlent mieux que moi :​​"
+  },
+  "excellenteFormatriceTechnique": {
+    "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance.​ Merci à toi Sylvie.​ Guillaume, technicocommercial itinérant formé en 2020"
+  },
+  "formatriceAuTop": {
+    "fr": "Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. ​Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques. » Thomas technicocommercial itinérant formé en 2020 et 2021​"
+  },
+  "merciPourCes3Jours": {
+    "fr": "Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j’ai pu appliquer aujourd’hui quelques-uns des points d’amélioration soulevés pendant la formation, et je constate déjà que ça m’est bénéfique ! [ ] Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d’être plus efficace ! :). Agathe, ingénieure commerciale itinérante formée en 2022"
+  },
   
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
