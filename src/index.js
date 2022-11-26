@@ -69,7 +69,37 @@ let content = {
   "merciPourCes3Jours": {
     "fr": "Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j’ai pu appliquer aujourd’hui quelques-uns des points d’amélioration soulevés pendant la formation, et je constate déjà que ça m’est bénéfique ! [ ] Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d’être plus efficace ! :). Agathe, ingénieure commerciale itinérante formée en 2022"
   },
-  
+  "IndependantsTitle": {
+    "fr": "Indépendants"
+  },
+  "impressionVendreAme": {
+    "fr": "Vous avez l’impression de vendre votre âme au diable dès qu’il s’agit de parler du prix de vos prestations ?"
+  },
+  "aimeriezFaireVotreMetier": {
+    "fr": "Vous aimeriez tellement faire juste votre métier, les missions dans lesquelles vous excellez, sans avoir besoin de les vendre ?"
+  },
+  "pasDeBaguetteMagique": {
+    "fr": "Je vous comprends. Et je n’ai pas de baguette magique pour faire pleuvoir les contrats."
+  },
+  "voirLaVenteAutrement": {
+    "fr": "En revanche je permets à mes clients de voir la vente autrement et d'y prendre du plaisir en restant eux-mêmes sans avoir l'impression de se trahir.​"
+  },
+  "mettezJoieDemarcheCommerciale": {
+    "fr": "Mettez de la joie dans votre démarche commerciale ! Je peux vous aider à poser votre stratégie commerciale, à choisir vos cibles, à écrire votre plan d’action et à définir des tarifs qui vous permettront de bien vivre de votre activité. Je suis convaincue que nous avons tous une facette commerciale en nous et qu’il suffit d’y travailler pour la révéler et la faire briller."
+  },
+  "plaisirAVendre": {
+    "fr": "C’est pourquoi j’accompagne et je forme des indépendants pour qu’ils aient du plaisir à vendre. Pour qu’ils aient du plaisir à vivre de leur expertise."
+  },  
+  "ilsEnParlent": {
+    "fr": "Ils en parlent mieux que moi :"
+  },
+  "javaisBesoinDeStructurerMonOffre": {
+    "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées. Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus ! Marie Baudrelle, Coach’ultante indépendante, septembre 2021​"
+  },
+  "hierJetaisAvecSylvie": {
+    "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. ​Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies. ​Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures. ​Aujourd'hui, j'ai un plan. Julien Léon, formateur indépendant, février 2022​"
+  },
+
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
   },

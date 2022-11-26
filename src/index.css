@@ -187,8 +187,7 @@ a:hover {
 .right-col img {
   max-width: 12em;
   justify-self: right;
-  margin-left: 1em;
-  border-radius: 0.3rem;
+  margin-left: 1em;  
 }
 
 .jumbotron {
