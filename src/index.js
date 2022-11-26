@@ -19,52 +19,55 @@ let content = {
     "fr": "Responsables commerciaux"
   },
   "equipeCommercialeEssoufle": {
-    "fr": "Vous sentez que votre équipe commerciale s’essouffle ?​"
+    "fr": "Vous sentez que votre équipe commerciale s’essouffle ?"
   },
   "seConcentrerPilotage": {
-    "fr": "Vous aimeriez ne pas avoir à intervenir au quotidien sur de l’opérationnel et vous concentrer sur le pilotage de l’activité commerciale ?​"
+    "fr": "Vous aimeriez ne pas avoir à intervenir au quotidien sur de l’opérationnel et vous concentrer sur le pilotage de l’activité commerciale ?"
   },
   "developperNouveauSecteur": {
-    "fr": "Vous aimeriez développer vos ventes sur un nouveau secteur ou tout simplement améliorer vos marges sur votre marché actuel ?​"
+    "fr": "Vous aimeriez développer vos ventes sur un nouveau secteur ou tout simplement améliorer vos marges sur votre marché actuel ?"
   },
   "jePeuxVousAider": {
-    "fr": "Je peux vous aider !​"
+    "fr": "Je peux vous aider !"
   },
   "forte15ansExperience": {
-    "fr": "Forte de plus de 15 ans d’expérience en vente de produits et de services techniques en France et à l’international, je suis experte du process de vente conseil. Rompue aux échanges avec des grands groupes comme avec des TPE, je vous partage mon savoir-faire commercial acquis dans des domaines industriels aussi divers que la plasturgie, la ventilation, l’agro-alimentaire ou le soudage.​"
+    "fr": "Forte de plus de 15 ans d’expérience en vente de produits et de services techniques en France et à l’international, je suis experte du process de vente conseil. Rompue aux échanges avec des grands groupes comme avec des TPE, je vous partage mon savoir-faire commercial acquis dans des domaines industriels aussi divers que la plasturgie, la ventilation, l’agro-alimentaire ou le soudage."
   },
   "jeVousAccompagne": {
-    "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité.​"
+    "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
   },
   "ilEnParleMieuxQueMoi": {
-    "fr": "Il en parle mieux que moi : «  J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022​​"
+    "fr": "Il en parle mieux que moi : «  J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022"
   },
   "technicauxCommerciauxTitle": {
-    "fr": "Technico-commerciaux​"
+    "fr": "Technico-commerciaux"
   },
   "passerExpertTechniqueCommercial": {
-    "fr": "Vous venez de passer d’un rôle d’expert technique à celui de commercial ?​"
+    "fr": "Vous venez de passer d’un rôle d’expert technique à celui de commercial ?"
   },
   "vousSavezConseillerVosClients": {
-    "fr": "Vous savez très bien conseiller vos clients mais peinez à transformer le conseil en vente ?​​"
+    "fr": "Vous savez très bien conseiller vos clients mais peinez à transformer le conseil en vente ?"
   },
   "duMalAOrganiserVotreDemarche": {
-    "fr": "Vous avez du mal à organiser votre démarche commerciale pour qu’elle soit réellement efficace ? ​​"
+    "fr": "Vous avez du mal à organiser votre démarche commerciale pour qu’elle soit réellement efficace ? "
   },
   "tousLaCapaciteAVendre": {
-    "fr": "Mon parcours m’a enseigné qu’on a tous la capacité à vendre et qu’il suffit de réveiller le commercial qui sommeille en nous !​​​"
+    "fr": "Mon parcours m’a enseigné qu’on a tous la capacité à vendre et qu’il suffit de réveiller le commercial qui sommeille en nous !"
+  },
+  "formationsCommercialesLink": {
+    "fr": "Les formations commerciales"
   },
   "formationsCommercialesQueJePropose": {
-    "fr": "Les formations commerciales que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir.​​"
+    "fr": "Les formations commerciales que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir."
   },
   "ecoutezLesIlsEnParlent": {
-    "fr": "D’ailleurs écoutez-les, ils en parlent mieux que moi :​​"
+    "fr": "D’ailleurs écoutez-les, ils en parlent mieux que moi :"
   },
   "excellenteFormatriceTechnique": {
-    "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance.​ Merci à toi Sylvie.​ Guillaume, technicocommercial itinérant formé en 2020"
+    "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance. Merci à toi Sylvie. Guillaume, technicocommercial itinérant formé en 2020"
   },
   "formatriceAuTop": {
-    "fr": "Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. ​Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques. » Thomas technicocommercial itinérant formé en 2020 et 2021​"
+    "fr": "Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques. » Thomas technicocommercial itinérant formé en 2020 et 2021"
   },
   "merciPourCes3Jours": {
     "fr": "Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j’ai pu appliquer aujourd’hui quelques-uns des points d’amélioration soulevés pendant la formation, et je constate déjà que ça m’est bénéfique ! [ ] Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d’être plus efficace ! :). Agathe, ingénieure commerciale itinérante formée en 2022"
@@ -82,7 +85,7 @@ let content = {
     "fr": "Je vous comprends. Et je n’ai pas de baguette magique pour faire pleuvoir les contrats."
   },
   "voirLaVenteAutrement": {
-    "fr": "En revanche je permets à mes clients de voir la vente autrement et d'y prendre du plaisir en restant eux-mêmes sans avoir l'impression de se trahir.​"
+    "fr": "En revanche je permets à mes clients de voir la vente autrement et d'y prendre du plaisir en restant eux-mêmes sans avoir l'impression de se trahir."
   },
   "mettezJoieDemarcheCommerciale": {
     "fr": "Mettez de la joie dans votre démarche commerciale ! Je peux vous aider à poser votre stratégie commerciale, à choisir vos cibles, à écrire votre plan d’action et à définir des tarifs qui vous permettront de bien vivre de votre activité. Je suis convaincue que nous avons tous une facette commerciale en nous et qu’il suffit d’y travailler pour la révéler et la faire briller."
@@ -94,12 +97,60 @@ let content = {
     "fr": "Ils en parlent mieux que moi :"
   },
   "javaisBesoinDeStructurerMonOffre": {
-    "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées. Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus ! Marie Baudrelle, Coach’ultante indépendante, septembre 2021​"
+    "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées. Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus ! Marie Baudrelle, Coach’ultante indépendante, septembre 2021"
   },
   "hierJetaisAvecSylvie": {
-    "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. ​Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies. ​Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures. ​Aujourd'hui, j'ai un plan. Julien Léon, formateur indépendant, février 2022​"
+    "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies. Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures. Aujourd'hui, j'ai un plan. Julien Léon, formateur indépendant, février 2022"
   },
-
+  "monApprocheTitle": {
+    "fr": "Mon approche / comment je travaille ?"
+  },
+  "vendezOsezSouriez": {
+    "fr": "Vendez – Osez – Souriez !"
+  },
+  "enCreantTrustinmove": {
+    "fr": "En créant Trust in Move en 2017, j’ai décidé d’aider mes clients à prendre du plaisir à vendre. Car je suis convaincue qu’on ne fait vraiment bien (longtemps) que ce que l’on aime faire. Par de la formation et de l’accompagnement individuel ou d’équipe, je permets donc aujourd’hui à des individus travaillant en PME ou en indépendant de prendre du plaisir à vendre tout en restant en phase avec leurs valeurs et leur expertise."
+  },
+  "vousFormerEfficacement": {
+    "fr": "Vous former efficacement et joyeusement"
+  },
+  "detentriceDuTitreDeFormatrice": {
+    "fr": "Détentrice du titre de Formatrice Professionnelle pour Adultes, je propose des formations basées sur la pédagogie active pour faciliter la mise en œuvre des acquis de formation. Je varie les outils et techniques pour répondre aux besoins de chaque apprenant. J’ai d’ailleurs à cœur de toujours continuer à me former pour diversifier et améliorer ma boîte à outils."
+  },
+  "jaiPuVoirCombienOnRetienMieux": {
+    "fr": "J’ai pu voir combien on retient mieux ce qu’on expérimente soi même et encore mieux quand on l’expérimente dans la bonne humeur. C’est pourquoi j’aime utiliser des jeux ou des outils ludiques en formation. Je propose quand c’est possible de se former en marchant ou en bougeant. Les Plus-Plus, la musique et le photolangage par exemple font souvent partie de mes outils d’animation en présentiel. J’utilise aussi des jeux d’improvisation théâtrale et des techniques inspirées du Funny Learning. J’anime aussi bien en présentiel qu’à distance en adaptant mes méthodes pédagogiques."
+  },
+  "jeConcoisDesFormations": {
+    "fr": "Je conçois des formations sur mesure pour être proche de la réalité des apprenants. C’est pourquoi j’affectionne tout particulièrement les univers complexes qui nécessite une acculturation. Mon bagage technique acquis dans ma formation d’ingénieure et pendant mon expérience de plus de 15 ans dans des industries aussi diverses que la plasturgie, le soudage automatisé ou la ventilation industrielle me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
+  },
+  "vousAccompagnerAMieuxVendre": {
+    "fr": "Vous accompagner à mieux vendre"
+  },
+  "praticienneDISC": {
+    "fr": "Praticienne DISC, j’utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre.  : communication non violente, écoute, …"
+  },
+  "formeeALintelligenceCollective": {
+    "fr": "Formée à l’intelligence collective et à l’accompagnement au changement, j’aide des équipes à formaliser puis mettre en œuvre leur stratégie commerciale pour atteindre leurs objectifs."
+  },
+  "amoureuseDesLanguesEtrangeres": {
+    "fr": "Amoureuse des langues étrangères, je travaille aujourd’hui en allemand, anglais, espagnol ou français, selon les besoins de mes clients."
+  },
+  "membreActiveDeLaCooperative": {
+    "fr": "Membre active de la Coopérative d’Activité et d’Emploi l’Ouvre-Boites 44, je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales. En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise. L’incitation financière peut motiver mais la coopération ça paye !"
+  },
+  "mesClientsParlentDeMesPratiques": {
+    "fr": "Mes clients parlent de mes pratiques mieux que moi :"
+  },
+  "formatriceALecoute": {
+    "fr": "Formatrice à l'écoute et beaucoup de bienveillance et surtout professionnalisme. Inna, entrepreneure formée en décembre 2021"
+  },
+  "laMethodePedagogiqueUtilisee": {
+    "fr": " La méthodologie utilisée par Sylvie m’a permis d’atteindre les objectifs que je souhaitais et j’ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles ! Eric, responsable commercial formé en janvier 2021"
+  },
+  "tresBonneFormatriceQuiSaitInteresser": {
+    "fr": "Eric, responsable commercial formé en janvier 2021"
+  },
+  
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
   },
