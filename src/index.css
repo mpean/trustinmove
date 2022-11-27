@@ -164,7 +164,11 @@ a:hover {
 .paragraphe a {
   color: var(--orange2022);
   text-align: justify;
-  font-size: 1.2rem; 
+  text-decoration: underline;
+  font-size: 1.2rem;
+}
+.paragraphe a:hover {
+  text-decoration: none;
 }
 
 .p-inline p {
