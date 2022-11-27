@@ -127,7 +127,10 @@ let content = {
     "fr": ". J’anime aussi bien en présentiel qu’à distance en adaptant mes méthodes pédagogiques."
   },
   "jeConcoisDesFormations": {
-    "fr": "Je conçois des formations sur mesure pour être proche de la réalité des apprenants. C’est pourquoi j’affectionne tout particulièrement les univers complexes qui nécessite une acculturation. Mon bagage technique acquis dans ma formation d’ingénieure et pendant mon expérience de plus de 15 ans dans des industries aussi diverses que la plasturgie, le soudage automatisé ou la ventilation industrielle me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
+    "fr": "Je conçois des formations sur mesure"
+  },
+  "pourEtreProcheDeLaRealite": {
+    "fr": " pour être proche de la réalité des apprenants. C’est pourquoi j’affectionne tout particulièrement les univers complexes qui nécessite une acculturation. Mon bagage technique acquis dans ma formation d’ingénieure et pendant mon expérience de plus de 15 ans dans des industries aussi diverses que la plasturgie, le soudage automatisé ou la ventilation industrielle me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
   },
   "vousAccompagnerAMieuxVendre": {
     "fr": "Vous accompagner à mieux vendre"
@@ -142,7 +145,13 @@ let content = {
     "fr": "Amoureuse des langues étrangères, je travaille aujourd’hui en allemand, anglais, espagnol ou français, selon les besoins de mes clients."
   },
   "membreActiveDeLaCooperative": {
-    "fr": "Membre active de la Coopérative d’Activité et d’Emploi l’Ouvre-Boites 44, je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales. En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise. L’incitation financière peut motiver mais la coopération ça paye !"
+    "fr": "Membre active de la Coopérative d’Activité et d’Emploi "
+  },
+  "ouvreBoites44": {
+    "fr": "l’Ouvre-Boites 44"
+  },
+  "jeTravailleAussiAvecMesClients": {
+    "fr": ", je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales. En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise. L’incitation financière peut motiver mais la coopération ça paye !"
   },
   "mesClientsParlentDeMesPratiques": {
     "fr": "Mes clients parlent de mes pratiques mieux que moi :"
