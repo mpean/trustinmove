@@ -161,6 +161,15 @@ a:hover {
 
   margin-bottom: 3rem;
 }
+.paragraphe a {
+  color: var(--orange2022);
+  text-align: justify;
+  font-size: 1.2rem; 
+}
+
+.p-inline p {
+  display: inline;
+}
 
 .emphase {
   background-color: var(--rosepale2022);

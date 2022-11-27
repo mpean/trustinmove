@@ -58,7 +58,7 @@ let content = {
     "fr": "Les formations commerciales"
   },
   "formationsCommercialesQueJePropose": {
-    "fr": "Les formations commerciales que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir."
+    "fr": " que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir."
   },
   "ecoutezLesIlsEnParlent": {
     "fr": "D’ailleurs écoutez-les, ils en parlent mieux que moi :"
@@ -118,7 +118,13 @@ let content = {
     "fr": "Détentrice du titre de Formatrice Professionnelle pour Adultes, je propose des formations basées sur la pédagogie active pour faciliter la mise en œuvre des acquis de formation. Je varie les outils et techniques pour répondre aux besoins de chaque apprenant. J’ai d’ailleurs à cœur de toujours continuer à me former pour diversifier et améliorer ma boîte à outils."
   },
   "jaiPuVoirCombienOnRetienMieux": {
-    "fr": "J’ai pu voir combien on retient mieux ce qu’on expérimente soi même et encore mieux quand on l’expérimente dans la bonne humeur. C’est pourquoi j’aime utiliser des jeux ou des outils ludiques en formation. Je propose quand c’est possible de se former en marchant ou en bougeant. Les Plus-Plus, la musique et le photolangage par exemple font souvent partie de mes outils d’animation en présentiel. J’utilise aussi des jeux d’improvisation théâtrale et des techniques inspirées du Funny Learning. J’anime aussi bien en présentiel qu’à distance en adaptant mes méthodes pédagogiques."
+    "fr": "J’ai pu voir combien on retient mieux ce qu’on expérimente soi même et encore mieux quand on l’expérimente dans la bonne humeur. C’est pourquoi j’aime utiliser des jeux ou des outils ludiques en formation. Je propose quand c’est possible de se former en marchant ou en bougeant. Les Plus-Plus, la musique et le photolangage par exemple font souvent partie de mes outils d’animation en présentiel. J’utilise aussi des jeux d’improvisation théâtrale et des techniques inspirées du "
+  },
+  "funnyLearning": {
+    "fr": "Funny Learning"
+  },
+  "janimeAussiBienEnPresentiel": {
+    "fr": ". J’anime aussi bien en présentiel qu’à distance en adaptant mes méthodes pédagogiques."
   },
   "jeConcoisDesFormations": {
     "fr": "Je conçois des formations sur mesure pour être proche de la réalité des apprenants. C’est pourquoi j’affectionne tout particulièrement les univers complexes qui nécessite une acculturation. Mon bagage technique acquis dans ma formation d’ingénieure et pendant mon expérience de plus de 15 ans dans des industries aussi diverses que la plasturgie, le soudage automatisé ou la ventilation industrielle me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
