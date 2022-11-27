@@ -207,9 +207,71 @@ let content = {
   "linkedinSylviePean": {
     "fr": "https://www.linkedin.com/in/sylviepean/"
   },
-  
-  
-  
+  "mentionsLegales2022Title": {
+    "fr": "Mentions légales et autres informations nécessaires (même si parfois un peu rabat-joie…)"
+  },
+  "nb": {
+    "fr": "NB"
+  },
+  "pourSimplifierLaRedaction": {
+    "fr": "Pour simplifier la rédaction de ce site, j’ai utilisé le masculin-neutre mais il est évident pour moi que je m’adresse à des êtres humains, hommes ou femmes sans distinction…"
+  },
+  "statutAdministratifEtFacturation": {
+    "fr": "Statut administratif et facturation"
+  },
+  "trustInMoveEstMembreDeLaCooperative": {
+    "fr": "Trust in Move est membre de la coopérative d'activité et d'emploi "
+  },
+  "ouvreBoites44MentionsLegales": {
+    "fr": "Ouvre-Boites 44 "
+  },
+  "quiAssureLaGestionAdministrative": {
+    "fr": "qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel : +33228216510."
+  },
+  "ouvreBoites44EstUneSCOPSA": {
+    "fr": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573"
+  },
+  "numTVASIRET": {
+    "fr": "N° TVA : FR40449989573 - SIRET 44998957300026."
+  },
+  "lesFacturesSerontEnConsequence": {
+    "fr": "Les factures seront en conséquence établies au nom de Ouvre-Boites 44. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose."
+  },
+  "activiteFormation": {
+    "fr": "Activité formation"
+  },
+  "trustInMoveFaitPartieDeCorymbe": {
+    "fr": "Trust in Move fait fièrement partie de "
+  },
+  "corymbeMentionsLegales": {
+    "fr": "Corymbe"
+  },
+  "quiEstLorganismeDeFormationReunissant": {
+    "fr": " qui est l’organisme de formation réunissant les formateurs et formatrices de l’Ouvre-Boites 44. L’Ouvre-Boites 44 est certifié Qualiopi depuis octobre 2020. La certification qualité a été délivrée au titre de la catégorie d’action suivante : actions de formation."
+  },
+  "numDeDeclarationDactiviteFormation": {
+    "fr": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock."
+  },
+  "siteInternetSurLequel": {
+    "fr": "Site internet sur lequel vous surfez actuellement"
+  },
+  "proprietaireCreatriceResponsable": {
+    "fr": "Propriétaire, créatrice et responsable de publication du site: Sylvie Péan – rue de la Michaudière, 44300 Nantes, France"
+  },
+  "webmasterMaximePean": {
+    "fr": "Webmaster: Maxime Péan un énorme merci à lui !)"
+  },
+  "hebergeurHostPapa": {
+    "fr": "Hébergeur: HostPapa – 68 King William Street London EC4N 7DZ United Kingdom"
+  },
+  "proprieteIntellectuelleEtCreditTitle": {
+    "fr": "Propriété intellectuelle et crédits"
+  },
+  "SylviePeanProprietaireTrustInMove": {
+    "fr": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42.​"
+  },
+
+
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
   },
