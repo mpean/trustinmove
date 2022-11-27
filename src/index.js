@@ -171,7 +171,44 @@ let content = {
   "jeTravailleAMonCompte": {
     "fr": "Je travaille à mon compte mais m’appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers :"
   },
-
+  "quiSuiJeTitle": {
+    "fr": "Qui suis-je ?​"
+  },
+  "fanDeMaths": {
+    "fr": "Fan de maths (si si …😉), j'aurais pu être chercheuse en maths ! Les maths, c'est factuel, parfait, il n'y a pas d'approximation. Mais moi, ce que j'aime, justement, c'est cette recherche d'équilibre dans l'humain, les nuances, la diversité qui nous rassemble, … J’ai donc beaucoup voyagé pour rencontrer des personnes de tous horizons, de tous les continents."
+  },
+  "ingenieureGeneraliste": {
+    "fr": " Ingénieure généraliste, j’ai d’abord exercé différents métiers de la vente de produits ou de services techniques en France et à l’international. Ingénieure commerciale, commerciale terrain, responsable de zone, chargés d’affaires, responsable commerciale, … ces métiers ont tous eu un point commun pour moi : rendre service à des personnes en leur"
+  },
+  "conseillantDesSolutions": {
+    "fr": " conseillant des solutions"
+  },
+  "quiSerontUtiles": {
+    "fr": " qui seront utiles à leur entreprise."
+  },
+  "unJourJaiEuEnvieDeTransmettre": {
+    "fr": "Un jour, j’ai eu envie de transmettre le savoir-faire que j’avais acquis au cours de ces 17 premières années de ma carrière. Trust in Move est né de cette envie. Je me suis alors d’abord formée pour devenir formatrice (si si le métier de formatrice s’apprend !) et je continue toujours à me former régulièrement… car j’aime ça !"
+  },
+  "nantaiseDadoption": {
+    "fr": "Nantaise d’adoption, mère de 2 enfants, comédienne amateure de longue date, j’ai vécu et travaillé 4 ans à l’étranger (Allemagne, Espagne, Angleterre). Je travaille donc en français, anglais, allemand, espagnol selon les besoins de mes clients."
+  },
+  "contactezMoi": {
+    "fr": "Contactez-moi pour en savoir plus :"
+  },
+  "sylviePean": {
+    "fr": "Sylvie Péan"
+  },
+  "numeroTelephoneMobile": {
+    "fr": "+33698247832"
+  },
+  "emailSylviePean": {
+    "fr": "sylvie@trustinmove.com"
+  },
+  "linkedinSylviePean": {
+    "fr": "https://www.linkedin.com/in/sylviepean/"
+  },
+  
+  
   
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
