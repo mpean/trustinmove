@@ -168,6 +168,10 @@ let content = {
   "tresBonneFormatriceQuiSaitInteresser": {
     "fr": "Eric, responsable commercial formé en janvier 2021"
   },
+  "jeTravailleAMonCompte": {
+    "fr": "Je travaille à mon compte mais m’appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers :"
+  },
+
   
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
