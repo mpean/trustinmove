@@ -268,9 +268,63 @@ let content = {
     "fr": "Propriété intellectuelle et crédits"
   },
   "SylviePeanProprietaireTrustInMove": {
-    "fr": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42.​"
+    "fr": "Sylvie Péan est propriétaire de la marque Trust in Move, déposée à l'INPI le 12 février 2018 sous le N° 18 4 427 868 et enregistrée dans les classes N° 35, 41 et 42."
   },
-
+  "leNomDeDomaine": {
+    "fr": "Le nom de domaine trustinmove.com appartient à Sylvie Péan."
+  },
+  "touteReproductionRepresentation": {
+    "fr": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Sylvie Péan."
+  },
+  "leLogoDeTrustInMoveAEte": {
+    "fr": "Le logo de Trust in Move a été initialement conçu par Frédéric Bernier – "
+  },
+  "kumorfosLink": {
+    "fr": "Kumorfos"
+  },
+  "puisReinventePar": {
+    "fr": " puis réinventé par Leslie Dumont – "
+  },
+  "atelierLeslieDumontLink": {
+    "fr": "atelier Leslie Dumont"
+  },
+  "doubleMerci": {
+    "fr": ". Double merci !"
+  },
+  "cEst": {
+    "fr": "C’est "
+  },
+  "maudBoreLink": {
+    "fr": "Maud Boré"
+  },
+  "quiMaAideeAMettreEnMots": {
+    "fr": " qui m’a aidée à mettre en mots mes pratiques. Merci à elle !"
+  },
+  "creditsPhotos": {
+    "fr": "Crédits photos :  Sylvie Cordenner – "
+  },
+  "couteauSuisseProductionLink": {
+    "fr": "Couteau Suisse Production"
+  },
+  "etSylviePean": {
+    "fr": " et Sylvie Péan."
+  },
+  "droitApplicableTitle": {
+    "fr": "Droit applicable et attribution de juridiction"
+  },
+  "toutLitigeEnRelation": {
+    "fr": "Tout litige en relation avec l'utilisation du site www.trustinmove.com est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Nantes, France."
+  },
+  "donneesPersonnellesTitle": {
+    "fr": "Données personnelles"
+  },
+  "soucieuseDuRespectDelaVie": {
+    "fr": "Soucieuse du respect de la vie privée, la société Trust in Move s’engage à mettre en œuvre toutes les mesures nécessaires à la protection des données à caractère personnel conformément au Règlement Européen sur la Protection des Données (UE) 2016/679 et à la loi Informatique et Libertés N°2018-493 du 20 juin 2018."
+  },
+  "ceSiteNeCollectePas": {
+    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l’outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l’activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l’usage des ordinateurs portables et smartphones en dehors des locaux de l’entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d’accès, d’opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com ou par courrier postal à l’adresse : Trust in Move c/o Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France."
+  },
+  
 
   "acceuilTitle": {
     "fr": "Pourquoi Trust in Move ?"
