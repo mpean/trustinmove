@@ -1,11 +1,30 @@
+import "bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./bootstrap";
 import "font-awesome/css/font-awesome.min.css";
 import "./index.css";
+
 
 "use strict";
 
 let content = {
+  "menuAcceuil": {
+    "fr": "Accueil"
+  },
+  "menuResponsablesCommerciaux": {
+    "fr": "Responsables comm​erciaux"
+  },
+  "menuTechnicauxCommerciaux": {
+    "fr": "Technicaux commerciaux"
+  },
+  "menuIndependants": {
+    "fr": "Indépendants"
+  },
+  "menuMonApproche": {
+    "fr": "Mon approche"
+  },
+  "menuQuiSuisJe": {
+    "fr": "Qui suis-je?"
+  },
   "acceuilPunshLine": {
     "fr": "Osez – Vendez – Souriez !"
   },

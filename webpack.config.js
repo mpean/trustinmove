@@ -17,12 +17,38 @@ const config = {
       { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' },
       { test: /\.(html)$/, loader: 'html-loader' },
       { test: /\.css$/, loader: [ 'style-loader', 'css-loader' ] },
+      {
+        test: /\.(scss)$/,
+        use: [{
+          loader: 'style-loader', // inject CSS to page
+        }, {
+          loader: 'css-loader', // translates CSS into CommonJS modules
+        }, {
+          loader: 'postcss-loader', // Run post css actions
+          options: {
+            plugins: function () { // post css plugins, can be exported to postcss.config.js
+              return [
+                require('precss'),
+                require('autoprefixer')
+              ];
+            }
+          }
+        }, {
+          loader: 'sass-loader' // compiles Sass to CSS
+        }]
+      },
       { test: /\.(png|woff|woff2|eot|ttf|svg|jpg|ico)$/, loader: 'url-loader' }
     ]
   },
   plugins: [
     new CleanWebpackPlugin([ 'dist' ]),
-    new HtmlWebpackPlugin({ title: 'Trust in Move' })
+    new webpack.ProvidePlugin({
+      $: 'jquery',
+      jQuery: 'jquery',
+      'window.jQuery': 'jquery',
+      Popper: ['popper.js', 'default']
+    }),
+    new HtmlWebpackPlugin({ title: 'Trust in Move', template: './src/index.html' })
   ]
 };
 
