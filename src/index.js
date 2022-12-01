@@ -25,6 +25,9 @@ let content = {
   "menuQuiSuisJe": {
     "fr": "Qui suis-je?"
   },
+  "menuMentionsLegales": {
+    "fr": "Mentions légales"
+  },
   "acceuilPunshLine": {
     "fr": "Osez – Vendez – Souriez !"
   },
@@ -226,7 +229,7 @@ let content = {
   "linkedinSylviePean": {
     "fr": "https://www.linkedin.com/in/sylviepean/"
   },
-  "mentionsLegales2022Title": {
+  "mentionsLegalesTitle": {
     "fr": "Mentions légales et autres informations nécessaires (même si parfois un peu rabat-joie…)"
   },
   "nb": {
