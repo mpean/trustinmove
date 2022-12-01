@@ -357,7 +357,28 @@ function displayLanguage (language) {
 
 window.displayLanguage = displayLanguage;
 
+let sections = document.getElementsByClassName("paragraphe");
+let sec = "acceuilSection";
+
+function displaySection (section) {
+  sec = section;
+
+  for (var i = 0; i < sections.length; i++) {
+    let element = sections[i];
+    if ( element.id == section) {
+      element.hidden = false;
+    } else
+    {
+      element.hidden = true;
+    }
+  }      
+}
+
+window.displaySection = displaySection;
+
+
 displayLanguage(lang);
+displaySection(sec);
 
 function setText (id) {
   document.getElementById(id).innerHTML = content[ id ][ lang ];
