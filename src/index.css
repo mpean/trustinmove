@@ -20,7 +20,7 @@ body {
   justify-content: center;
 }
 
-.header > img {
+.header img {
   position: relative;
   top: 40%;
   z-index: 1;
@@ -41,8 +41,8 @@ body {
 }
 
 .menu a {
-  color: var(--orange2022);
-  font-size: 1.2rem;
+  color: var(--rosefuschia2022);
+  font-size: 1.3rem;
 }
 
 .content {
@@ -114,9 +114,14 @@ body {
 }
 .paragraphe h1 {
   color: var(--rosefuschia2022);
-  font-size: 4rem;
-
+  font-size: 2.5rem;
   margin-bottom: 3rem;
+}
+.paragraphe h2 {
+  color: var(--bleu2022);
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
 }
 .paragraphe a {
   color: var(--orange2022);
@@ -134,7 +139,7 @@ body {
 
 .emphase {
   background-color: var(--rosepale2022);
-  
+  margin-top: 3rem;
   padding-top: 4rem;
   padding-right: 3rem;
   padding-bottom: 6rem;

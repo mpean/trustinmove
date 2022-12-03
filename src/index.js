@@ -35,7 +35,25 @@ let content = {
     "fr": "La Vente c'est avant tout des relations humaines... autant y mettre de la joie !"
   },
   "acceuilVentePlaisir": {
-    "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela des équipes technico-commerciales, des responsables commerciaux et des indépendants comme par exemple :"
+    "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela des équipes "
+  },
+  "equipesTechnicoCommercialesAccueilLink": {
+    "fr": "équipes technico-commerciales"
+  },
+  "virguleDes": {
+    "fr": ", des "
+  },
+  "responsablesCommerciauxAccueilLink": {
+    "fr": "responsables commerciaux"
+  },
+  "etDesAccueil": {
+    "fr": " et des "
+  },
+  "independantsAccueilLink": {
+    "fr": "indépendants"
+  },
+  "commeParExemple": {
+    "fr": " comme par exemple :"
   },
   "responsablesCommerciauxTitle": {
     "fr": "Responsables commerciaux"
@@ -59,7 +77,7 @@ let content = {
     "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
   },
   "ilEnParleMieuxQueMoi": {
-    "fr": "Il en parle mieux que moi : «  J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022"
+    "fr": "Il en parle mieux que moi : « J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022"
   },
   "technicauxCommerciauxTitle": {
     "fr": "Technico-commerciaux"
@@ -86,13 +104,13 @@ let content = {
     "fr": "D’ailleurs écoutez-les, ils en parlent mieux que moi :"
   },
   "excellenteFormatriceTechnique": {
-    "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance. Merci à toi Sylvie. Guillaume, technicocommercial itinérant formé en 2020"
+    "fr": "« Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance.» Merci à toi Sylvie. Guillaume, technicocommercial itinérant formé en 2020"
   },
   "formatriceAuTop": {
-    "fr": "Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques. » Thomas technicocommercial itinérant formé en 2020 et 2021"
+    "fr": "« Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques. » Thomas technicocommercial itinérant formé en 2020 et 2021"
   },
   "merciPourCes3Jours": {
-    "fr": "Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j’ai pu appliquer aujourd’hui quelques-uns des points d’amélioration soulevés pendant la formation, et je constate déjà que ça m’est bénéfique ! [ ] Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d’être plus efficace ! :). Agathe, ingénieure commerciale itinérante formée en 2022"
+    "fr": "« Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j’ai pu appliquer aujourd’hui quelques-uns des points d’amélioration soulevés pendant la formation, et je constate déjà que ça m’est bénéfique ! [ ] Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d’être plus efficace ! :). » Agathe, ingénieure commerciale itinérante formée en 2022"
   },
   "IndependantsTitle": {
     "fr": "Indépendants"
@@ -119,10 +137,10 @@ let content = {
     "fr": "Ils en parlent mieux que moi :"
   },
   "javaisBesoinDeStructurerMonOffre": {
-    "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées. Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus ! Marie Baudrelle, Coach’ultante indépendante, septembre 2021"
+    "fr": "« J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées. Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus ! » Marie Baudrelle, Coach’ultante indépendante, septembre 2021"
   },
   "hierJetaisAvecSylvie": {
-    "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies. Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures. Aujourd'hui, j'ai un plan. Julien Léon, formateur indépendant, février 2022"
+    "fr": "« Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies. Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures. Aujourd'hui, j'ai un plan. » Julien Léon, formateur indépendant, février 2022"
   },
   "monApprocheTitle": {
     "fr": "Mon approche / comment je travaille ?"
@@ -182,13 +200,13 @@ let content = {
     "fr": "Mes clients parlent de mes pratiques mieux que moi :"
   },
   "formatriceALecoute": {
-    "fr": "Formatrice à l'écoute et beaucoup de bienveillance et surtout professionnalisme. Inna, entrepreneure formée en décembre 2021"
+    "fr": "« Formatrice à l'écoute et beaucoup de bienveillance et surtout professionnalisme. » Inna, entrepreneure formée en décembre 2021."
   },
   "laMethodePedagogiqueUtilisee": {
-    "fr": " La méthodologie utilisée par Sylvie m’a permis d’atteindre les objectifs que je souhaitais et j’ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles ! Eric, responsable commercial formé en janvier 2021"
+    "fr": "« La méthodologie utilisée par Sylvie m’a permis d’atteindre les objectifs que je souhaitais et j’ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles ! » Eric, responsable commercial formé en janvier 2021."
   },
   "tresBonneFormatriceQuiSaitInteresser": {
-    "fr": "Eric, responsable commercial formé en janvier 2021"
+    "fr": "« Très bonne formatrice qui sait intéresser son public et qui sait le faire participer … Maitrise son sujet. » Stéphane, manager d’une équipe formée en juin 2022."
   },
   "jeTravailleAMonCompte": {
     "fr": "Je travaille à mon compte mais m’appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers :"
