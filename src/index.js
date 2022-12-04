@@ -29,34 +29,28 @@ let content = {
     "fr": "Mentions légales"
   },
   "acceuilPunshLine": {
-    "fr": "Osez – Vendez – Souriez !"
+    "fr": "Osez<br>Vendez<br>Souriez !"
   },
   "acceuilRelationsHumaines": {
     "fr": "La Vente c'est avant tout des relations humaines... autant y mettre de la joie !"
-  },
+  },  
   "acceuilVentePlaisir": {
-    "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela des équipes "
+    "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela"
   },
   "equipesTechnicoCommercialesAccueilLink": {
     "fr": "équipes technico-commerciales"
   },
-  "virguleDes": {
-    "fr": ", des "
-  },
   "responsablesCommerciauxAccueilLink": {
     "fr": "responsables commerciaux"
-  },
-  "etDesAccueil": {
-    "fr": " et des "
   },
   "independantsAccueilLink": {
     "fr": "indépendants"
   },
   "commeParExemple": {
-    "fr": " comme par exemple :"
+    "fr": "Par exemple :"
   },
   "responsablesCommerciauxTitle": {
-    "fr": "Responsables commerciaux"
+    "fr": "Responsables<br>commerciaux"
   },
   "equipeCommercialeEssoufle": {
     "fr": "Vous sentez que votre équipe commerciale s’essouffle ?"
@@ -80,7 +74,7 @@ let content = {
     "fr": "Il en parle mieux que moi : « J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022"
   },
   "technicauxCommerciauxTitle": {
-    "fr": "Technico-commerciaux"
+    "fr": "Technico<br>Commerciaux"
   },
   "passerExpertTechniqueCommercial": {
     "fr": "Vous venez de passer d’un rôle d’expert technique à celui de commercial ?"
@@ -143,10 +137,10 @@ let content = {
     "fr": "« Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies. Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures. Aujourd'hui, j'ai un plan. » Julien Léon, formateur indépendant, février 2022"
   },
   "monApprocheTitle": {
-    "fr": "Mon approche / comment je travaille ?"
+    "fr": "Mon Approche<br>Comment je Travaille ?"
   },
   "vendezOsezSouriez": {
-    "fr": "Vendez – Osez – Souriez !"
+    "fr": "Vendez Osez Souriez !"
   },
   "enCreantTrustinmove": {
     "fr": "En créant Trust in Move en 2017, j’ai décidé d’aider mes clients à prendre du plaisir à vendre. Car je suis convaincue qu’on ne fait vraiment bien (longtemps) que ce que l’on aime faire. Par de la formation et de l’accompagnement individuel ou d’équipe, je permets donc aujourd’hui à des individus travaillant en PME ou en indépendant "
@@ -248,7 +242,10 @@ let content = {
     "fr": "https://www.linkedin.com/in/sylviepean/"
   },
   "mentionsLegalesTitle": {
-    "fr": "Mentions légales et autres informations nécessaires (même si parfois un peu rabat-joie…)"
+    "fr": "Mentions Légales"
+  },
+  "etAutresInformations": {
+    "fr": "Et autres informations nécessaires (même si parfois un peu rabat-joie…)."
   },
   "nb": {
     "fr": "NB"
