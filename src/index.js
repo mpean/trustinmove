@@ -376,7 +376,7 @@ function displayLanguage (language) {
 window.displayLanguage = displayLanguage;
 
 let sections = document.getElementsByClassName("section");
-let sec = "acceuilSection";
+let sec = "acceuil";
 
 function displaySection (section) {
   sec = section;
