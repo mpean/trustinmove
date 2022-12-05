@@ -375,7 +375,7 @@ function displayLanguage (language) {
 
 window.displayLanguage = displayLanguage;
 
-let sections = document.getElementsByClassName("paragraphe");
+let sections = document.getElementsByClassName("section");
 let sec = "acceuilSection";
 
 function displaySection (section) {

@@ -6,10 +6,10 @@
 
   --fontSizeP:1.2rem;
   
-  --fontSizeH1Small:4rem;
-  --fontSizeH1Medium:5rem;
-  --fontSizeH1Large:6rem;
-  --fontSizeH1ExtraLarge:7rem;
+  --fontSizeH1Small:2rem;
+  --fontSizeH1Medium:3rem;
+  --fontSizeH1Large:4rem;
+  --fontSizeH1ExtraLarge:5rem;
 
   --fontSizeH2:1.6rem;
 
@@ -182,7 +182,7 @@ body {
   align-items: center;
 }
 .right-col img {
-  max-width: 16em;
+  max-width: 26em;
   justify-self: right;
   margin-left: var(--marginSmall);  
 }
