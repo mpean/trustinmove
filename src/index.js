@@ -7,11 +7,11 @@ import "./index.css";
 "use strict";
 
 let content = {
-  "menuAcceuil": {
+  "menuAccueil": {
     "fr": "Accueil"
   },
   "menuResponsablesCommerciaux": {
-    "fr": "Responsables comm​erciaux"
+    "fr": "Responsables commerciaux"
   },
   "menuTechnicauxCommerciaux": {
     "fr": "Technicaux commerciaux"
@@ -28,13 +28,13 @@ let content = {
   "menuMentionsLegales": {
     "fr": "Mentions légales"
   },
-  "acceuilPunshLine": {
+  "accueilPunshLine": {
     "fr": "Osez<br>Vendez<br>Souriez !"
   },
-  "acceuilRelationsHumaines": {
+  "accueilRelationsHumaines": {
     "fr": "La Vente c'est avant tout des relations humaines... autant y mettre de la joie !"
   },  
-  "acceuilVentePlaisir": {
+  "accueilVentePlaisir": {
     "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela"
   },
   "equipesTechnicoCommercialesAccueilLink": {
@@ -375,8 +375,13 @@ function displayLanguage (language) {
 
 window.displayLanguage = displayLanguage;
 
+
 let sections = document.getElementsByClassName("section");
-let sec = "acceuil";
+let sec = "accueil";
+
+if(window.location.hash.length > 1){
+  sec = window.location.hash.slice(1);
+}
 
 function displaySection (section) {
   sec = section;
@@ -393,7 +398,6 @@ function displaySection (section) {
 }
 
 window.displaySection = displaySection;
-
 
 displayLanguage(lang);
 displaySection(sec);
