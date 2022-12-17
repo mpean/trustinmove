@@ -22,6 +22,7 @@
   --paddingMedium:4rem;
   --paddingLarge:5rem;
   --paddingExtraLarge:6rem;
+  --box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 body {
@@ -190,7 +191,7 @@ body {
   font-size: var(--fontSizeP);
 }
 .couverture h1 {
-  color: var(--colorRoseFuschia2022);  
+  color: white;  
   margin-bottom: var(--marginLarge);      
 }
 .couverture h2 {
@@ -287,6 +288,26 @@ body {
   justify-self: right;
   margin-left: var(--marginSmall);  
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.accueil-layout {
+  display: flex;
+  align-items:center;
+  justify-content:space-evenly;
+}
+.accueil-layout img{
+  max-width: 26em;
+  box-shadow: var(--box-shadow);
+  border-radius: 10px;
+}
+.accueil-relations-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;  
+}
+.accueil-relations-layout div{
+  width: 16rem;
+  box-shadow: var(--box-shadow);
 }
 
 .btn-link {
