@@ -7,20 +7,23 @@ import "./index.css";
 "use strict";
 
 let content = {
-  "menuAccueil": {
-    "fr": "Accueil"
+  "menuOffres": {
+    "fr": "Offres"
   },
   "menuResponsablesCommerciaux": {
     "fr": "Responsables commerciaux"
   },
   "menuTechnicauxCommerciaux": {
-    "fr": "Technicaux commerciaux"
+    "fr": "Technico commerciaux"
   },
   "menuIndependants": {
     "fr": "Indépendants"
   },
   "menuMonApproche": {
     "fr": "Mon approche"
+  },
+  "menuTrustInMove": {
+    "fr": "Trust in Move"
   },
   "menuQuiSuisJe": {
     "fr": "Qui suis-je?"
@@ -29,25 +32,43 @@ let content = {
     "fr": "Mentions légales"
   },
   "accueilPunshLine": {
-    "fr": "Osez<br>Vendez<br>Souriez !"
+    "fr": "Osez Vendez Souriez !"
   },
   "accueilRelationsHumaines": {
-    "fr": "La Vente c'est avant tout des relations humaines... autant y mettre de la joie !"
-  },  
-  "accueilVentePlaisir": {
-    "fr": "La vente peut être un vrai plaisir tout en étant efficace et Trust in Move accompagne pour cela"
+    "fr": "La Vente c'est avant tout des relations humaines...<br>autant y mettre de la joie !"
   },
-  "equipesTechnicoCommercialesAccueilLink": {
-    "fr": "équipes technico-commerciales"
+  "accueilMesOffres": {
+    "fr": "Mes offres"
   },
-  "responsablesCommerciauxAccueilLink": {
-    "fr": "responsables commerciaux"
+  "technicoCommerciauxCardTitle": {
+    "fr": "Technicaux commerciaux"
   },
-  "independantsAccueilLink": {
-    "fr": "indépendants"
+  "technicoCommerciauxCardText": {
+    "fr": "Magnifiez votre expertise technique en réveillant l'âme commerciale qui sommeille en vous."
+  },
+  "technicoCommerciauxCardButton": {
+    "fr": "En savoir plus"
+  },
+  "responsablesCommerciauxCardTitle": {
+    "fr": "Responsables commerciaux"
+  },
+  "responsablesCommerciauxCardText": {
+    "fr": "Dynamisez, formez et rassemblez votre équipe au service de votre stratégie commerciale."
+  },
+  "responsablesCommerciauxCardButton": {
+    "fr": "En savoir plus"
+  },
+  "independantsCardTitle": {
+    "fr": "<br>Indépendants"
+  },
+  "independantsCardText": {
+    "fr": "Découvrez la joie de vendre vos prestations pour développer votre activité pour en vivre mieux."
+  },
+  "independantsCardButton": {
+    "fr": "En savoir plus"
   },
   "commeParExemple": {
-    "fr": "Par exemple :"
+    "fr": "Ils me font déjà confiance"
   },
   "responsablesCommerciauxTitle": {
     "fr": "Responsables<br>commerciaux"
@@ -344,7 +365,7 @@ let content = {
     "fr": "Couteau Suisse Production"
   },
   "etSylviePean": {
-    "fr": " et Sylvie Péan."
+    "fr": ", François Landais et Sylvie Péan."
   },
   "droitApplicableTitle": {
     "fr": "Droit applicable et attribution de juridiction"
