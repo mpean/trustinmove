@@ -11,10 +11,10 @@ let content = {
     "fr": "Offres"
   },
   "menuResponsablesCommerciaux": {
-    "fr": "Responsables commerciaux"
+    "fr": "Managers commerciaux"
   },
   "menuTechnicauxCommerciaux": {
-    "fr": "Technico commerciaux"
+    "fr": "Technico-commerciaux"
   },
   "menuIndependants": {
     "fr": "Indépendants"
@@ -41,28 +41,28 @@ let content = {
     "fr": "Mes offres"
   },
   "technicoCommerciauxCardTitle": {
-    "fr": "Technicaux commerciaux"
+    "fr": "Technico-commerciaux"
   },
   "technicoCommerciauxCardText": {
-    "fr": "Magnifiez votre expertise technique en réveillant l'âme commerciale qui sommeille en vous."
+    "fr": "Magnifiez votre expertise technique en réveillant l'âme commerciale qui sommeille en vous"
   },
   "technicoCommerciauxCardButton": {
     "fr": "En savoir plus"
   },
   "responsablesCommerciauxCardTitle": {
-    "fr": "Responsables commerciaux"
+    "fr": "Managers commerciaux"
   },
   "responsablesCommerciauxCardText": {
-    "fr": "Dynamisez, formez et rassemblez votre équipe au service de votre stratégie commerciale."
+    "fr": "Dynamisez, formez et rassemblez votre équipe au service de votre stratégie commerciale"
   },
   "responsablesCommerciauxCardButton": {
     "fr": "En savoir plus"
   },
   "independantsCardTitle": {
-    "fr": "<br>Indépendants"
+    "fr": "Indépendants"
   },
   "independantsCardText": {
-    "fr": "Découvrez la joie de vendre vos prestations pour développer votre activité pour en vivre mieux."
+    "fr": "Découvrez la joie de vendre vos prestations et développez votre activité pour en vivre mieux"
   },
   "independantsCardButton": {
     "fr": "En savoir plus"
@@ -71,7 +71,7 @@ let content = {
     "fr": "Ils me font déjà confiance"
   },
   "responsablesCommerciauxTitle": {
-    "fr": "Responsables<br>commerciaux"
+    "fr": "Managers<br>commerciaux"
   },
   "equipeCommercialeEssoufle": {
     "fr": "Vous sentez que votre équipe commerciale s’essouffle ?"
@@ -92,7 +92,7 @@ let content = {
     "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
   },
   "ilEnParleMieuxQueMoi": {
-    "fr": "Il en parle mieux que moi : « J'ai confié mon équipe de ventes (responsables commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022"
+    "fr": "Il en parle mieux que moi : « J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement! » François Directeur de filiale France - 2022"
   },
   "technicauxCommerciauxTitle": {
     "fr": "Technico<br>Commerciaux"
