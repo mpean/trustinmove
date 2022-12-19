@@ -64,6 +64,10 @@ body {
   margin-top: var(--marginSmall);
 }
 
+.dropdown-menu a:hover {
+  background-color: var(--colorRosePale2022);
+}
+
 .references-images-layout {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
