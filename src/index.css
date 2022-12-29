@@ -116,9 +116,9 @@ body {
   background-color: white;
   
   padding-top: var(--paddingMedium);
-  padding-right: var(--paddingSmall);
+  padding-right: var(--paddingExtraLarge);
   padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingSmall);
+  padding-left: var(--paddingExtraLarge);
 }
 .paragraphe p {
   color: black;
@@ -148,9 +148,9 @@ body {
 .emphase {
   background-color: var(--colorRosePale2022);  
   padding-top: var(--paddingMedium);
-  padding-right: var(--paddingSmall);
+  padding-right: var(--paddingExtraLarge);
   padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingSmall);  
+  padding-left: var(--paddingExtraLarge);  
 }
 .emphase p {
   color: var(--colorBleu2022);
@@ -201,9 +201,9 @@ body {
 .couverture {
   background-color: var(--coloOrange2022);  
   padding-top: var(--paddingMedium);
-  padding-right: var(--paddingSmall);
+  padding-right: var(--paddingExtraLarge);
   padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingSmall);  
+  padding-left: var(--paddingExtraLarge);  
 }
 .couverture p {
   color: white;
@@ -232,9 +232,9 @@ body {
 .principale {
   background-color: var(--colorBleu2022);  
   padding-top: var(--paddingMedium);
-  padding-right: var(--paddingSmall);
+  padding-right: var(--paddingExtraLarge);
   padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingSmall);  
+  padding-left: var(--paddingExtraLarge);  
 }
 .principale p {
   color: white;
@@ -311,31 +311,49 @@ body {
   box-shadow: var(--box-shadow);
 }
 
-.accueil-layout {
-  display: flex;
-  align-items:center;
-  justify-content:space-evenly;
-  margin-bottom: var(--marginLarge);
-}
-.accueil-layout img{
-  max-width: 26em;
-  box-shadow: var(--box-shadow);
-  border-radius: var(--border-radius);
-}
-.accueil-relations-layout {
+
+.three-cols-layout {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
   margin-bottom: var(--marginLarge);
 }
-.accueil-relations-layout div{
+.three-cols-layout div{
   max-width: 16rem;
 }
-.accueil-relations-texte {
+.centred-text {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-bottom: var(--marginLarge);
+}
+.centered-logo-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: var(--marginLarge);
+}
+
+.left-right-layout {
+  display: flex;
+  align-items:center;
+  justify-content:space-evenly;
+  margin-bottom: var(--marginLarge);
+}
+.left-right-layout-left-content {
+  padding-right: var(--paddingExtraLarge);
+}
+.left-right-layout-right-content {
+  padding-left: var(--paddingExtraLarge);
+}
+.left-right-layout img{
+  max-width: 26em;
+  box-shadow: var(--box-shadow);
+  border-radius: var(--border-radius);
+}
+
+.logo-icon {
+  max-width: 6em;
 }
 
 .btn-link {
