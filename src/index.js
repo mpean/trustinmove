@@ -67,7 +67,7 @@ let content = {
   "independantsCardButton": {
     "fr": "En savoir plus"
   },
-  "commeParExemple": {
+  "ilsMeFontDejaConfiance": {
     "fr": "Ils me font déjà confiance"
   },
   "responsablesCommerciauxTitle": {
@@ -91,11 +91,17 @@ let content = {
   "jeVousAccompagne": {
     "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
   },
-  "ilEnParleMieuxQueMoiTitle": {
-    "fr": "Il en parle mieux que moi"
+  "jaiConfieMonEquipeDeVentes": {
+    "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout ! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
   },
   "jaiConfieMonEquipeDeVentes": {
-    "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
+    "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle."
+  },
+  "preparationTresPro": {
+    "fr": "Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout !"
+  },
+  "onEstDansLeConcret": {
+    "fr": "On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
   },
   "francoisDirecteurDeFiliafe": {
     "fr": "François Directeur de filiale France - 2022"
