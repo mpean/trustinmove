@@ -147,9 +147,9 @@ body {
 .paragraphe-card {
   background-color: white;  
   padding-top: var(--paddingMedium);
-  padding-right: var(--paddingSmall);
+  padding-right: var(--paddingExtraLarge);
   padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingSmall);  
+  padding-left: var(--paddingExtraLarge);  
 }
 .paragraphe-card h2 {
   color: var(--colorBleu2022);
@@ -192,9 +192,9 @@ body {
 .emphase-card {
   background-color: var(--colorRosePale2022);  
   padding-top: var(--paddingMedium);
-  padding-right: var(--paddingSmall);
+  padding-right: var(--paddingExtraLarge);
   padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingSmall);  
+  padding-left: var(--paddingExtraLarge);  
 }
 .emphase-card h2 {
   color: var(--coloOrange2022);

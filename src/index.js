@@ -91,6 +91,9 @@ let content = {
   "jeVousAccompagne": {
     "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
   },
+  "ilEnParleMieuxqueMoi": {
+    "fr": "Il en parle mieux que moi"
+  },
   "jaiConfieMonEquipeDeVentes": {
     "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout ! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
   },
@@ -131,19 +134,37 @@ let content = {
     "fr": "D'ailleurs écoutez-les, ils en parlent mieux que moi"
   },
   "excellenteFormatriceTechnique": {
-    "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance. Merci à toi Sylvie."
+    "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande."
+  },
+  "nhesitezPas": {
+    "fr": "N'hésitez pas et faites lui confiance."
+  },
+  "merciAToiSylvie": {
+    "fr": "Merci à toi Sylvie."
   },
   "guillaumeTechnicoCommercial": {
     "fr": "Guillaume, technicocommercial itinérant formé en 2020"
   },
   "formatriceAuTop": {
-    "fr": "Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques."
+    "fr": "Une formatrice au top!"
+  },
+  "dynamiqueSouriante": {
+    "fr": "Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel."
+  },
+  "lesDeuxFormations": {
+    "fr": "Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques."
   },
   "thomasTechnicoCommercial": {
     "fr": "Thomas technicocommercial itinérant formé en 2020 et 2021"
   },
   "merciPourCes3Jours": {
-    "fr": "Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j'ai pu appliquer aujourd'hui quelques-uns des points d'amélioration soulevés pendant la formation, et je constate déjà que ça m'est bénéfique ! Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace ! :)."
+    "fr": "Encore merci pour ces 3 jours intéressants et instructifs."
+  },
+  "pourMaPart": {
+    "fr": "Pour ma part j'ai pu appliquer aujourd'hui quelques-uns des points d'amélioration soulevés pendant la formation, et je constate déjà que ça m'est bénéfique !"
+  },
+  "doncEncoreMerci": {
+    "fr": "Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace ! :)."
   },
   "agatheIngenieureCommerciale": {
     "fr": "Agathe, ingénieure commerciale itinérante formée en 2022"
