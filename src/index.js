@@ -107,7 +107,7 @@ let content = {
     "fr": "François Directeur de filiale France - 2022"
   },
   "technicauxCommerciauxTitle": {
-    "fr": "Technico<br>Commerciaux"
+    "fr": "Technico Commerciaux"
   },
   "passerExpertTechniqueCommercial": {
     "fr": "Vous venez de passer d'un rôle d'expert technique à celui de commercial ?"
@@ -128,16 +128,25 @@ let content = {
     "fr": " que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir."
   },
   "ecoutezLesIlsEnParlent": {
-    "fr": "D'ailleurs écoutez-les, ils en parlent mieux que moi :"
+    "fr": "D'ailleurs écoutez-les, ils en parlent mieux que moi"
   },
   "excellenteFormatriceTechnique": {
-    "fr": "« Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance.» Merci à toi Sylvie. Guillaume, technicocommercial itinérant formé en 2020"
+    "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande. N'hésitez pas et faites lui confiance. Merci à toi Sylvie."
+  },
+  "guillaumeTechnicoCommercial": {
+    "fr": "Guillaume, technicocommercial itinérant formé en 2020"
   },
   "formatriceAuTop": {
-    "fr": "« Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques. » Thomas technicocommercial itinérant formé en 2020 et 2021"
+    "fr": "Une formatrice au top! Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel. Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques."
+  },
+  "thomasTechnicoCommercial": {
+    "fr": "Thomas technicocommercial itinérant formé en 2020 et 2021"
   },
   "merciPourCes3Jours": {
-    "fr": "« Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j'ai pu appliquer aujourd'hui quelques-uns des points d'amélioration soulevés pendant la formation, et je constate déjà que ça m'est bénéfique ! [ ] Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace ! :). » Agathe, ingénieure commerciale itinérante formée en 2022"
+    "fr": "Encore merci pour ces 3 jours intéressants et instructifs, pour ma part j'ai pu appliquer aujourd'hui quelques-uns des points d'amélioration soulevés pendant la formation, et je constate déjà que ça m'est bénéfique ! Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace ! :)."
+  },
+  "agatheIngenieureCommerciale": {
+    "fr": "Agathe, ingénieure commerciale itinérante formée en 2022"
   },
   "IndependantsTitle": {
     "fr": "Indépendants"

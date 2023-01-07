@@ -144,6 +144,19 @@ body {
 .paragraphe a:hover {
   text-decoration: none;
 }
+.paragraphe-card {
+  background-color: white;  
+  padding-top: var(--paddingMedium);
+  padding-right: var(--paddingSmall);
+  padding-bottom: var(--paddingMedium);
+  padding-left: var(--paddingSmall);  
+}
+.paragraphe-card h2 {
+  color: var(--colorBleu2022);
+  font-size: var(--fontSizeH2);
+  margin-top: var(--marginLarge);
+  margin-bottom: var(--marginMedium);
+}
 
 .emphase {
   background-color: var(--colorRosePale2022);  
@@ -319,7 +332,7 @@ body {
   margin-bottom: var(--marginLarge);
 }
 .three-cols-layout div{
-  max-width: 16rem;
+  max-width: 22rem;
 }
 .centred-text {
   display: flex;
