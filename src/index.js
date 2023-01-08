@@ -248,10 +248,28 @@ let content = {
     "fr": "Vous former efficacement et joyeusement"
   },
   "detentriceDuTitreDeFormatrice": {
-    "fr": "Détentrice du titre de Formatrice Professionnelle pour Adultes, je propose des formations basées sur la pédagogie active pour faciliter la mise en œuvre des acquis de formation. Je varie les outils et techniques pour répondre aux besoins de chaque apprenant. J'ai d'ailleurs à cœur de toujours continuer à me former pour diversifier et améliorer ma boîte à outils."
+    "fr": "Détentrice du titre de Formatrice Professionnelle pour Adultes, je propose des formations basées sur la pédagogie active pour faciliter la mise en œuvre des acquis de formation. "
+  },
+  "jeVarieLEsOutils": {
+    "fr": "Je varie les outils et techniques pour répondre aux besoins de chaque apprenant."
+  },
+  "jaiDailleursACoeur": {
+    "fr": "J'ai d'ailleurs à cœur de toujours continuer à me former pour diversifier et améliorer ma boîte à outils."
   },
   "jaiPuVoirCombienOnRetienMieux": {
-    "fr": "J'ai pu voir combien on retient mieux ce qu'on expérimente soi même et encore mieux quand on l'expérimente dans la bonne humeur. C'est pourquoi j'aime utiliser des jeux ou des outils ludiques en formation. Je propose quand c'est possible de se former en marchant ou en bougeant. Les Plus-Plus, la musique et le photolangage par exemple font souvent partie de mes outils d'animation en présentiel. J'utilise aussi des jeux d'improvisation théâtrale et des techniques inspirées du "
+    "fr": "J'ai pu voir combien on retient mieux ce qu'on expérimente soi même et encore mieux quand on l'expérimente dans la bonne humeur."
+  },
+  "cestPourquoiJaimeUtiliser": {
+    "fr": "C'est pourquoi j'aime utiliser des jeux ou des outils ludiques en formation."
+  },
+  "jeProposeQuandCestPossible": {
+    "fr": "Je propose quand c'est possible de se former en marchant ou en bougeant. "
+  },
+  "lesPlusPlus": {
+    "fr": "Les Plus-Plus, la musique et le photolangage par exemple font souvent partie de mes outils d'animation en présentiel."
+  },
+  "jUtiliseAussi": {
+    "fr": "J'utilise aussi des jeux d'improvisation théâtrale et des techniques inspirées du "
   },
   "funnyLearning": {
     "fr": "Funny Learning"
@@ -287,16 +305,25 @@ let content = {
     "fr": ", je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales. En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise. L'incitation financière peut motiver mais la coopération ça paye !"
   },
   "mesClientsParlentDeMesPratiques": {
-    "fr": "Mes clients parlent de mes pratiques mieux que moi :"
+    "fr": "Mes clients parlent de mes pratiques mieux que moi"
   },
   "formatriceALecoute": {
-    "fr": "« Formatrice à l'écoute et beaucoup de bienveillance et surtout professionnalisme. » Inna, entrepreneure formée en décembre 2021."
+    "fr": "Formatrice à l'écoute et beaucoup de bienveillance et surtout professionnalisme."
+  },
+  "innaEntrepreneure": {
+    "fr": "Inna, entrepreneure formée en décembre 2021."
   },
   "laMethodePedagogiqueUtilisee": {
-    "fr": "« La méthodologie utilisée par Sylvie m'a permis d'atteindre les objectifs que je souhaitais et j'ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles ! » Eric, responsable commercial formé en janvier 2021."
+    "fr": "La méthodologie utilisée par Sylvie m'a permis d'atteindre les objectifs que je souhaitais et j'ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles !"
+  },
+  "ericResponsableCommercial": {
+    "fr": "Eric, responsable commercial formé en janvier 2021."
   },
   "tresBonneFormatriceQuiSaitInteresser": {
-    "fr": "« Très bonne formatrice qui sait intéresser son public et qui sait le faire participer … Maitrise son sujet. » Stéphane, manager d'une équipe formée en juin 2022."
+    "fr": "Très bonne formatrice qui sait intéresser son public et qui sait le faire participer … Maitrise son sujet."
+  },
+  "stephaneManager": {
+    "fr": "Stéphane, manager d'une équipe formée en juin 2022."
   },
   "jeTravailleAMonCompte": {
     "fr": "Je travaille à mon compte mais m'appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers :"
