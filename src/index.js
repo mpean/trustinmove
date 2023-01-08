@@ -91,8 +91,8 @@ let content = {
   "jeVousAccompagne": {
     "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
   },
-  "ilEnParleMieuxqueMoi": {
-    "fr": "Il en parle mieux que moi"
+  "temoignage": {
+    "fr": "Témoignage"
   },
   "jaiConfieMonEquipeDeVentes": {
     "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout ! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
@@ -146,7 +146,7 @@ let content = {
     "fr": "Guillaume, technicocommercial itinérant formé en 2020"
   },
   "formatriceAuTop": {
-    "fr": "Une formatrice au top!"
+    "fr": "Une formatrice au top !"
   },
   "dynamiqueSouriante": {
     "fr": "Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel."
@@ -185,19 +185,49 @@ let content = {
     "fr": "En revanche je permets à mes clients de voir la vente autrement et d'y prendre du plaisir en restant eux-mêmes sans avoir l'impression de se trahir."
   },
   "mettezJoieDemarcheCommerciale": {
-    "fr": "Mettez de la joie dans votre démarche commerciale ! Je peux vous aider à poser votre stratégie commerciale, à choisir vos cibles, à écrire votre plan d'action et à définir des tarifs qui vous permettront de bien vivre de votre activité. Je suis convaincue que nous avons tous une facette commerciale en nous et qu'il suffit d'y travailler pour la révéler et la faire briller."
+    "fr": "Mettez de la joie dans votre démarche commerciale !"
+  },
+  "jePeuxVousAiderA": {
+    "fr": "Je peux vous aider à"
+  },
+  "poserVotreStrategieCommerciale": {
+    "fr": "Poser votre stratégie commerciale."
+  },
+  "choisirVosCibles": {
+    "fr": "Choisir vos cibles."
+  },
+  "ecrireVotrePlanDAction": {
+    "fr": "Ecrire votre plan d'action et à définir des tarifs qui vous permettront de bien vivre de votre activité."
+  },
+  "jeSuisConvaincueQueNousAvonsTous": {
+    "fr": "Je suis convaincue que nous avons tous une facette commerciale en nous et qu'il suffit d'y travailler pour la révéler et la faire briller."
   },
   "plaisirAVendre": {
     "fr": "C'est pourquoi j'accompagne et je forme des indépendants pour qu'ils aient du plaisir à vendre. Pour qu'ils aient du plaisir à vivre de leur expertise."
   },  
   "ilsEnParlent": {
-    "fr": "Ils en parlent mieux que moi :"
+    "fr": "Ils en parlent mieux que moi"
   },
   "javaisBesoinDeStructurerMonOffre": {
-    "fr": "« J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées. Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus ! » Marie Baudrelle, Coach'ultante indépendante, septembre 2021"
+    "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées."
+  },
+  "sylvieAProposeLaBonneApproche": {
+    "fr": "Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus !"
+  },
+  "marieBaudrelle": {
+    "fr": "Marie Baudrelle, Coach'ultante indépendante, septembre 2021"
   },
   "hierJetaisAvecSylvie": {
-    "fr": "« Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies. Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures. Aujourd'hui, j'ai un plan. » Julien Léon, formateur indépendant, février 2022"
+    "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies."
+  },
+  "ilYaEuDeLaBienveillance": {
+    "fr": "Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures."
+  },
+  "aujourdhuiJaiUnPlan": {
+    "fr": "Aujourd'hui, j'ai un plan."
+  },
+  "julienLeon": {
+    "fr": "Julien Léon, formateur indépendant, février 2022"
   },
   "monApprocheTitle": {
     "fr": "Mon Approche<br>Comment je Travaille ?"

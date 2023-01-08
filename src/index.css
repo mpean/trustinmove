@@ -189,6 +189,9 @@ body {
 .emphase a:hover {
   text-decoration: none;
 }
+.emphase li {
+  color: var(--colorBleu2022);
+}
 .emphase-card {
   background-color: var(--colorRosePale2022);  
   padding-top: var(--paddingMedium);
@@ -334,6 +337,17 @@ body {
 .three-cols-layout div{
   max-width: 22rem;
 }
+
+.two-cols-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  margin-bottom: var(--marginLarge);
+}
+.two-cols-layout div{
+  max-width: 32rem;
+}
+
 .centred-text {
   display: flex;
   flex-direction: column;
