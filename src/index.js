@@ -197,7 +197,10 @@ let content = {
     "fr": "Choisir vos cibles."
   },
   "ecrireVotrePlanDAction": {
-    "fr": "Ecrire votre plan d'action et à définir des tarifs qui vous permettront de bien vivre de votre activité."
+    "fr": "Ecrire votre plan d'action."
+  },
+  "definirDesTarifs": {
+    "fr": "Définir des tarifs qui vous permettront de bien vivre de votre activité."
   },
   "jeSuisConvaincueQueNousAvonsTous": {
     "fr": "Je suis convaincue que nous avons tous une facette commerciale en nous et qu'il suffit d'y travailler pour la révéler et la faire briller."
