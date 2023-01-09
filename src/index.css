@@ -301,6 +301,9 @@ body {
   text-decoration: none;
 }
 
+.p-inline {  
+  margin-bottom: 1rem;
+}
 .p-inline p {
   display: inline;
 }

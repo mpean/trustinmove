@@ -272,22 +272,31 @@ let content = {
     "fr": "J'utilise aussi des jeux d'improvisation théâtrale et des techniques inspirées du "
   },
   "funnyLearning": {
-    "fr": "Funny Learning"
+    "fr": "Funny Learning."
   },
   "janimeAussiBienEnPresentiel": {
-    "fr": ". J'anime aussi bien en présentiel qu'à distance en adaptant mes méthodes pédagogiques."
+    "fr": "J'anime aussi bien en présentiel qu'à distance en adaptant mes méthodes pédagogiques."
   },
   "jeConcoisDesFormations": {
     "fr": "Je conçois des formations sur mesure"
   },
   "pourEtreProcheDeLaRealite": {
-    "fr": " pour être proche de la réalité des apprenants. C'est pourquoi j'affectionne tout particulièrement les univers complexes qui nécessite une acculturation. Mon bagage technique acquis dans ma formation d'ingénieure et pendant mon expérience de plus de 15 ans dans des industries aussi diverses que la plasturgie, le soudage automatisé ou la ventilation industrielle me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
+    "fr": " pour être proche de la réalité des apprenants."
+  },
+  "cestPourquoiJaffectionne": {
+    "fr": "C'est pourquoi j'affectionne tout particulièrement les univers complexes qui nécessite une acculturation."
+  },
+  "monBagageTechnique": {
+    "fr": "Mon bagage technique acquis dans ma formation d'ingénieure et pendant mon expérience de plus de 15 ans dans des industries aussi diverses que la plasturgie, le soudage automatisé ou la ventilation industrielle me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
   },
   "vousAccompagnerAMieuxVendre": {
     "fr": "Vous accompagner à mieux vendre"
   },
   "praticienneDISC": {
-    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre.  : communication non violente, écoute, …"
+    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre :"
+  },
+  "communicationNonViolante": {
+    "fr": "Communication non violente, écoute, …"
   },
   "formeeALintelligenceCollective": {
     "fr": "Formée à l'intelligence collective et à l'accompagnement au changement, j'aide des équipes à formaliser puis mettre en œuvre leur stratégie commerciale pour atteindre leurs objectifs."
@@ -302,7 +311,13 @@ let content = {
     "fr": "l'Ouvre-Boites 44"
   },
   "jeTravailleAussiAvecMesClients": {
-    "fr": ", je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales. En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise. L'incitation financière peut motiver mais la coopération ça paye !"
+    "fr": ", je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales."
+  },
+  "enEffetSelonMonExperience": {
+    "fr": "En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise."
+  },
+  "lIncitationFinanciere": {
+    "fr": "L'incitation financière peut motiver mais la coopération, ça paye !"
   },
   "mesClientsParlentDeMesPratiques": {
     "fr": "Mes clients parlent de mes pratiques mieux que moi"
