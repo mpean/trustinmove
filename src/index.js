@@ -92,7 +92,7 @@ let content = {
     "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
   },
   "temoignage": {
-    "fr": "Témoignage"
+    "fr": "Il en parle mieux que moi"
   },
   "jaiConfieMonEquipeDeVentes": {
     "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout ! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
@@ -131,7 +131,7 @@ let content = {
     "fr": " que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir."
   },
   "ecoutezLesIlsEnParlent": {
-    "fr": "D'ailleurs écoutez-les, ils en parlent mieux que moi"
+    "fr": "Ils en parlent mieux que moi"
   },
   "excellenteFormatriceTechnique": {
     "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande."
@@ -233,7 +233,7 @@ let content = {
     "fr": "Julien, formateur indépendant, février 2022"
   },
   "monApprocheTitle": {
-    "fr": "Mon Approche<br>Comment je Travaille ?"
+    "fr": "Mon Approche<br>Comment je travaille ?"
   },
   "vendezOsezSouriez": {
     "fr": "Vendez Osez Souriez !"
@@ -317,7 +317,7 @@ let content = {
     "fr": "L'incitation financière peut motiver mais la coopération, ça paye !"
   },
   "mesClientsParlentDeMesPratiques": {
-    "fr": "Mes clients parlent de mes pratiques mieux que moi"
+    "fr": "Ils en parlent mieux que moi"
   },
   "formatriceALecoute": {
     "fr": "Formatrice à l'écoute et beaucoup de bienveillance et surtout professionnalisme."
