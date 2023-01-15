@@ -8,7 +8,7 @@ import "./index.css";
 
 let content = {
   "menuOffres": {
-    "fr": "Offres"
+    "fr": "Vous"
   },
   "menuResponsablesCommerciaux": {
     "fr": "Managers commerciaux"
@@ -38,7 +38,7 @@ let content = {
     "fr": "La Vente c'est avant tout des relations humaines...<br>autant y mettre de la joie !"
   },
   "accueilMesOffres": {
-    "fr": "Mes offres"
+    "fr": "Mes solutions"
   },
   "technicoCommerciauxCardTitle": {
     "fr": "Technico-commerciaux"
@@ -107,10 +107,10 @@ let content = {
     "fr": "On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
   },
   "francoisDirecteurDeFiliafe": {
-    "fr": "François Directeur de filiale France - 2022"
+    "fr": "François, Directeur de filiale France - 2022"
   },
   "technicauxCommerciauxTitle": {
-    "fr": "Technico Commerciaux"
+    "fr": "Technico-Commerciaux"
   },
   "passerExpertTechniqueCommercial": {
     "fr": "Vous venez de passer d'un rôle d'expert technique à celui de commercial ?"
@@ -143,7 +143,7 @@ let content = {
     "fr": "Merci à toi Sylvie."
   },
   "guillaumeTechnicoCommercial": {
-    "fr": "Guillaume, technicocommercial itinérant formé en 2020"
+    "fr": "Guillaume, technico-commercial itinérant formé en 2020"
   },
   "formatriceAuTop": {
     "fr": "Une formatrice au top !"
@@ -155,7 +155,7 @@ let content = {
     "fr": "Les deux formations reçues liées à la vente m'ont vraiment permis de découvrir de nouvelles techniques."
   },
   "thomasTechnicoCommercial": {
-    "fr": "Thomas technicocommercial itinérant formé en 2020 et 2021"
+    "fr": "Thomas, technico-commercial itinérant formé en 2020 et 2021"
   },
   "merciPourCes3Jours": {
     "fr": "Encore merci pour ces 3 jours intéressants et instructifs."
@@ -218,7 +218,7 @@ let content = {
     "fr": "Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus !"
   },
   "marieBaudrelle": {
-    "fr": "Marie Baudrelle, Coach'ultante indépendante, septembre 2021"
+    "fr": "Marie, Coach'ultante indépendante, septembre 2021"
   },
   "hierJetaisAvecSylvie": {
     "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies."
@@ -230,7 +230,7 @@ let content = {
     "fr": "Aujourd'hui, j'ai un plan."
   },
   "julienLeon": {
-    "fr": "Julien Léon, formateur indépendant, février 2022"
+    "fr": "Julien, formateur indépendant, février 2022"
   },
   "monApprocheTitle": {
     "fr": "Mon Approche<br>Comment je Travaille ?"
@@ -293,10 +293,7 @@ let content = {
     "fr": "Vous accompagner à mieux vendre"
   },
   "praticienneDISC": {
-    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre :"
-  },
-  "communicationNonViolante": {
-    "fr": "Communication non violente, écoute, …"
+    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre : communication non violente, écoute, …"
   },
   "formeeALintelligenceCollective": {
     "fr": "Formée à l'intelligence collective et à l'accompagnement au changement, j'aide des équipes à formaliser puis mettre en œuvre leur stratégie commerciale pour atteindre leurs objectifs."
