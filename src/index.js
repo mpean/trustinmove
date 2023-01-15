@@ -340,6 +340,9 @@ let content = {
   "stephaneManager": {
     "fr": "Stéphane, manager d'une équipe formée en juin 2022."
   },
+  "monReseau": {
+    "fr": "Mon réseau"
+  },
   "jeTravailleAMonCompte": {
     "fr": "Je travaille à mon compte mais m'appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers :"
   },
