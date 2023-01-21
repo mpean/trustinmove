@@ -37,15 +37,13 @@ body {
 }
 
 .header {
-  grid-column: 2 / 3;
-
   display: flex;
   justify-content: center;
 }
 
 .header img {
   position: relative;
-  top: 40%;
+  top: 80%;
   z-index: 1;
 }
 
@@ -62,6 +60,7 @@ body {
 .dropdown-menu a:hover {
   background-color: var(--colorRosePale2022);
 }
+
 
 .references-images-layout {
   display: grid;
@@ -275,6 +274,11 @@ body {
 }
 .left-right-layout img{
   max-width: 26em;
+  box-shadow: var(--box-shadow);
+  border-radius: var(--border-radius);
+}
+
+.img-shadow {
   box-shadow: var(--box-shadow);
   border-radius: var(--border-radius);
 }

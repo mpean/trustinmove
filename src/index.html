@@ -1,72 +1,70 @@
-<div class="main-layout">
+<div class="container">
   <div class="header">
     <img src="Logotype_TrustinMove_sansfond_ROND_CORPO_BD.png" alt="Trustinmove logo 2022">
   </div>
 </div>
 
-<div class="main-layout">
-
-  <div class="content">
-    <div class="menu">
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#accueil" onclick="displaySection('accueil')">
-          <img src="Elementsgraphiques_TrustinMove-05.svg" width="30" height="30" class="d-inline-block align-top"
-            alt="Accueil">
+<div class="container">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#accueil" onclick="displaySection('accueil')">
+      <img src="Elementsgraphiques_TrustinMove-05.svg" width="30" height="30" class="d-inline-block align-top"
+        alt="Accueil">
+    </a>
+    <ul class="navbar-nav">
+      <li class="nav-item dropdown active">
+        <a id="menuOffres" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          menuOffres
         </a>
-        <ul class="navbar-nav">
-          <li class="nav-item dropdown active">
-            <a id="menuOffres" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
-              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              menuOffres
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a id="menuResponsablesCommerciaux" class="dropdown-item" href="#responsablesCommerciaux"
-                onclick="displaySection('responsablesCommerciaux')">menuResponsablesCommerciaux</a>
-              <a id="menuTechnicauxCommerciaux" class="dropdown-item" href="#technicauxCommerciaux"
-                onclick="displaySection('technicauxCommerciaux')">menuTechnicauxCommerciaux</a>
-              <a id="menuIndependants" class="dropdown-item" href="#independants"
-                onclick="displaySection('independants')">menuIndependants</a>
-            </div>
-          </li>
-          <li class="nav-item dropdown active">
-            <a id="menuTrustInMove" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
-              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              menuTrustInMove
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a id="menuMonApproche" class="dropdown-item" href="#monApproche"
-                onclick="displaySection('monApproche')">menuMonApproche</a>
-              <a id="menuQuiSuisJe" class="dropdown-item" href="#quiSuisJe"
-                onclick="displaySection('quiSuisJe')">menuQuiSuisJe</a>
-              <a id="menuMentionsLegales" class="dropdown-item" href="#mentionsLegales"
-                onclick="displaySection('mentionsLegales')">menuMentionsLegales</a>
-            </div>
-          </li>
-        </ul>
-      </nav>
-    </div>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a id="menuResponsablesCommerciaux" class="dropdown-item" href="#responsablesCommerciaux"
+            onclick="displaySection('responsablesCommerciaux')">menuResponsablesCommerciaux</a>
+          <a id="menuTechnicauxCommerciaux" class="dropdown-item" href="#technicauxCommerciaux"
+            onclick="displaySection('technicauxCommerciaux')">menuTechnicauxCommerciaux</a>
+          <a id="menuIndependants" class="dropdown-item" href="#independants"
+            onclick="displaySection('independants')">menuIndependants</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown active">
+        <a id="menuTrustInMove" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          menuTrustInMove
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a id="menuMonApproche" class="dropdown-item" href="#monApproche"
+            onclick="displaySection('monApproche')">menuMonApproche</a>
+          <a id="menuQuiSuisJe" class="dropdown-item" href="#quiSuisJe"
+            onclick="displaySection('quiSuisJe')">menuQuiSuisJe</a>
+          <a id="menuMentionsLegales" class="dropdown-item" href="#mentionsLegales"
+            onclick="displaySection('mentionsLegales')">menuMentionsLegales</a>
+        </div>
+      </li>
+    </ul>
+  </nav>
+</div>
 
-    <div class="section" id="accueil">
-      <div class="couverture">
-        <div class="left-right-layout">
-          <div class="left-right-layout-left-content ">
-            <h1 id="accueilPunshLine">accueilPunshLine</h1>
-            <h2 id="accueilRelationsHumaines">accueilRelationsHumaines</h2>
-          </div>
-          <div>
-            <img src="seelvee.png" alt="Sylvie Péan">
-          </div>
+<div class="container">
+  <div class="section" id="accueil">
+    <div class="couverture">
+      <div class="row">
+        <div class="col-lg-8">
+          <h1 id="accueilPunshLine">accueilPunshLine</h1>
+          <h2 id="accueilRelationsHumaines">accueilRelationsHumaines</h2>
+        </div>
+        <div class="col-lg-4">
+          <img src="seelvee.png" alt="Sylvie Péan" class="rounded img-fluid mx-auto d-block">
         </div>
       </div>
+    </div>
 
-      <div class="emphase-card">
+    <div class="emphase-card">
+      <div class="centred-text">
+        <h2 id="accueilMesOffres">accueilMesOffres</h2>
+      </div>
 
-        <div class="centred-text">
-          <h2 id="accueilMesOffres">accueilMesOffres</h2>
-        </div>
-
-        <div class="three-cols-layout">
-          <div class="card">
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="card mb-4 shadow-sm">
             <img class="card-img-top" src="Image2.jpg"
               alt="Photo de Technicaux commerciaux en train de travailler collectivement">
             <div class="card-body">
@@ -77,8 +75,10 @@
                 class="btn btn-primary">technicoCommerciauxCardButton</a>
             </div>
           </div>
+        </div>
 
-          <div class="card">
+        <div class="col-lg-4">
+          <div class="card mb-4 shadow-sm">
             <img class="card-img-top" src="responsables-commerciaux.jpg"
               alt="Photo de reponsables commerciaux en train de marcher">
             <div class="card-body">
@@ -89,8 +89,10 @@
                 class="btn btn-primary">responsablesCommerciauxCardButton</a>
             </div>
           </div>
+        </div>
 
-          <div class="card">
+        <div class="col-lg-4">
+          <div class="card mb-4 shadow-sm">
             <img class="card-img-top" src="Image6.jpg" alt="Photo de Sylvie Péan avec des indépendants en formation">
             <div class="card-body">
               <h5 id="independantsCardTitle" class="card-title">independantsCardTitle</h5>
@@ -99,46 +101,115 @@
                 class="btn btn-primary">independantsCardButton</a>
             </div>
           </div>
-
-        </div>
-      </div>
-
-      <div class="paragraphe">
-        <div class="centred-text">
-          <h2 id="ilsMeFontDejaConfiance">ilsMeFontDejaConfiance</h2>
         </div>
 
-        <div class="references-images-layout">
-          <a href="https://algimouss.com/" target="_blank"><img src="ALGIMOUSS.png" alt="Algimouss"></a>
-          <a href="https://altios.com/" target="_blank"><img class="altios-img" src="Altios.jpg" alt="Altios"></a>
-          <a href="http://www.audencia.com/" target="_blank"><img src="audencia.jpg" alt="Audencia"></a>          
-
-          <a href="https://www.beelink-formation.fr/" target="_blank"><img src="beelink.jpg" alt="Beelink"></a>
-          <a href="https://metropole.nantes.fr/cadran" target="_blank"><img src="cadran.jpg" alt="Cadran Nantes"></a>
-          <a href="http://www.ceth.eu/" target="_blank"><img src="ceth.jpg" alt="CETh"></a>
-
-          <a href="https://chrysalide-formations.fr/" target="_blank"><img src="Chrysalide-Formations.png" alt="Chrysalide Formations"></a>
-          <a href="https://foodloire-export-agroalimentaire-pays-de-la-loire.chambres-agriculture.fr/"
-            target="_blank"><img src="foodloire.jpg" alt="FoodLoire"></a>
-          <a href="https://www.gsk.com" target="_blank"><img src="GSK.png" alt="GSK"></a>
-          <a href="https://www.kesch-training.eu/" target="_blank"><img src="Kesch.jpg" alt="Kesch"></a>
-          
-          <a href="https://www.maugin-sas.com/" target="_blank"><img src="maugin.png" alt="maugin"></a>
-          <a href="https://www.mbway.com/" target="_blank"><img src="mbway.png" alt="MBway"></a>
-          <a href="https://optimeo.com/" target="_blank"><img src="Optimeo.jpg" alt="Optimeo"></a>
-
-          <a href="https://www.orsys.fr/" target="_blank"><img src="Orsys.jpg" alt="Orsys formation"></a>
-          <a href="https://www.partenaireformation.com/" target="_blank"><img src="Partenaire-Formation.png" alt="Partenaire formation"></a>
-          <a href="http://www.polysoude.com/" target="_blank"><img src="Polysoude.jpg" alt="Polysoude"></a>
-
-          <a href="https://polytech.univ-tours.fr/" target="_blank"><img src="polytech-tours.jpg" alt="Polytech Tours"></a>
-          <a href="https://www.schaltbau.com/en/about-us/schaltbau-worldwide/schaltbau-france/" target="_blank"><img src="schaltbau-logo.jpg" alt="Schaltbau"></a>
-          <a href="http://univ-angers.fr/" target="_blank"><img src="universite-angers.png" alt="Université Angers"></a>
-
-          <a href="https://www.visiplus-digital-learning.com/" target="_blank"><img src="Visiplus.jpg" alt="Visiplus Digital Learning"></a>
-        </div>
       </div>
     </div>
+
+    <div class="paragraphe">
+      <div class="centred-text">
+        <h2 id="ilsMeFontDejaConfiance">ilsMeFontDejaConfiance</h2>
+      </div>
+
+      <div class="row align-items-center text-center">
+        <div class="col mx-2 py-2">
+          <a href="https://algimouss.com/" target="_blank"><img src="ALGIMOUSS.png" alt="Algimouss"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://altios.com/" target="_blank"><img src="altios_logo.png" alt="Altios" class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="http://www.audencia.com/" target="_blank"><img src="audencia.jpg" alt="Audencia"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.beelink-formation.fr/" target="_blank"><img src="beelink.jpg" alt="Beelink"
+              class="img-fluid"></a>
+        </div>
+      </div>
+
+      <div class="row align-items-center text-center">
+        <div class="col mx-2 py-2">
+          <a href="https://metropole.nantes.fr/cadran" target="_blank"><img src="cadran.jpg" alt="Cadran Nantes"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="http://www.ceth.eu/" target="_blank"><img src="ceth.jpg" alt="CETh" class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://chrysalide-formations.fr/" target="_blank"><img src="Chrysalide-Formations.png"
+              alt="Chrysalide Formations" class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://foodloire-export-agroalimentaire-pays-de-la-loire.chambres-agriculture.fr/"
+            target="_blank"><img src="foodloire.jpg" alt="FoodLoire" class="img-fluid"></a>
+        </div>
+      </div>
+
+      <div class="row align-items-center text-center">
+        <div class="col mx-2 py-2">
+          <a href="https://www.gsk.com" target="_blank"><img src="GSK.png" alt="GSK" class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.kesch-training.eu/" target="_blank"><img src="Kesch.jpg" alt="Kesch"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.maugin-sas.com/" target="_blank"><img src="maugin.png" alt="maugin"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.mbway.com/" target="_blank"><img src="mbway.png" alt="MBway" class="img-fluid"></a>
+        </div>
+      </div>
+
+      <div class="row align-items-center text-center">
+        <div class="col mx-2 py-2">
+          <a href="https://optimeo.com/" target="_blank"><img src="Optimeo.jpg" alt="Optimeo" class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.orsys.fr/" target="_blank"><img src="Orsys.jpg" alt="Orsys formation"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.partenaireformation.com/" target="_blank"><img src="Partenaire-Formation.png"
+              alt="Partenaire formation" class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="http://www.polysoude.com/" target="_blank"><img src="Polysoude.jpg" alt="Polysoude"
+              class="img-fluid"></a>
+        </div>
+      </div>
+
+      <div class="row align-items-center text-center">
+        <div class="col mx-2 py-2">
+          <a href="https://polytech.univ-tours.fr/" target="_blank"><img src="polytech-tours.jpg" alt="Polytech Tours"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.schaltbau.com/en/about-us/schaltbau-worldwide/schaltbau-france/" target="_blank"><img
+              src="schaltbau-logo.jpg" alt="Schaltbau" class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="http://univ-angers.fr/" target="_blank"><img src="universite-angers.png" alt="Université Angers"
+              class="img-fluid"></a>
+        </div>
+        <div class="col mx-2 py-2">
+          <a href="https://www.visiplus-digital-learning.com/" target="_blank"><img src="Visiplus.jpg"
+              alt="Visiplus Digital Learning" class="img-fluid"></a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="container main-layout">
+
+  <div class="content">
+
+
 
     <div class="section" id="responsablesCommerciaux">
 
@@ -324,7 +395,7 @@
             <img src="Image5.jpg" alt="Photo de Sylvie Péan qui anime une formation d'indépendants">
           </div>
 
-          <div class="centred-text">            
+          <div class="centred-text">
             <ul>
               <li>
                 <p id="poserVotreStrategieCommerciale">poserVotreStrategieCommerciale</p>
@@ -413,9 +484,9 @@
             <p id="lesPlusPlus">lesPlusPlus</p>
             <div class="p-inline">
               <p id="jUtiliseAussi">jUtiliseAussi</p>
-              <a id="funnyLearning" target="_blank" href="https://www.funny-learning.com/">funnyLearning</a>              
+              <a id="funnyLearning" target="_blank" href="https://www.funny-learning.com/">funnyLearning</a>
             </div>
-            
+
           </div>
 
           <div class="left-right-layout-right-content">
@@ -474,7 +545,7 @@
           <p id="membreActiveDeLaCooperative">membreActiveDeLaCooperative</p><a id="ouvreBoites44" target="_blank"
             href="https://www.ouvre-boites44.coop/">ouvreBoites44</a>
           <p id="jeTravailleAussiAvecMesClients">jeTravailleAussiAvecMesClients</p>
-        </div>        
+        </div>
         <p id="enEffetSelonMonExperience">enEffetSelonMonExperience</p>
         <p id="lIncitationFinanciere">lIncitationFinanciere</p>
       </div>
@@ -516,7 +587,7 @@
         <div class="centred-text">
           <h2 id="monReseau">monReseau</h2>
         </div>
-        
+
         <p id="jeTravailleAMonCompte">jeTravailleAMonCompte</p>
         <div class="references-images-layout">
           <a href="https://www.ouvre-boites44.coop/" target="_blank"><img src="Ouvre-boites.png"
@@ -547,27 +618,27 @@
     <div class="section" id="quiSuisJe">
 
       <div class="couverture">
-        <h1 id="quiSuiJeTitle">quiSuiJeTitle</h1>              
+        <h1 id="quiSuiJeTitle">quiSuiJeTitle</h1>
       </div>
 
       <div class="emphase">
         <div class="left-right-layout">
           <div class="left-right-layout-left-content ">
             <p id="contactezMoi">contactezMoi</p>
-              <p id="sylviePean">sylviePean</p>
-              <p id="numeroTelephoneMobile">numeroTelephoneMobile</p>
-              <p><a id="emailSylviePean" target="_blank" href="mailto:sylvie@trustinmove.com">emailSylviePean</a></p>
-              <p><a id="linkedinSylviePean" target="_blank"
-                  href="https://www.linkedin.com/in/sylviepean/">linkedinSylviePean</a></p>
+            <p id="sylviePean">sylviePean</p>
+            <p id="numeroTelephoneMobile">numeroTelephoneMobile</p>
+            <p><a id="emailSylviePean" target="_blank" href="mailto:sylvie@trustinmove.com">emailSylviePean</a></p>
+            <p><a id="linkedinSylviePean" target="_blank"
+                href="https://www.linkedin.com/in/sylviepean/">linkedinSylviePean</a></p>
           </div>
           <div>
             <img src="seelvee.png" alt="Sylvie Péan">
           </div>
         </div>
       </div>
-      
+
       <div class="paragraphe">
-        
+
         <p id="fanDeMaths">fanDeMaths</p>
         <div class="p-inline">
           <p id="ingenieureGeneraliste">ingenieureGeneraliste</p><strong>
