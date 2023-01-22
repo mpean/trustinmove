@@ -1,16 +1,11 @@
 :root {
   --colorBleu2022: #0f606b;
-  --coloOrange2022: #ee7636;
+  --colorOrange2022: #ee7636;
   --colorRosePale2022: #fdece3;
   --colorRoseFuschia2022: #af136d;
 
   --fontSizeP:1.2rem;
-  
-  --fontSizeH1Small:2rem;
-  --fontSizeH1Medium:3rem;
-  --fontSizeH1Large:4rem;
-  --fontSizeH1ExtraLarge:5rem;
-
+  --fontSizeH1:3rem;
   --fontSizeH2:1.6rem;
 
   --marginExtraSmall:0.5rem;
@@ -23,9 +18,6 @@
   --paddingMedium:4rem;
   --paddingLarge:5rem;
   --paddingExtraLarge:6rem;
-  
-  --box-shadow:0 4px 16px 0 rgb(28 30 33 / 17%);
-  --border-radius: calc(.25rem - 1px);
 }
 
 body {
@@ -57,148 +49,67 @@ body {
   justify-content: center;
 }
 
-.paragraphe {
+.sous-section {
   background-color: white;
-  
+
   padding-top: var(--paddingMedium);
   padding-right: var(--paddingExtraLarge);
   padding-bottom: var(--paddingMedium);
   padding-left: var(--paddingExtraLarge);
 }
-.paragraphe p {
-  color: black;
-  text-align: justify;
-  font-size: var(--fontSizeP);
-}
-.paragraphe h1 {
-  color: var(--colorRoseFuschia2022);  
-  margin-bottom: var(--marginLarge);      
-}
-.paragraphe h2 {
-  color: var(--colorBleu2022);
-  font-size: var(--fontSizeH2);
-  margin-top: var(--marginLarge);
-  margin-bottom: var(--marginMedium);
-}
-.paragraphe a {
-  color: var(--colorBleu2022);
-  text-align: justify;
-  text-decoration: underline;
-  font-size: var(--fontSizeP);
-}
-.paragraphe a:hover {
-  text-decoration: none;
-  color: var(--coloOrange2022);
-}
-.paragraphe-card {
-  background-color: white;  
-  padding-top: var(--paddingMedium);
-  padding-right: var(--paddingExtraLarge);
-  padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingExtraLarge);  
-}
-.paragraphe-card h2 {
-  color: var(--colorBleu2022);
-  font-size: var(--fontSizeH2);
-  margin-top: var(--marginLarge);
-  margin-bottom: var(--marginMedium);
+
+.fond-colore {
+  background-color: var(--colorRosePale2022);
 }
 
-.emphase {
-  background-color: var(--colorRosePale2022);  
-  padding-top: var(--paddingMedium);
-  padding-right: var(--paddingExtraLarge);
-  padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingExtraLarge);  
-}
-.emphase p {
+p {
   color: var(--colorBleu2022);
   text-align: justify;
   font-size: var(--fontSizeP);
 }
-.emphase h1 {
-  color: var(--colorRoseFuschia2022);  
-  margin-bottom: var(--marginLarge);      
+h1 {
+  color: var(--colorBleu2022);
+  font-size: var(--fontSizeH1);
+  /* margin-bottom: var(--marginLarge); */
 }
-.emphase h2 {
+h2 {
   color: var(--colorBleu2022);
   font-size: var(--fontSizeH2);
-  margin-top: var(--marginLarge);
-  margin-bottom: var(--marginMedium);
 }
-.emphase a {
+a {
   color: var(--colorBleu2022);
   text-align: justify;
   text-decoration: underline;
   font-size: var(--fontSizeP);
 }
-.emphase a:hover {
+a:hover {
   text-decoration: none;
+  color: var(--colorOrange2022);
 }
-.emphase li {
-  color: var(--colorBleu2022);
-}
-.emphase-card {
-  background-color: var(--colorRosePale2022);  
-  padding-top: var(--paddingMedium);
-  padding-right: var(--paddingExtraLarge);
-  padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingExtraLarge);  
-}
-.emphase-card h2 {
-  color: var(--colorBleu2022);
-  font-size: var(--fontSizeH2);
-  margin-top: var(--marginLarge);
-  margin-bottom: var(--marginMedium);
-}
-.emphase-card a {
+.card a {
   background-color: var(--colorBleu2022);
   border-color: var(--colorBleu2022);
 }
-.emphase-card a:hover {
-  background-color: var(--coloOrange2022);
-  border-color: var(--coloOrange2022);
+.card a:hover {
+  background-color: var(--colorOrange2022);
+  border-color: var(--colorOrange2022);
 }
-
-.couverture {
-  background-color: var(--coloOrange2022);  
-  padding-top: var(--paddingMedium);
-  padding-right: var(--paddingExtraLarge);
-  padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingExtraLarge);  
-}
-.couverture p {
-  color: white;
-  text-align: justify;
-  font-size: var(--fontSizeP);
-}
-.couverture h1 {
-  color: white;  
-  margin-bottom: var(--marginLarge);      
-}
-.couverture h2 {
-  color: white;
-  font-size: var(--fontSizeH2);
-  margin-top: var(--marginLarge);
-  margin-bottom: var(--marginMedium);
-}
-.couverture a {
+li {
   color: var(--colorBleu2022);
-  text-align: justify;
-  text-decoration: underline;
-  font-size: var(--fontSizeP);
 }
-.couverture a:hover {
-  text-decoration: none;
+.blockquote-footer {
+  color: var(--colorBleu2022);
 }
-.principale {
-  background-color: var(--colorBleu2022);  
-  padding-top: var(--paddingMedium);
-  padding-right: var(--paddingExtraLarge);
-  padding-bottom: var(--paddingMedium);
-  padding-left: var(--paddingExtraLarge);  
+.card-body p {
+  color: black;
+  font-size: larger;
+  text-align: left;
 }
-
+.card-body h5 {
+  color: var(--colorBleu2022);  
+  font-size: larger;
+  text-align: left;
+}
 .p-inline {  
   margin-bottom: 1rem;
 }
@@ -217,8 +128,8 @@ body {
   color: white
 }
 .btn-link:hover {
-  color: var(--coloOrange2022);
+  color: var(--colorOrange2022);
 }
 .btn-link:focus {
-  color: var(--coloOrange2022);
+  color: var(--colorOrange2022);
 }
