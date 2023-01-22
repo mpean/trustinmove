@@ -47,36 +47,10 @@ body {
   z-index: 1; 
 }
 
-.main-layout {
-  display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-}
-
-.content {
-  grid-column: 2 / 3;
-  margin-top: var(--marginSmall);
-}
-
 .dropdown-menu a:hover {
   background-color: var(--colorRosePale2022);
 }
 
-
-.references-images-layout {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  justify-items: center;
-  align-items: center;
-
-  background-color: white;
-  margin-bottom: var(--marginSmall);
-}
-.references-images-layout img {
-  max-width: 8rem;
-  max-height: 8rem;
-  margin: var(--marginSmall);
-}
 
 .footer {
   display: flex;
@@ -232,26 +206,6 @@ body {
   display: inline;
 }
 
-.three-cols-layout {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  justify-items: center;
-  margin-bottom: var(--marginLarge);
-}
-.three-cols-layout div{
-  max-width: 22rem;
-}
-
-.two-cols-layout {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  justify-items: center;
-  margin-bottom: var(--marginLarge);
-}
-.two-cols-layout div{
-  max-width: 32rem;
-}
-
 .centred-text {
   display: flex;
   flex-direction: column;
@@ -259,28 +213,6 @@ body {
   margin-bottom: var(--marginLarge);
 }
 
-.left-right-layout {
-  display: flex;
-  align-items:center;
-  justify-content:space-evenly;
-  margin-bottom: var(--marginLarge);
-}
-.left-right-layout-left-content {
-  padding-right: var(--paddingExtraLarge);
-}
-.left-right-layout-right-content {
-  padding-left: var(--paddingExtraLarge);
-}
-.left-right-layout img{
-  max-width: 26em;
-  box-shadow: var(--box-shadow);
-  border-radius: var(--border-radius);
-}
-
-.img-shadow {
-  box-shadow: var(--box-shadow);
-  border-radius: var(--border-radius);
-}
 
 .btn-link {
   color: white
@@ -293,10 +225,6 @@ body {
 }
 
 @media only screen and (min-width: 1200px) {
-  .main-layout {
-    display: grid;
-    grid-template-columns: 1fr 4fr 1fr;
-  }
   .header > img {
     max-height: 10em;
     width: auto;
@@ -307,10 +235,6 @@ body {
 }
 
 @media only screen and (min-width: 960px) and (max-width: 1200px) {
-  .main-layout {
-    display: grid;
-    grid-template-columns: 1fr 4fr 1fr;
-  }
   .header img {
     max-height: 8em;
     width: auto;
@@ -321,10 +245,6 @@ body {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 960px) {
-  .main-layout {
-    display: grid;
-    grid-template-columns: 1fr 20fr 1fr;
-  }
   .header img {
     max-height: 6em;
     width: auto;
@@ -335,10 +255,6 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
-  .main-layout {
-    display: grid;
-    grid-template-columns: 1fr 30fr 1fr;
-  }
   .header img {
     max-height: 4em;
     width: auto;
