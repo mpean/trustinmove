@@ -38,8 +38,7 @@ body {
 
 .header {
   display: flex;
-  justify-content: center;
-  
+  justify-content: center;  
 }
 
 .header img {
@@ -80,8 +79,6 @@ body {
 }
 
 .footer {
-  grid-column: 2 / 3;
-
   display: flex;
   justify-content: center;
 }
