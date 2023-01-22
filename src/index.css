@@ -45,7 +45,7 @@ body {
 .header img {
   position: relative;
   top: 30px;
-  z-index: 1;
+  z-index: 1; 
 }
 
 .main-layout {
@@ -110,13 +110,14 @@ body {
   margin-bottom: var(--marginMedium);
 }
 .paragraphe a {
-  color: var(--coloOrange2022);
+  color: var(--colorBleu2022);
   text-align: justify;
   text-decoration: underline;
   font-size: var(--fontSizeP);
 }
 .paragraphe a:hover {
   text-decoration: none;
+  color: var(--coloOrange2022);
 }
 .paragraphe-card {
   background-color: white;  
