@@ -44,13 +44,13 @@ body {
 .header img {
   position: relative;
   top: 30px;
-  z-index: 1; 
+  z-index: 1;
+  max-height: 10em;
 }
 
 .dropdown-menu a:hover {
   background-color: var(--colorRosePale2022);
 }
-
 
 .footer {
   display: flex;
@@ -213,7 +213,6 @@ body {
   margin-bottom: var(--marginLarge);
 }
 
-
 .btn-link {
   color: white
 }
@@ -222,44 +221,4 @@ body {
 }
 .btn-link:focus {
   color: var(--coloOrange2022);
-}
-
-@media only screen and (min-width: 1200px) {
-  .header > img {
-    max-height: 10em;
-    width: auto;
-  }
-  h1 {
-    font-size: var(--fontSizeH1Large);  
-  }
-}
-
-@media only screen and (min-width: 960px) and (max-width: 1200px) {
-  .header img {
-    max-height: 8em;
-    width: auto;
-  }
-  .paragraphe h1 {
-    font-size: var(--fontSizeH1Medium);  
-  }
-}
-
-@media only screen and (min-width: 768px) and (max-width: 960px) {
-  .header img {
-    max-height: 6em;
-    width: auto;
-  }  
-  .paragraphe h1 {
-    font-size: var(--fontSizeH1Medium);  
-  }
-}
-
-@media only screen and (max-width: 768px) {
-  .header img {
-    max-height: 4em;
-    width: auto;
-  }
-  .paragraphe h1 {
-    font-size: var(--fontSizeH1Small);  
-  }
 }
