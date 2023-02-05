@@ -236,7 +236,7 @@ let content = {
     "fr": "Mon Approche<br>Comment je travaille ?"
   },
   "vendezOsezSouriez": {
-    "fr": "Vendez Osez Souriez !"
+    "fr": "Osez Vendez Souriez !"
   },
   "enCreantTrustinmove": {
     "fr": "En créant Trust in Move en 2017, j'ai décidé d'aider mes clients à prendre du plaisir à vendre. Car je suis convaincue qu'on ne fait vraiment bien (longtemps) que ce que l'on aime faire. Par de la formation et de l'accompagnement individuel ou d'équipe, je permets donc aujourd'hui à des individus travaillant en PME ou en indépendant "
