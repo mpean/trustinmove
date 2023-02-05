@@ -17,7 +17,7 @@ let content = {
     "fr": "Technico-commercial·e"
   },
   "menuIndependants": {
-    "fr": "Indépendants"
+    "fr": "Indépendant.e"
   },
   "menuMonApproche": {
     "fr": "Mon approche"
@@ -170,7 +170,7 @@ let content = {
     "fr": "Agathe, ingénieure commerciale itinérante formée en 2022"
   },
   "IndependantsTitle": {
-    "fr": "Indépendants"
+    "fr": "Indépendant·e"
   },
   "impressionVendreAme": {
     "fr": "Vous avez l'impression de vendre votre âme au diable dès qu'il s'agit de parler du prix de vos prestations&nbsp;?"
