@@ -14,7 +14,7 @@ let content = {
     "fr": "Managers commerciaux"
   },
   "menuTechnicauxCommerciaux": {
-    "fr": "Technico-commerciaux"
+    "fr": "Technico-commercial·e"
   },
   "menuIndependants": {
     "fr": "Indépendants"
@@ -35,13 +35,13 @@ let content = {
     "fr": "Osez Vendez Souriez&nbsp;!"
   },
   "accueilRelationsHumaines": {
-    "fr": "La Vente c'est avant tout des relations humaines...<br>autant y mettre de la joie&nbsp;!"
+    "fr": "La Vente c'est avant tout des relations humaines...<br>Autant y mettre de la joie&nbsp;!"
   },
   "accueilMesOffres": {
-    "fr": "Mes solutions"
+    "fr": "Mes solutions pour vous"
   },
   "technicoCommerciauxCardTitle": {
-    "fr": "Technico-commerciaux"
+    "fr": "Technico-commercial·e"
   },
   "technicoCommerciauxCardText": {
     "fr": "Magnifiez votre expertise technique en réveillant l'âme commerciale qui sommeille en vous"
@@ -50,7 +50,7 @@ let content = {
     "fr": "En savoir plus"
   },
   "responsablesCommerciauxCardTitle": {
-    "fr": "Managers commerciaux"
+    "fr": "Responsable commercial·e"
   },
   "responsablesCommerciauxCardText": {
     "fr": "Dynamisez, formez et rassemblez votre équipe au service de votre stratégie commerciale"
@@ -59,7 +59,7 @@ let content = {
     "fr": "En savoir plus"
   },
   "independantsCardTitle": {
-    "fr": "Indépendants"
+    "fr": "Indépendant·e"
   },
   "independantsCardText": {
     "fr": "Découvrez la joie de vendre vos prestations et développez votre activité pour en vivre mieux"
@@ -110,7 +110,7 @@ let content = {
     "fr": "François, Directeur de filiale France - 2022"
   },
   "technicauxCommerciauxTitle": {
-    "fr": "Technico-Commerciaux"
+    "fr": "Technico-commercial·e"
   },
   "passerExpertTechniqueCommercial": {
     "fr": "Vous venez de passer d'un rôle d'expert technique à celui de commercial&nbsp;?"
@@ -311,7 +311,7 @@ let content = {
     "fr": ", je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales."
   },
   "enEffetSelonMonExperience": {
-    "fr": "En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise."
+    "fr": "En effet, selon mon expérience, l'équipe commerciale est plus efficace quand elle travaille collectivemnet au succès commercial de l'entreprise."
   },
   "lIncitationFinanciere": {
     "fr": "L'incitation financière peut motiver mais la coopération, ça paye&nbsp;!"
@@ -392,10 +392,10 @@ let content = {
     "fr": "Trust in Move est membre de la coopérative d'activité et d'emploi "
   },
   "ouvreBoites44MentionsLegales": {
-    "fr": "Ouvre-Boîtes "
+    "fr": "Ouvre-Boîtes"
   },
   "quiAssureLaGestionAdministrative": {
-    "fr": "qui assure la gestion administrative de son activité et dont les coordonnées sont&nbsp;: SCOP Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel&nbsp;: +33228216510."
+    "fr": " qui assure la gestion administrative de son activité et dont les coordonnées sont&nbsp;: SCOP Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel&nbsp;: +33228216510."
   },
   "ouvreBoites44EstUneSCOPSA": {
     "fr": "Ouvre-Boîtes est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573"
