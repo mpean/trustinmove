@@ -11,7 +11,7 @@ let content = {
     "fr": "Vous"
   },
   "menuResponsablesCommerciaux": {
-    "fr": "Managers commerciaux"
+    "fr": "Responsable commercial·e"
   },
   "menuTechnicauxCommerciaux": {
     "fr": "Technico-commercial·e"
@@ -71,7 +71,7 @@ let content = {
     "fr": "Ils me font déjà confiance"
   },
   "responsablesCommerciauxTitle": {
-    "fr": "Managers commerciaux"
+    "fr": "Responsable commercial·e"
   },
   "equipeCommercialeEssoufle": {
     "fr": "Vous sentez que votre équipe commerciale s'essouffle&nbsp;?"
