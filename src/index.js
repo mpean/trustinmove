@@ -32,10 +32,10 @@ let content = {
     "fr": "Mentions légales"
   },
   "accueilPunshLine": {
-    "fr": "Osez Vendez Souriez !"
+    "fr": "Osez Vendez Souriez&nbsp;!"
   },
   "accueilRelationsHumaines": {
-    "fr": "La Vente c'est avant tout des relations humaines...<br>autant y mettre de la joie !"
+    "fr": "La Vente c'est avant tout des relations humaines...<br>autant y mettre de la joie&nbsp;!"
   },
   "accueilMesOffres": {
     "fr": "Mes solutions"
@@ -74,34 +74,34 @@ let content = {
     "fr": "Managers commerciaux"
   },
   "equipeCommercialeEssoufle": {
-    "fr": "Vous sentez que votre équipe commerciale s'essouffle ?"
+    "fr": "Vous sentez que votre équipe commerciale s'essouffle&nbsp;?"
   },
   "seConcentrerPilotage": {
-    "fr": "Vous aimeriez ne pas avoir à intervenir au quotidien sur de l'opérationnel et vous concentrer sur le pilotage de l'activité commerciale ?"
+    "fr": "Vous aimeriez ne pas avoir à intervenir au quotidien sur de l'opérationnel et vous concentrer sur le pilotage de l'activité commerciale&nbsp;?"
   },
   "developperNouveauSecteur": {
-    "fr": "Vous aimeriez développer vos ventes sur un nouveau secteur ou tout simplement améliorer vos marges sur votre marché actuel ?"
+    "fr": "Vous aimeriez développer vos ventes sur un nouveau secteur ou tout simplement améliorer vos marges sur votre marché actuel&nbsp;?"
   },
   "jePeuxVousAider": {
-    "fr": "Je peux vous aider !"
+    "fr": "Je peux vous aider&nbsp;!"
   },
   "forte15ansExperience": {
-    "fr": "Forte de plus de 15 ans d'expérience en vente de produits et de services techniques en France et à l'international, je suis experte du process de vente conseil. Rompue aux échanges avec des grands groupes comme avec des TPE, je vous partage mon savoir-faire commercial acquis dans des domaines industriels aussi divers que la plasturgie, la ventilation, l'agro-alimentaire ou le soudage."
+    "fr": "Forte de plus de 15 ans d'expérience en vente de produits et de services techniques en France et à l'international, je suis experte du process de vente conseil. Rompue aux échanges avec des grands groupes comme avec des TPE, je vous partage mon savoir-faire commercial acquis dans des domaines industriels très divers."
   },
   "jeVousAccompagne": {
-    "fr": "Je vous accompagne pour que votre équipe vende mieux : en adoptant réellement une posture de conseil du client tout en valorisant ce service de façon juste, vos technico-commerciaux assureront la pérennité et le développement de votre activité."
+    "fr": "Je vous accompagne pour que votre équipe vende mieux afin d'assurer la pérennité et le développement de votre activité. Comment&nbsp;? En adoptant concrètement un rôle de conseil auprès de la clientèle, en valorisant vos services de façon juste et surtout en (re)trouvant du plaisir à vendre."
   },
   "temoignage": {
     "fr": "Il en parle mieux que moi"
   },
   "jaiConfieMonEquipeDeVentes": {
-    "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout ! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
+    "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout&nbsp;! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
   },
   "jaiConfieMonEquipeDeVentes": {
     "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle."
   },
   "preparationTresPro": {
-    "fr": "Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout !"
+    "fr": "Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout&nbsp;!"
   },
   "onEstDansLeConcret": {
     "fr": "On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
@@ -113,16 +113,16 @@ let content = {
     "fr": "Technico-Commerciaux"
   },
   "passerExpertTechniqueCommercial": {
-    "fr": "Vous venez de passer d'un rôle d'expert technique à celui de commercial ?"
+    "fr": "Vous venez de passer d'un rôle d'expert technique à celui de commercial&nbsp;?"
   },
   "vousSavezConseillerVosClients": {
-    "fr": "Vous savez très bien conseiller vos clients mais peinez à transformer le conseil en vente ?"
+    "fr": "Vous savez très bien conseiller vos clients mais peinez à transformer le conseil en vente&nbsp;?"
   },
   "duMalAOrganiserVotreDemarche": {
-    "fr": "Vous avez du mal à organiser votre démarche commerciale pour qu'elle soit réellement efficace ? "
+    "fr": "Vous avez du mal à organiser votre démarche commerciale pour qu'elle soit réellement efficace&nbsp;? "
   },
   "tousLaCapaciteAVendre": {
-    "fr": "Mon parcours m'a enseigné qu'on a tous la capacité à vendre et qu'il suffit de réveiller le commercial qui sommeille en nous !"
+    "fr": "Mon parcours m'a enseigné qu'on a tous la capacité à vendre et qu'il suffit de réveiller le commercial qui sommeille en nous&nbsp;!"
   },
   "formationsCommercialesLink": {
     "fr": "Les formations commerciales"
@@ -131,7 +131,7 @@ let content = {
     "fr": " que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir."
   },
   "ecoutezLesIlsEnParlent": {
-    "fr": "Ils en parlent mieux que moi"
+    "fr": "Ils et elles en parlent mieux que moi"
   },
   "excellenteFormatriceTechnique": {
     "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande."
@@ -146,7 +146,7 @@ let content = {
     "fr": "Guillaume, technico-commercial itinérant formé en 2020"
   },
   "formatriceAuTop": {
-    "fr": "Une formatrice au top !"
+    "fr": "Une formatrice au top&nbsp;!"
   },
   "dynamiqueSouriante": {
     "fr": "Dynamique, souriante et qui a toujours des exemples concrets liés à son passé professionnel."
@@ -161,10 +161,10 @@ let content = {
     "fr": "Encore merci pour ces 3 jours intéressants et instructifs."
   },
   "pourMaPart": {
-    "fr": "Pour ma part j'ai pu appliquer aujourd'hui quelques-uns des points d'amélioration soulevés pendant la formation, et je constate déjà que ça m'est bénéfique !"
+    "fr": "Pour ma part j'ai pu appliquer aujourd'hui quelques-uns des points d'amélioration soulevés pendant la formation, et je constate déjà que ça m'est bénéfique&nbsp;!"
   },
   "doncEncoreMerci": {
-    "fr": "Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace ! :)."
+    "fr": "Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace&nbsp;!&nbsp;:)."
   },
   "agatheIngenieureCommerciale": {
     "fr": "Agathe, ingénieure commerciale itinérante formée en 2022"
@@ -173,10 +173,10 @@ let content = {
     "fr": "Indépendants"
   },
   "impressionVendreAme": {
-    "fr": "Vous avez l'impression de vendre votre âme au diable dès qu'il s'agit de parler du prix de vos prestations ?"
+    "fr": "Vous avez l'impression de vendre votre âme au diable dès qu'il s'agit de parler du prix de vos prestations&nbsp;?"
   },
   "aimeriezFaireVotreMetier": {
-    "fr": "Vous aimeriez tellement faire juste votre métier, les missions dans lesquelles vous excellez, sans avoir besoin de les vendre ?"
+    "fr": "Vous aimeriez tellement faire juste votre métier, mener les missions dans lesquelles vous excellez, sans avoir besoin de les vendre&nbsp;?"
   },
   "pasDeBaguetteMagique": {
     "fr": "Je vous comprends. Et je n'ai pas de baguette magique pour faire pleuvoir les contrats."
@@ -185,7 +185,7 @@ let content = {
     "fr": "En revanche je permets à mes clients de voir la vente autrement et d'y prendre du plaisir en restant eux-mêmes sans avoir l'impression de se trahir."
   },
   "mettezJoieDemarcheCommerciale": {
-    "fr": "Mettez de la joie dans votre démarche commerciale !"
+    "fr": "Mettez de la joie dans votre démarche commerciale&nbsp;!"
   },
   "jePeuxVousAiderA": {
     "fr": "Je peux vous aider à"
@@ -215,7 +215,7 @@ let content = {
     "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées."
   },
   "sylvieAProposeLaBonneApproche": {
-    "fr": "Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante ; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus !"
+    "fr": "Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante&nbsp;; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus&nbsp;!"
   },
   "marieBaudrelle": {
     "fr": "Marie, Coach'ultante indépendante, septembre 2021"
@@ -233,16 +233,16 @@ let content = {
     "fr": "Julien, formateur indépendant, février 2022"
   },
   "monApprocheTitle": {
-    "fr": "Mon Approche<br>Comment je travaille ?"
+    "fr": "Mon Approche"
   },
   "vendezOsezSouriez": {
-    "fr": "Osez Vendez Souriez !"
+    "fr": "Osez Vendez Souriez&nbsp;!"
   },
-  "enCreantTrustinmove": {
-    "fr": "En créant Trust in Move en 2017, j'ai décidé d'aider mes clients à prendre du plaisir à vendre. Car je suis convaincue qu'on ne fait vraiment bien (longtemps) que ce que l'on aime faire. Par de la formation et de l'accompagnement individuel ou d'équipe, je permets donc aujourd'hui à des individus travaillant en PME ou en indépendant "
+  "prendreDuPlaisirAVendreCestPossible": {
+    "fr": "Prendre du plaisir à vendre, c'est possible&nbsp;!"
   },
-  "dePrendreDuPLaisirAVendre": {
-    "fr": "de prendre du plaisir à vendre tout en restant en phase avec leurs valeurs et leur expertise."
+  "cestCeSurQuoiJeTravaille": {
+    "fr": "C'est ce sur quoi je travaille auprès de ma clientèle depuis que j'ai créé Trust in Move en 2017. Car je suis convaincue qu'on ne fait vraiment bien (longtemps) que ce que l'on aime faire. Par de la formation et de l'accompagnement individuel ou d'équipe, je permets donc aujourd'hui à des personnes qui exercent en PME ou à leur compte <b>de prendre du plaisir à vendre tout en restant en phase avec leurs valeurs et leur expertise.</b>"
   },
   "vousFormerEfficacement": {
     "fr": "Vous former efficacement et joyeusement"
@@ -287,13 +287,13 @@ let content = {
     "fr": "Je conçois d'ailleurs des formations sur mesure pour être au plus proche de la réalité des apprenants."
   },
   "unAppercuDuCatalogue": {
-    "fr": "Un aperçu du catalogue est accessible ici"
+    "fr": "Voir le catalogue"
   },
   "vousAccompagnerAMieuxVendre": {
     "fr": "Vous accompagner à mieux vendre"
   },
   "praticienneDISC": {
-    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre : forces motrices, communication bienveillante, …"
+    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre&nbsp;: forces motrices, communication bienveillante, …"
   },
   "formeeALintelligenceCollective": {
     "fr": "Formée à l'intelligence collective et à l'accompagnement au changement, j'aide des équipes à formaliser puis mettre en œuvre leur stratégie commerciale pour atteindre leurs objectifs."
@@ -314,7 +314,7 @@ let content = {
     "fr": "En effet, selon mon expérience, les commerciaux sont plus efficaces quand ils travaillent ensemble au succès commercial de leur entreprise."
   },
   "lIncitationFinanciere": {
-    "fr": "L'incitation financière peut motiver mais la coopération, ça paye !"
+    "fr": "L'incitation financière peut motiver mais la coopération, ça paye&nbsp;!"
   },
   "mesClientsParlentDeMesPratiques": {
     "fr": "Ils en parlent mieux que moi"
@@ -326,7 +326,7 @@ let content = {
     "fr": "Inna, entrepreneure formée en décembre 2021."
   },
   "laMethodePedagogiqueUtilisee": {
-    "fr": "La méthodologie utilisée par Sylvie m'a permis d'atteindre les objectifs que je souhaitais et j'ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles !"
+    "fr": "La méthodologie utilisée par Sylvie m'a permis d'atteindre les objectifs que je souhaitais et j'ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles&nbsp;!"
   },
   "ericResponsableCommercial": {
     "fr": "Eric, responsable commercial formé en janvier 2021."
@@ -341,31 +341,25 @@ let content = {
     "fr": "Mon réseau"
   },
   "jeTravailleAMonCompte": {
-    "fr": "Je travaille à mon compte mais m'appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers :"
+    "fr": "Je travaille à mon compte mais m'appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers&nbsp;:"
   },
   "quiSuiJeTitle": {
-    "fr": "Qui suis-je ?"
+    "fr": "Qui suis-je&nbsp;?"
   },
   "fanDeMaths": {
-    "fr": "Fan de maths (si si …😉), j'aurais pu être chercheuse en maths ! Les maths, c'est factuel, parfait, il n'y a pas d'approximation. Mais moi, ce que j'aime, justement, c'est cette recherche d'équilibre dans l'humain, les nuances, la diversité qui nous rassemble, … J'ai donc beaucoup voyagé pour rencontrer des personnes de tous horizons, de tous les continents."
+    "fr": "Fan de maths (si si …😉), j'aurais pu être chercheuse en maths&nbsp;! Les maths, c'est factuel, parfait, il n'y a pas d'approximation. Mais moi, ce que j'aime, justement, c'est cette recherche d'équilibre dans l'humain, les nuances, la diversité qui nous rassemble, … J'ai donc beaucoup voyagé pour rencontrer des personnes de tous horizons, de tous les continents."
   },
   "ingenieureGeneraliste": {
-    "fr": " Ingénieure généraliste, j'ai d'abord exercé différents métiers de la vente de produits ou de services techniques en France et à l'international. Ingénieure commerciale, commerciale terrain, responsable de zone, chargée d'affaires, responsable commerciale, … ces métiers ont tous eu un point commun pour moi : rendre service à des personnes en leur"
-  },
-  "conseillantDesSolutions": {
-    "fr": " conseillant des solutions"
-  },
-  "quiSerontUtiles": {
-    "fr": " qui seront utiles à leur entreprise."
+    "fr": " Ingénieure généraliste, j'ai d'abord exercé différents métiers de la vente de produits ou de services techniques en France et à l'international. Ingénieure commerciale, commerciale terrain, responsable de zone, chargée d'affaires, responsable commerciale, … ces métiers ont tous eu un point commun pour moi&nbsp;: rendre service à des personnes en leur <b>conseillant des solutions</b> qui seront utiles à leur entreprise."
   },
   "unJourJaiEuEnvieDeTransmettre": {
-    "fr": "Un jour, j'ai eu envie de transmettre le savoir-faire que j'avais acquis au cours de ces 17 premières années de ma carrière. Trust in Move est né de cette envie. Je me suis alors d'abord formée pour devenir formatrice (si si le métier de formatrice s'apprend !) et je continue toujours à me former régulièrement… car j'aime ça !"
+    "fr": "Un jour, j'ai eu envie de transmettre le savoir-faire que j'avais acquis au cours de ces 17 premières années de ma carrière. Trust in Move est né de cette envie. Je me suis alors d'abord formée pour devenir formatrice (si si le métier de formatrice s'apprend&nbsp;!) et je continue toujours à me former régulièrement… car j'aime ça&nbsp;!"
   },
   "nantaiseDadoption": {
     "fr": "Nantaise d'adoption, mère de 2 enfants, comédienne amateure de longue date, j'ai vécu et travaillé 4 ans à l'étranger (Allemagne, Espagne, Angleterre). Je travaille donc en français, anglais, allemand, espagnol selon les besoins de mes clients."
   },
   "contactezMoi": {
-    "fr": "Contactez-moi pour en savoir plus :"
+    "fr": "Contactez-moi pour en savoir plus&nbsp;:"
   },
   "sylviePean": {
     "fr": "Sylvie Péan"
@@ -401,13 +395,13 @@ let content = {
     "fr": "Ouvre-Boîtes "
   },
   "quiAssureLaGestionAdministrative": {
-    "fr": "qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel : +33228216510."
+    "fr": "qui assure la gestion administrative de son activité et dont les coordonnées sont&nbsp;: SCOP Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel&nbsp;: +33228216510."
   },
   "ouvreBoites44EstUneSCOPSA": {
     "fr": "Ouvre-Boîtes est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573"
   },
   "numTVASIRET": {
-    "fr": "N° TVA : FR40449989573 - SIRET 44998957300026."
+    "fr": "N° TVA&nbsp;: FR40449989573 - SIRET 44998957300026."
   },
   "lesFacturesSerontEnConsequence": {
     "fr": "Les factures seront en conséquence établies au nom de Ouvre-Boîtes. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose."
@@ -422,10 +416,10 @@ let content = {
     "fr": "Corymbe"
   },
   "quiEstLorganismeDeFormationReunissant": {
-    "fr": " qui est l'organisme de formation réunissant les formateurs et formatrices de l'Ouvre-Boîtes. L'Ouvre-Boîtes est certifié Qualiopi depuis octobre 2020. La certification qualité a été délivrée au titre de la catégorie d'action suivante : actions de formation."
+    "fr": " qui est l'organisme de formation réunissant les formateurs et formatrices de l'Ouvre-Boîtes. L'Ouvre-Boîtes est certifié Qualiopi depuis octobre 2020. La certification qualité a été délivrée au titre de la catégorie d'action suivante&nbsp;: actions de formation."
   },
   "numDeDeclarationDactiviteFormation": {
-    "fr": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock."
+    "fr": "N° de déclaration d'activité formation&nbsp;: 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock."
   },
   "siteInternetSurLequel": {
     "fr": "Site internet sur lequel vous surfez actuellement"
@@ -434,7 +428,7 @@ let content = {
     "fr": "Propriétaire, créatrice et responsable de publication du site: Sylvie Péan – rue de la Michaudière, 44300 Nantes, France"
   },
   "webmasterMaximePean": {
-    "fr": "Webmaster: Maxime Péan un énorme merci à lui !)"
+    "fr": "Webmaster: Maxime Péan un énorme merci à lui&nbsp;!)"
   },
   "hebergeurHostPapa": {
     "fr": "Hébergeur: HostPapa - 68 King William Street London EC4N 7DZ United Kingdom"
@@ -464,7 +458,7 @@ let content = {
     "fr": "atelier Leslie Dumont"
   },
   "doubleMerci": {
-    "fr": ". Double merci !"
+    "fr": ". Double merci&nbsp;!"
   },
   "cEst": {
     "fr": "C'est "
@@ -473,10 +467,10 @@ let content = {
     "fr": "Maud Boré"
   },
   "quiMaAideeAMettreEnMots": {
-    "fr": " qui m'a aidée à mettre en mots mes pratiques. Merci à elle !"
+    "fr": " qui m'a aidée à mettre en mots mes pratiques. Merci à elle&nbsp;!"
   },
   "creditsPhotos": {
-    "fr": "Crédits photos :  Sylvie Cordenner – "
+    "fr": "Crédits photos&nbsp;:  Sylvie Cordenner – "
   },
   "couteauSuisseProductionLink": {
     "fr": "Couteau Suisse Production"
@@ -497,7 +491,7 @@ let content = {
     "fr": "Soucieuse du respect de la vie privée, la société Trust in Move s'engage à mettre en œuvre toutes les mesures nécessaires à la protection des données à caractère personnel conformément au Règlement Européen sur la Protection des Données (UE) 2016/679 et à la loi Informatique et Libertés N°2018-493 du 20 juin 2018."
   },
   "ceSiteNeCollectePas": {
-    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l'outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l'activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l'usage des ordinateurs portables et smartphones en dehors des locaux de l'entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d'accès, d'opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com ou par courrier postal à l'adresse : Trust in Move c/o Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France."
+    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que&nbsp;: noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l'outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l'activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons&nbsp;: accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l'usage des ordinateurs portables et smartphones en dehors des locaux de l'entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d'accès, d'opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com ou par courrier postal à l'adresse&nbsp;: Trust in Move c/o Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France."
   }  
 };
 
