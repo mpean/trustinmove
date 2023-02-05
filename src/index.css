@@ -79,7 +79,7 @@ h2 {
 a {
   color: var(--colorBleu2022);
   text-align: justify;
-  text-decoration: underline;
+  text-decoration: none;
   font-size: var(--fontSizeP);
 }
 a:hover {
@@ -101,6 +101,9 @@ a:hover {
 .a-button:hover {
   background-color: var(--colorOrange2022);
   border-color: var(--colorOrange2022);
+}
+.p-inline a {
+  text-decoration:underline;
 }
 
 li {
