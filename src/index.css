@@ -94,6 +94,15 @@ a:hover {
   background-color: var(--colorOrange2022);
   border-color: var(--colorOrange2022);
 }
+.a-button {
+  background-color: var(--colorBleu2022);
+  border-color: var(--colorBleu2022);
+}
+.a-button:hover {
+  background-color: var(--colorOrange2022);
+  border-color: var(--colorOrange2022);
+}
+
 li {
   color: var(--colorBleu2022);
 }

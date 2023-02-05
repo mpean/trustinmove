@@ -276,24 +276,24 @@ let content = {
   },
   "janimeAussiBienEnPresentiel": {
     "fr": "J'anime aussi bien en présentiel qu'à distance en adaptant mes méthodes pédagogiques."
-  },
-  "jeConcoisDesFormations": {
-    "fr": "Je conçois des formations sur mesure"
-  },
-  "pourEtreProcheDeLaRealite": {
-    "fr": " pour être proche de la réalité des apprenants."
+  },  
+  "monBagageTechniqueAcquis": {
+    "fr": "Mon bagage technique acquis dans ma formation d'ingénieure et pendant mon expérience de plus de 15 ans dans des industries très diverses me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
   },
   "cestPourquoiJaffectionne": {
-    "fr": "C'est pourquoi j'affectionne tout particulièrement les univers complexes qui nécessite une acculturation."
+    "fr": "C'est pourquoi j'affectionne tout particulièrement les univers complexes qui nécessitent une acculturation."
   },
-  "monBagageTechnique": {
-    "fr": "Mon bagage technique acquis dans ma formation d'ingénieure et pendant mon expérience de plus de 15 ans dans des industries aussi diverses que la plasturgie, le soudage automatisé ou la ventilation industrielle me permet de parler le langage de mes clients, même ceux qui sont actifs sur un secteur pointu ou de niche technique."
+  "jeConcoisDesFormations": {
+    "fr": "Je conçois d'ailleurs des formations sur mesure pour être au plus proche de la réalité des apprenants."
+  },
+  "unAppercuDuCatalogue": {
+    "fr": "Un aperçu du catalogue est accessible ici"
   },
   "vousAccompagnerAMieuxVendre": {
     "fr": "Vous accompagner à mieux vendre"
   },
   "praticienneDISC": {
-    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre : communication non violente, écoute, …"
+    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre : forces motrices, communication bienveillante, …"
   },
   "formeeALintelligenceCollective": {
     "fr": "Formée à l'intelligence collective et à l'accompagnement au changement, j'aide des équipes à formaliser puis mettre en œuvre leur stratégie commerciale pour atteindre leurs objectifs."
@@ -350,7 +350,7 @@ let content = {
     "fr": "Fan de maths (si si …😉), j'aurais pu être chercheuse en maths ! Les maths, c'est factuel, parfait, il n'y a pas d'approximation. Mais moi, ce que j'aime, justement, c'est cette recherche d'équilibre dans l'humain, les nuances, la diversité qui nous rassemble, … J'ai donc beaucoup voyagé pour rencontrer des personnes de tous horizons, de tous les continents."
   },
   "ingenieureGeneraliste": {
-    "fr": " Ingénieure généraliste, j'ai d'abord exercé différents métiers de la vente de produits ou de services techniques en France et à l'international. Ingénieure commerciale, commerciale terrain, responsable de zone, chargés d'affaires, responsable commerciale, … ces métiers ont tous eu un point commun pour moi : rendre service à des personnes en leur"
+    "fr": " Ingénieure généraliste, j'ai d'abord exercé différents métiers de la vente de produits ou de services techniques en France et à l'international. Ingénieure commerciale, commerciale terrain, responsable de zone, chargée d'affaires, responsable commerciale, … ces métiers ont tous eu un point commun pour moi : rendre service à des personnes en leur"
   },
   "conseillantDesSolutions": {
     "fr": " conseillant des solutions"
