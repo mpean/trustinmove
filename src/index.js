@@ -305,7 +305,7 @@ let content = {
     "fr": "Membre active de la Coopérative d'Activité et d'Emploi "
   },
   "ouvreBoites44": {
-    "fr": "l'Ouvre-Boites 44"
+    "fr": "l'Ouvre-Boîtes"
   },
   "jeTravailleAussiAvecMesClients": {
     "fr": ", je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales."
@@ -398,19 +398,19 @@ let content = {
     "fr": "Trust in Move est membre de la coopérative d'activité et d'emploi "
   },
   "ouvreBoites44MentionsLegales": {
-    "fr": "Ouvre-Boites 44 "
+    "fr": "Ouvre-Boîtes "
   },
   "quiAssureLaGestionAdministrative": {
-    "fr": "qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel : +33228216510."
+    "fr": "qui assure la gestion administrative de son activité et dont les coordonnées sont : SCOP Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France, tel : +33228216510."
   },
   "ouvreBoites44EstUneSCOPSA": {
-    "fr": "Ouvre-Boites 44 est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573"
+    "fr": "Ouvre-Boîtes est une S.C.O.P S.A à capital variable, inscrite au RCS de NANTES sous le N° 449.989.573"
   },
   "numTVASIRET": {
     "fr": "N° TVA : FR40449989573 - SIRET 44998957300026."
   },
   "lesFacturesSerontEnConsequence": {
-    "fr": "Les factures seront en conséquence établies au nom de Ouvre-Boites 44. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose."
+    "fr": "Les factures seront en conséquence établies au nom de Ouvre-Boîtes. Sylvie Péan est seule responsable de la bonne exécution de sa prestation et des services qu'elle propose."
   },
   "activiteFormation": {
     "fr": "Activité formation"
@@ -422,7 +422,7 @@ let content = {
     "fr": "Corymbe"
   },
   "quiEstLorganismeDeFormationReunissant": {
-    "fr": " qui est l'organisme de formation réunissant les formateurs et formatrices de l'Ouvre-Boites 44. L'Ouvre-Boites 44 est certifié Qualiopi depuis octobre 2020. La certification qualité a été délivrée au titre de la catégorie d'action suivante : actions de formation."
+    "fr": " qui est l'organisme de formation réunissant les formateurs et formatrices de l'Ouvre-Boîtes. L'Ouvre-Boîtes est certifié Qualiopi depuis octobre 2020. La certification qualité a été délivrée au titre de la catégorie d'action suivante : actions de formation."
   },
   "numDeDeclarationDactiviteFormation": {
     "fr": "N° de déclaration d'activité formation : 52 44 04429 44 enregistré auprès du Préfet de la Région Pays de la Loire. Cet enregistrement ne vaut pas agrément de l'Etat. Organisme de formation enregistré au sein du Datadock."
@@ -437,7 +437,7 @@ let content = {
     "fr": "Webmaster: Maxime Péan un énorme merci à lui !)"
   },
   "hebergeurHostPapa": {
-    "fr": "Hébergeur: HostPapa – 68 King William Street London EC4N 7DZ United Kingdom"
+    "fr": "Hébergeur: HostPapa - 68 King William Street London EC4N 7DZ United Kingdom"
   },
   "proprieteIntellectuelleEtCreditTitle": {
     "fr": "Propriété intellectuelle et crédits"
@@ -497,7 +497,7 @@ let content = {
     "fr": "Soucieuse du respect de la vie privée, la société Trust in Move s'engage à mettre en œuvre toutes les mesures nécessaires à la protection des données à caractère personnel conformément au Règlement Européen sur la Protection des Données (UE) 2016/679 et à la loi Informatique et Libertés N°2018-493 du 20 juin 2018."
   },
   "ceSiteNeCollectePas": {
-    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l'outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l'activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l'usage des ordinateurs portables et smartphones en dehors des locaux de l'entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d'accès, d'opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com ou par courrier postal à l'adresse : Trust in Move c/o Ouvre-Boites 44, 20 Allée de la Maison Rouge, 44000 Nantes, France."
+    "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que : noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l'outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l'activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons : accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l'usage des ordinateurs portables et smartphones en dehors des locaux de l'entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d'accès, d'opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com ou par courrier postal à l'adresse : Trust in Move c/o Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France."
   }  
 };
 
