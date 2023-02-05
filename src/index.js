@@ -113,22 +113,22 @@ let content = {
     "fr": "Technico-commercial·e"
   },
   "passerExpertTechniqueCommercial": {
-    "fr": "Vous venez de passer d'un rôle d'expert technique à celui de commercial&nbsp;?"
+    "fr": "Au-delà de l'expertise technique, vous débutez dans un rôle commercial&nbsp;?"
   },
   "vousSavezConseillerVosClients": {
-    "fr": "Vous savez très bien conseiller vos clients mais peinez à transformer le conseil en vente&nbsp;?"
+    "fr": "Vous savez très bien conseiller votre clientèle mais peinez à transformer le conseil en vente&nbsp;?"
   },
   "duMalAOrganiserVotreDemarche": {
     "fr": "Vous avez du mal à organiser votre démarche commerciale pour qu'elle soit réellement efficace&nbsp;? "
   },
   "tousLaCapaciteAVendre": {
-    "fr": "Mon parcours m'a enseigné qu'on a tous la capacité à vendre et qu'il suffit de réveiller le commercial qui sommeille en nous&nbsp;!"
+    "fr": "Mon parcours m'a enseigné que tout le monde a la capacité à vendre et qu'il suffit de réveiller la fibre commerciale qui sommeille en nous&nbsp;!"
   },
   "formationsCommercialesLink": {
     "fr": "Les formations commerciales"
   },
   "formationsCommercialesQueJePropose": {
-    "fr": " que je propose permettent donc à des experts de devenir des vendeurs, tout en restant eux-mêmes et en y prenant du plaisir."
+    "fr": " que je propose permettent donc de passer de l'expertise technique à la vente tout en restant soi-même et en y prenant du plaisir."
   },
   "ecoutezLesIlsEnParlent": {
     "fr": "Ils et elles en parlent mieux que moi"
@@ -137,7 +137,7 @@ let content = {
     "fr": "Sylvie est une excellente formatrice en technique de vente, je la recommande."
   },
   "nhesitezPas": {
-    "fr": "N'hésitez pas et faites lui confiance."
+    "fr": "N'hésitez pas et faites-lui confiance."
   },
   "merciAToiSylvie": {
     "fr": "Merci à toi Sylvie."
@@ -164,7 +164,7 @@ let content = {
     "fr": "Pour ma part j'ai pu appliquer aujourd'hui quelques-uns des points d'amélioration soulevés pendant la formation, et je constate déjà que ça m'est bénéfique&nbsp;!"
   },
   "doncEncoreMerci": {
-    "fr": "Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace&nbsp;!&nbsp;:)."
+    "fr": "Donc encore merci pour tes précieux conseils, qui me permettent de mieux travailler et d'être plus efficace&nbsp;!&nbsp;:)"
   },
   "agatheIngenieureCommerciale": {
     "fr": "Agathe, ingénieure commerciale itinérante formée en 2022"
@@ -182,7 +182,7 @@ let content = {
     "fr": "Je vous comprends. Et je n'ai pas de baguette magique pour faire pleuvoir les contrats."
   },
   "voirLaVenteAutrement": {
-    "fr": "En revanche je permets à mes clients de voir la vente autrement et d'y prendre du plaisir en restant eux-mêmes sans avoir l'impression de se trahir."
+    "fr": "En revanche je permets aux personnes que j'accompagne de voir la vente autrement et d'y prendre du plaisir en restant soi-même sans avoir l'impression de se trahir."
   },
   "mettezJoieDemarcheCommerciale": {
     "fr": "Mettez de la joie dans votre démarche commerciale&nbsp;!"
@@ -191,25 +191,25 @@ let content = {
     "fr": "Je peux vous aider à"
   },
   "poserVotreStrategieCommerciale": {
-    "fr": "Poser votre stratégie commerciale."
+    "fr": "Poser votre stratégie commerciale"
   },
   "choisirVosCibles": {
-    "fr": "Choisir vos cibles."
+    "fr": "Choisir vos cibles"
   },
   "ecrireVotrePlanDAction": {
-    "fr": "Ecrire votre plan d'action."
+    "fr": "Ecrire votre plan d'action"
   },
   "definirDesTarifs": {
-    "fr": "Définir des tarifs qui vous permettront de bien vivre de votre activité."
+    "fr": "Définir des tarifs qui vous permettront de bien vivre de votre activité"
   },
   "jeSuisConvaincueQueNousAvonsTous": {
     "fr": "Je suis convaincue que nous avons tous une facette commerciale en nous et qu'il suffit d'y travailler pour la révéler et la faire briller."
   },
   "plaisirAVendre": {
-    "fr": "C'est pourquoi j'accompagne et je forme des indépendants pour qu'ils aient du plaisir à vendre. Pour qu'ils aient du plaisir à vivre de leur expertise."
+    "fr": "C'est pourquoi j'accompagne et je forme des indépendant·e·s pour qu'ils et elles aient du plaisir à vendre. Pour qu'ils aient du plaisir à vivre de leur expertise."
   },  
   "ilsEnParlent": {
-    "fr": "Ils en parlent mieux que moi"
+    "fr": "Les stagiaires de mes formations en parlent mieux que moi&nbsp;:"
   },
   "javaisBesoinDeStructurerMonOffre": {
     "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées."
@@ -221,7 +221,7 @@ let content = {
     "fr": "Marie, Coach'ultante indépendante, septembre 2021"
   },
   "hierJetaisAvecSylvie": {
-    "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrai dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies."
+    "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrais dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies."
   },
   "ilYaEuDeLaBienveillance": {
     "fr": "Il y a eu de la bienveillance, de l'efficacité, du sérieux, des outils. Hier, j'étais avec Sylvie Péan durant deux heures."
@@ -251,13 +251,13 @@ let content = {
     "fr": "Détentrice du titre de Formatrice Professionnelle pour Adultes, je propose des formations basées sur la pédagogie active pour faciliter la mise en œuvre des acquis de formation. "
   },
   "jeVarieLEsOutils": {
-    "fr": "Je varie les outils et techniques pour répondre aux besoins de chaque apprenant."
+    "fr": "Je varie les outils et techniques pour répondre aux besoins de toutes les personnes que je forme."
   },
   "jaiDailleursACoeur": {
     "fr": "J'ai d'ailleurs à cœur de toujours continuer à me former pour diversifier et améliorer ma boîte à outils."
   },
   "jaiPuVoirCombienOnRetienMieux": {
-    "fr": "J'ai pu voir combien on retient mieux ce qu'on expérimente soi même et encore mieux quand on l'expérimente dans la bonne humeur."
+    "fr": "J'ai pu voir combien on retient mieux ce qu'on expérimente soi-même et encore mieux quand on l'expérimente dans la bonne humeur."
   },
   "cestPourquoiJaimeUtiliser": {
     "fr": "C'est pourquoi j'aime utiliser des jeux ou des outils ludiques en formation."
@@ -266,7 +266,7 @@ let content = {
     "fr": "Je propose quand c'est possible de se former en marchant ou en bougeant. "
   },
   "lesPlusPlus": {
-    "fr": "Les Plus-Plus, la musique et le photolangage par exemple font souvent partie de mes outils d'animation en présentiel."
+    "fr": "Les Plus-Plus, la musique, les Legos et le photolangage par exemple font souvent partie de mes outils d'animation."
   },
   "jUtiliseAussi": {
     "fr": "J'utilise aussi des jeux d'improvisation théâtrale et des techniques inspirées du "
@@ -293,7 +293,7 @@ let content = {
     "fr": "Vous accompagner à mieux vendre"
   },
   "praticienneDISC": {
-    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider mes clients à améliorer leur communication et donc leur capacité à convaincre pour vendre&nbsp;: forces motrices, communication bienveillante, …"
+    "fr": "Praticienne DISC, j'utilise le profil DISC et différents outils de connaissance de soi et donc des autres pour aider les personnes que j'accompagne à améliorer leur communication et donc leur capacité à convaincre pour vendre : forces motrices, communication bienveillante, …"
   },
   "formeeALintelligenceCollective": {
     "fr": "Formée à l'intelligence collective et à l'accompagnement au changement, j'aide des équipes à formaliser puis mettre en œuvre leur stratégie commerciale pour atteindre leurs objectifs."
@@ -308,7 +308,7 @@ let content = {
     "fr": "l'Ouvre-Boîtes"
   },
   "jeTravailleAussiAvecMesClients": {
-    "fr": ", je travaille aussi avec mes clients pour que la coopération soit vivante au sein des équipes commerciales."
+    "fr": ", je travaille aussi à développer et faire vivre la coopération au sein des équipes commerciales que j'accompagne."
   },
   "enEffetSelonMonExperience": {
     "fr": "En effet, selon mon expérience, l'équipe commerciale est plus efficace quand elle travaille collectivemnet au succès commercial de l'entreprise."
@@ -332,7 +332,7 @@ let content = {
     "fr": "Eric, responsable commercial formé en janvier 2021."
   },
   "tresBonneFormatriceQuiSaitInteresser": {
-    "fr": "Très bonne formatrice qui sait intéresser son public et qui sait le faire participer … Maitrise son sujet."
+    "fr": "Très bonne formatrice qui sait intéresser son public et qui sait le faire participer … Maîtrise son sujet."
   },
   "stephaneManager": {
     "fr": "Stéphane, manager d'une équipe formée en juin 2022."
@@ -341,7 +341,7 @@ let content = {
     "fr": "Mon réseau"
   },
   "jeTravailleAMonCompte": {
-    "fr": "Je travaille à mon compte mais m'appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs de professionnels dont je fais partie et des partenaires réguliers&nbsp;:"
+    "fr": "Je travaille à mon compte mais m'appuie quotidiennement sur mon réseau pour mener à bien mes missions. Voici quelques collectifs professionnels dont je fais partie et des partenaires réguliers&nbsp;:"
   },
   "quiSuiJeTitle": {
     "fr": "Qui suis-je&nbsp;?"
@@ -356,7 +356,7 @@ let content = {
     "fr": "Un jour, j'ai eu envie de transmettre le savoir-faire que j'avais acquis au cours de ces 17 premières années de ma carrière. Trust in Move est né de cette envie. Je me suis alors d'abord formée pour devenir formatrice (si si le métier de formatrice s'apprend&nbsp;!) et je continue toujours à me former régulièrement… car j'aime ça&nbsp;!"
   },
   "nantaiseDadoption": {
-    "fr": "Nantaise d'adoption, mère de 2 enfants, comédienne amateure de longue date, j'ai vécu et travaillé 4 ans à l'étranger (Allemagne, Espagne, Angleterre). Je travaille donc en français, anglais, allemand, espagnol selon les besoins de mes clients."
+    "fr": "Nantaise d'adoption, mère de 2 enfants, comédienne amateure de longue date, j'ai vécu et travaillé 4 ans à l'étranger (Allemagne, Espagne, Angleterre). Je travaille donc en français, anglais, allemand, espagnol selon les besoins."
   },
   "contactezMoi": {
     "fr": "Contactez-moi pour en savoir plus&nbsp;:"
@@ -378,12 +378,6 @@ let content = {
   },
   "etAutresInformations": {
     "fr": "Et autres informations nécessaires (même si parfois un peu rabat-joie…)."
-  },
-  "nb": {
-    "fr": "NB"
-  },
-  "pourSimplifierLaRedaction": {
-    "fr": "Pour simplifier la rédaction de ce site, j'ai utilisé le masculin-neutre mais il est évident pour moi que je m'adresse à des êtres humains, hommes ou femmes sans distinction…"
   },
   "statutAdministratifEtFacturation": {
     "fr": "Statut administratif et facturation"
@@ -425,13 +419,13 @@ let content = {
     "fr": "Site internet sur lequel vous surfez actuellement"
   },
   "proprietaireCreatriceResponsable": {
-    "fr": "Propriétaire, créatrice et responsable de publication du site: Sylvie Péan – rue de la Michaudière, 44300 Nantes, France"
+    "fr": "Propriétaire, créatrice et responsable de publication du site : Sylvie Péan – rue de la Michaudière, 44300 Nantes, France"
   },
   "webmasterMaximePean": {
-    "fr": "Webmaster: Maxime Péan un énorme merci à lui&nbsp;!)"
+    "fr": "Webmaster : Maxime Péan un énorme merci à lui&nbsp;!"
   },
   "hebergeurHostPapa": {
-    "fr": "Hébergeur: HostPapa - 68 King William Street London EC4N 7DZ United Kingdom"
+    "fr": "Hébergeur : HostPapa - 68 King William Street London EC4N 7DZ United Kingdom"
   },
   "proprieteIntellectuelleEtCreditTitle": {
     "fr": "Propriété intellectuelle et crédits"
@@ -468,6 +462,18 @@ let content = {
   },
   "quiMaAideeAMettreEnMots": {
     "fr": " qui m'a aidée à mettre en mots mes pratiques. Merci à elle&nbsp;!"
+  },
+  "creditsPhotos": {
+    "fr": "Crédits photos&nbsp;:  Sylvie Cordenner – "
+  },
+  "cEst2": {
+    "fr": "C'est "
+  },
+  "jeromeGaillardLink": {
+    "fr": "Jérôme Gaillard"
+  },
+  "quiAReluMonSite": {
+    "fr": " qui a relu mon site avec le regard affuté 'écriture inclusive'. Merci à lui&nbsp;!"
   },
   "creditsPhotos": {
     "fr": "Crédits photos&nbsp;:  Sylvie Cordenner – "
