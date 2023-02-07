@@ -311,7 +311,7 @@ let content = {
     "fr": ", je travaille aussi à développer et faire vivre la coopération au sein des équipes commerciales que j'accompagne."
   },
   "enEffetSelonMonExperience": {
-    "fr": "En effet, selon mon expérience, l'équipe commerciale est plus efficace quand elle travaille collectivemnet au succès commercial de l'entreprise."
+    "fr": "En effet, selon mon expérience, l'équipe commerciale est plus efficace quand elle travaille collectivement au succès commercial de l'entreprise."
   },
   "lIncitationFinanciere": {
     "fr": "L'incitation financière peut motiver mais la coopération, ça paye&nbsp;!"
