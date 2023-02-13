@@ -37,7 +37,7 @@ const config = {
           loader: 'sass-loader' // compiles Sass to CSS
         }]
       },
-      { test: /\.(png|woff|woff2|eot|ttf|svg|jpg|ico)$/, loader: 'url-loader' }
+      { test: /\.(png|woff|woff2|eot|ttf|svg|jpg|ico|avif)$/, loader: 'url-loader' }
     ]
   },
   plugins: [
