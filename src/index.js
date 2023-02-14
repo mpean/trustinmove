@@ -92,7 +92,7 @@ let content = {
     "fr": "Je vous accompagne pour que votre équipe vende mieux afin d'assurer la pérennité et le développement de votre activité. Comment&nbsp;? En adoptant concrètement un rôle de conseil auprès de la clientèle, en valorisant vos services de façon juste et surtout en (re)trouvant du plaisir à vendre."
   },
   "temoignage": {
-    "fr": "Il en parle mieux que moi"
+    "fr": "Ils en parlent mieux que moi"
   },
   "jaiConfieMonEquipeDeVentes": {
     "fr": "J'ai confié mon équipe de ventes (managers commerciaux en région & ingénieurs d'application) à Sylvie sur 2 sessions de 2 jours à 1 mois d'intervalle. Préparation très pro et très structurée, supports variés et intéressants, et animation au top avec toute l'énergie de Sylvie qui a pratiqué la vente technique pendant 17 ans... et ça change tout&nbsp;! On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
@@ -108,6 +108,21 @@ let content = {
   },
   "francoisDirecteurDeFiliafe": {
     "fr": "François, Directeur de filiale France - 2022"
+  },
+  "jaiOrganiseEtParticipe": {
+    "fr": "J'ai organisé et participé à une formation commerciale animée par Sylvie. Comme toute formation il y a à la fois beaucoup d'attentes et des craintes de la part des participants (que vais-je apprendre de plus ? marre des donneurs de leçons ! on perd son temps ! ...). Mais dès le début de la formation, on sent que ce ne sera pas comme d'habitude."
+  },
+  "approcheOriginaleEtLudique": {
+    "fr": "Approche originale et ludique, mise en scène, participation active des membres, bonne humeur et plaisir d'être acteur (et pas seulement spectateur). A l'issue de ces trois jours, toute l'équipe était conquise par la méthode et l'expérience de Sylvie."
+  },
+  "uneExcellenteOccasion": {
+    "fr": "Une excellente occasion de remettre en question ses pratiques (savoir être et savoir-faire). A tester d'urgence, si vous sentez que vos équipes commerciales ont besoin d'une cure de &ldquo;remise en forme&rdquo;&nbsp;!"    
+  },
+  "merciSylvie": {
+    "fr": "Merci Sylvie !"
+  },
+  "ludovicDirecteurCommercial": {
+    "fr": "Ludovic, directeur commercial - 2023"
   },
   "technicauxCommerciauxTitle": {
     "fr": "Technico-commercial·e"
