@@ -32,13 +32,13 @@ let content = {
     "fr": "Mentions légales"
   },
   "accueilPunshLine": {
-    "fr": "Osez Vendez Souriez&nbsp;!"
+    "fr": "Osez, Vendez, Souriez&nbsp;!"
   },
   "accueilRelationsHumaines": {
-    "fr": "La Vente c'est avant tout des relations humaines...<br>Autant y mettre de la joie&nbsp;!"
+    "fr": "La Vente, c'est avant tout des relations humaines...<br>Autant y mettre de la joie&nbsp;!"
   },
   "accueilMesOffres": {
-    "fr": "Mes solutions pour vous"
+    "fr": "Vous êtes ..."
   },
   "technicoCommerciauxCardTitle": {
     "fr": "Technico-commercial·e"
@@ -251,7 +251,7 @@ let content = {
     "fr": "Mon Approche"
   },
   "vendezOsezSouriez": {
-    "fr": "Osez Vendez Souriez&nbsp;!"
+    "fr": "Osez, Vendez, Souriez&nbsp;!"
   },
   "prendreDuPlaisirAVendreCestPossible": {
     "fr": "Prendre du plaisir à vendre, c'est possible&nbsp;!"
@@ -383,7 +383,7 @@ let content = {
     "fr": "+33698247832"
   },
   "emailSylviePean": {
-    "fr": "sylvie@trustinmove.com"
+    "fr": "sylvie[@]trustinmove.com"
   },
   "linkedinSylviePean": {
     "fr": "https://www.linkedin.com/in/sylviepean/"

@@ -1,8 +1,12 @@
 :root {
   --colorBleu2022: #0f606b;
+  --collorBleu2022Opacity: rgba(15,96,107,0.8);
   --colorOrange2022: #ee7636;
   --colorRosePale2022: #fdece3;
   --colorRoseFuschia2022: #af136d;
+  --colorBlanc: #ffffff;
+
+  --gradiant: 80%;
 
   --fontSizeP:1.2rem;
   --fontSizeH1:3rem;
@@ -19,12 +23,12 @@
   --paddingLarge:5rem;
   --paddingExtraLarge:6rem;
 
-  --decallageEntete: 205px;
+  --decallageEntete: 205px;  
 }
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: var(--colorBleu2022);
+  background-color: var(--collorBleu2022Opacity);
 
   position: relative;
   bottom: 1rem;
@@ -71,6 +75,14 @@ body {
 
 .fond-colore {
   background-color: var(--colorRosePale2022);
+}
+
+.gradient-colore {  
+  background: linear-gradient(180deg, var(--colorRosePale2022) var(--gradiant), var(--colorBlanc) 100%);
+}
+
+.gradient-blanc {  
+  background: linear-gradient(180deg, var(--colorBlanc) var(--gradiant), var(--colorRosePale2022) 100%);
 }
 
 p {
