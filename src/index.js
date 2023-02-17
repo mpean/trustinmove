@@ -547,7 +547,7 @@ function displaySection (section) {
     {
       element.hidden = true;
     }
-  }      
+  }  
 }
 
 window.displaySection = displaySection;
