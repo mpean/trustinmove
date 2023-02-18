@@ -1,6 +1,5 @@
 :root {
-  --colorBleu2022: #0f606b;
-  --collorBleu2022Opacity: rgba(15,96,107,0.8);
+  --colorBleu2022: #0f606b;  
   --colorOrange2022: #ee7636;
   --colorRosePale2022: #fdece3;
   --colorRoseFuschia2022: #af136d;
@@ -28,7 +27,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: var(--collorBleu2022Opacity);
+  background-color: var(--colorBleu2022);
 
   position: relative;
   bottom: 1rem;
