@@ -31,6 +31,9 @@ let content = {
   "menuMentionsLegales": {
     "fr": "Mentions légales"
   },
+  "menuContact": {
+    "fr": "Contact"
+  },
   "accueilPunshLine": {
     "fr": "Osez, Vendez, Souriez&nbsp;!"
   },
@@ -513,7 +516,22 @@ let content = {
   },
   "ceSiteNeCollectePas": {
     "fr": "Ce site ne collecte pas de données à caractère personnel, cependant Trust in Move peut collecter et traiter certaines données telles que&nbsp;: noms, prénoms, numéros de téléphone professionnels, adresses de messagerie professionnelles. Ces dernières sont regroupées dans un fichier « clients/prospects » et dans une liste de contacts professionnels gérée par l'outil de messagerie de Trust in Move. Ces données à caractère personnel sont collectées pour la gestion de la relation commerciale de nos clients et prospects et sont conservées aussi longtemps que nécessaire à l'activité de Trust in Move. Les bonnes pratiques de sécurité sont appliquées pour assurer un niveau de protection cohérent. Parmi les mesures de sécurité en production, citons&nbsp;: accès sécurisés aux applications par des mots de passe personnels solides, renouvelés régulièrement, sauvegarde des données, attentions particulières lors de l'usage des ordinateurs portables et smartphones en dehors des locaux de l'entreprise. Les personnes concernées sont en mesure de faire valoir leurs droits d'accès, d'opposition, de rectification, de suppression, de limitation et de portage de leurs données à caractère personnel en écrivant par courriel à sylvie[@]trustinmove.com ou par courrier postal à l'adresse&nbsp;: Trust in Move c/o Ouvre-Boîtes, 20 Allée de la Maison Rouge, 44000 Nantes, France."
-  }  
+  },
+  "contactezMoiContact": {
+    "fr": "Contactez-moi :"
+  },
+  "sylviePeanContact": {
+    "fr": "Sylvie Péan"
+  },
+  "numeroTelephoneMobileContact": {
+    "fr": "+33698247832"
+  },
+  "emailSylviePeanContact": {
+    "fr": "sylvie[@]trustinmove.com"
+  },
+  "linkedinSylviePeanContact": {
+    "fr": "https://www.linkedin.com/in/sylviepean/"
+  }
 };
 
 let lang = "fr";
