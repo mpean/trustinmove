@@ -42,8 +42,12 @@ body {
 .header img {
   position: relative;
   top: 30px;
-  z-index: 100000;
+  z-index: 2;
   max-height: 10em;
+}
+
+.navbar {
+  z-index: 1;
 }
 
 .dropdown-menu a:hover {
@@ -60,8 +64,7 @@ body {
 .section {
   position: relative;
   bottom: var(--decallageEntete);
-  padding-top: var(--decallageEntete);
-  z-index: -1;
+  padding-top: var(--decallageEntete);  
 }
 
 .sous-section {
