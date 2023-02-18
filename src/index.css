@@ -152,6 +152,9 @@ li {
 .p-inline p {
   display: inline;
 }
+.p-top-pad {
+  margin-top: 1rem;
+}
 
 .centred-text {
   display: flex;
