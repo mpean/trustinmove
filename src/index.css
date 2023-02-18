@@ -169,3 +169,7 @@ li {
 .btn-link:focus {
   color: var(--colorOrange2022);
 }
+
+.rond {
+  border-radius: 50%;
+}
