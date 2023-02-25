@@ -110,7 +110,7 @@ let content = {
     "fr": "On est dans le concret, dans la réalité de la vente technique. Les participants sont ravis, on apprend et on renforce l'esprit d'équipe. Je recommande vivement!"
   },
   "francoisDirecteurDeFiliafe": {
-    "fr": "François, Directeur de filiale France - 2022"
+    "fr": "François, directeur de filiale France - 2022"
   },
   "jaiOrganiseEtParticipe": {
     "fr": "J'ai organisé et participé à une formation commerciale animée par Sylvie. Comme toute formation il y a à la fois beaucoup d'attentes et des craintes de la part des participants (que vais-je apprendre de plus ? marre des donneurs de leçons ! on perd son temps ! ...). Mais dès le début de la formation, on sent que ce ne sera pas comme d'habitude."
@@ -227,7 +227,7 @@ let content = {
     "fr": "C'est pourquoi j'accompagne et je forme des indépendant·e·s pour qu'ils et elles aient du plaisir à vendre. Pour qu'ils aient du plaisir à vivre de leur expertise."
   },  
   "ilsEnParlent": {
-    "fr": "Les stagiaires de mes formations en parlent mieux que moi&nbsp;:"
+    "fr": "Les personnes que j'ai accompagnées en parlent mieux que moi&nbsp;:"
   },
   "javaisBesoinDeStructurerMonOffre": {
     "fr": "J'avais besoin de structurer mon offre, devenue très riche, et je n'arrivais pas à démêler mes idées."
@@ -236,7 +236,7 @@ let content = {
     "fr": "Sylvie a proposé la bonne approche pour moi, et s'est montrée très encourageante&nbsp;; son accompagnement très humain et sa faculté à rebondir sur mes propos ont été très précieux pour m'aider dans le processus&nbsp;!"
   },
   "marieBaudrelle": {
-    "fr": "Marie, Coach'ultante indépendante, septembre 2021"
+    "fr": "Marie, coach'ultante indépendante, 2021"
   },
   "hierJetaisAvecSylvie": {
     "fr": "Hier, j'étais avec Sylvie Péan durant deux heures. Hier, j'entrais dans mon sixième mois d'existence en tant que formateur consultant. Hier, j'avais besoin de faire le point, et surtout: savoir où je vais. Il y a eu de nombreux échanges, des infos, des conseils, des stratégies."
@@ -248,7 +248,7 @@ let content = {
     "fr": "Aujourd'hui, j'ai un plan."
   },
   "julienLeon": {
-    "fr": "Julien, formateur indépendant, février 2022"
+    "fr": "Julien, formateur indépendant, 2022"
   },
   "monApprocheTitle": {
     "fr": "Mon Approche"
@@ -341,19 +341,19 @@ let content = {
     "fr": "Formatrice à l'écoute et beaucoup de bienveillance et surtout professionnalisme."
   },
   "innaEntrepreneure": {
-    "fr": "Inna, entrepreneure formée en décembre 2021."
+    "fr": "Inna, entrepreneure formée en 2021."
   },
   "laMethodePedagogiqueUtilisee": {
     "fr": "La méthodologie utilisée par Sylvie m'a permis d'atteindre les objectifs que je souhaitais et j'ai vraiment apprécié tout au long de la journée les exemples soit à partir de mes situations de vente ou les siennes pour mieux illustrer et mettre en pratique. Elle est très dynamique et les échanges sont très faciles&nbsp;!"
   },
   "ericResponsableCommercial": {
-    "fr": "Eric, responsable commercial formé en janvier 2021."
+    "fr": "Eric, responsable commercial formé en 2021."
   },
   "tresBonneFormatriceQuiSaitInteresser": {
     "fr": "Très bonne formatrice qui sait intéresser son public et qui sait le faire participer … Maîtrise son sujet."
   },
   "stephaneManager": {
-    "fr": "Stéphane, manager d'une équipe formée en juin 2022."
+    "fr": "Stéphane, manager d'une équipe formée en 2022."
   },
   "monReseau": {
     "fr": "Mon réseau"
